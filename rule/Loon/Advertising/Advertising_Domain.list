@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-21 02:06:51
+# UPDATED: 2022-11-22 02:07:09
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14327
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 81476
+# DOMAIN-SUFFIX: 81496
 # IP-CIDR: 243
 # URL-REGEX: 301
-# TOTAL: 96424
+# TOTAL: 96444
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -14407,6 +14407,7 @@ zzxosget.com
 .028708717f.com
 .029mxhs.cn
 .02aa19117f396e9.com
+.02asdf.com
 .02b57bb965.com
 .02kdid.com
 .02m5j.cn
@@ -23475,7 +23476,6 @@ zzxosget.com
 .affil.top4football.com
 .affilae.com
 .affilbox.cz
-.affili.dmm.com
 .affili.net
 .affili.st
 .affiliago.it
@@ -36578,6 +36578,7 @@ zzxosget.com
 .cullligan.fr
 .culmedmaumee.com
 .culreelt.com
+.cultay.com
 .cultergoy.com
 .culttolerant.com
 .culturalfoundation.fr
@@ -38233,6 +38234,7 @@ zzxosget.com
 .dbncp.com
 .dbnghpxnbqpquh.com
 .dbojetp.cn
+.dbooksbysecon.com
 .dbouhtqfxafn.com
 .dbpbyh.americanas.com.br
 .dbregistration.cuteftp.com
@@ -44004,6 +44006,7 @@ zzxosget.com
 .featbooksterile.com
 .feathersaloof.com
 .feathr.co
+.featm.com
 .featoutline.com
 .feature-publish.net
 .feature.fm
@@ -44513,6 +44516,7 @@ zzxosget.com
 .fkjjpwzkrfdg.com
 .fkkse.com
 .fkku194.com
+.fknrtpp.cn
 .fkogs.com
 .fkondate.com
 .fkpnyinj.com
@@ -45610,6 +45614,7 @@ zzxosget.com
 .fzlnk.com
 .fznkjk.bonprix.sk
 .fznpq.com
+.fztimyc.cn
 .fztmn.top
 .fzu4.bysidecar.com
 .fzvve.cn
@@ -47874,6 +47879,7 @@ zzxosget.com
 .gttcsifqbmqjiy.com
 .gu-pix.appspot.com
 .gu.5.p2l.info
+.gu.qlogo.cn
 .guaas.com
 .guabmobil.site
 .guaded.com
@@ -50478,6 +50484,7 @@ zzxosget.com
 .iasds01.com
 .iasninancukan.lol
 .iasrv.com
+.iatf16949.pw
 .iatmaihn.xyz
 .iaudienc.com
 .iauqwe.com
@@ -53513,7 +53520,6 @@ zzxosget.com
 .jpdniuaaqt.xyz
 .jpenk.com
 .jpesfzcjob.com
-.jpg-server.com
 .jpg1.oss-cn-beijing.aliyuncs.com
 .jph.itiexue.net
 .jphfqq.cn
@@ -54690,6 +54696,7 @@ zzxosget.com
 .kjfoqi.cn
 .kjgen.com
 .kjhfy.com
+.kjhxw.xyz
 .kjhzwvq.cn
 .kjjzx.cn
 .kjkhgtwft.com
@@ -55208,6 +55215,7 @@ zzxosget.com
 .kuponyua.ru
 .kuptabachy.com
 .kuptmf.cn
+.kuqdtug.com
 .kurilo.pro
 .kurkizraka.com
 .kurlikburlik.com
@@ -55570,7 +55578,6 @@ zzxosget.com
 .landingairquality.airlite.com
 .landingpagelagi.vn
 .landingpg.com
-.landings.zcoptry.com
 .landitmounttheworld.com
 .landlordbrieflywhereupon.com
 .landlordmanoeuvre.com
@@ -58346,6 +58353,7 @@ zzxosget.com
 .macouwou.com
 .macplatform.wondershare.com
 .macpurifier.com
+.macroschauth.com
 .maculedfalls.com
 .mad-adz.com
 .mad.m.maxthon.cn
@@ -62440,6 +62448,7 @@ zzxosget.com
 .n0488.com
 .n0499.com
 .n0622.com
+.n0633.com
 .n0909.com
 .n0h8g.cn
 .n12qga4ld3zk.com
@@ -63861,6 +63870,7 @@ zzxosget.com
 .nqgsftwtdd.com
 .nqmanxtemqvlne.com
 .nqn7la7.de
+.nqnggnsc.fun
 .nqrkzcd7ixwr.com
 .nqsc567.com
 .nqslmtuswqdz.com
@@ -66474,6 +66484,7 @@ zzxosget.com
 .parth2enerocis9tsust2ricus7pidata.com
 .parthanonstatue.com
 .parthetwo.ru
+.particinepartm.com
 .particularantler.com
 .particularaudience.com
 .partieseclipse.com
@@ -69914,6 +69925,8 @@ zzxosget.com
 .pxsg.pandora.com
 .pxx.tnklrs.cn
 .pxyvb.cn
+.py.qlogo.cn
+.py2.qlogo.cn
 .pyblogs.xyz
 .pycizury.pro
 .pyerc.com
@@ -70325,7 +70338,6 @@ zzxosget.com
 .qlnomb.com
 .qload.ru
 .qloer.com
-.qlogo.cn
 .qlonglong.com
 .qloved.cn
 .qlowivucwh.com
@@ -70456,7 +70468,6 @@ zzxosget.com
 .qqx.cqqytgpt.com
 .qqxfybt.cn
 .qqzu.com
-.qrclevrfjw.com
 .qrctbsfk.com
 .qrdqbe.cn
 .qreport.qunar.com
@@ -71043,6 +71054,7 @@ zzxosget.com
 .rays-counter.com
 .razasot.cn
 .razdvabm.com
+.razingvexable.store
 .razor.arnes.si
 .razuphyju.com
 .rb.gy
@@ -72754,6 +72766,7 @@ zzxosget.com
 .rqkfhquz.cn
 .rqkgcd.xyz
 .rqmob.com
+.rqnggnsz.fun
 .rqnvci.com
 .rqpvevt.cn
 .rqtrk.eu
@@ -73044,6 +73057,7 @@ zzxosget.com
 .runwaff.com
 .ruoci666.cn
 .ruogesfshygsj.com
+.ruohe.fun
 .ruokareseptit.online
 .rup5.destinia.ru
 .ruschopi.ru
@@ -75456,6 +75470,7 @@ zzxosget.com
 .shallowblade.com
 .shallowsmile.com
 .shama5.com
+.shamelessmessengerdescription.com
 .shamelessnullneutrality.com
 .shammarfinew.com
 .shamodesha.com
@@ -85849,6 +85864,7 @@ zzxosget.com
 .trovi.com
 .trovus.co.uk
 .trowel.twitch.tv
+.troxa.xyz
 .trqhf.xyz
 .trs.cn
 .trstplse.com
@@ -88126,7 +88142,6 @@ zzxosget.com
 .veinteractive.com
 .veirregnant.club
 .velaro.com
-.velawhagru.com
 .velismedia.com
 .velmedia.net
 .velocecdn.com
@@ -88347,6 +88362,7 @@ zzxosget.com
 .vicepiter.ru
 .vichc.com
 .vichycobourg.com
+.viciasoprani.com
 .viciousdepartment.com
 .vickovules.com
 .vicodin-store.shengen.ru
@@ -93494,6 +93510,7 @@ zzxosget.com
 .y752.milfordmirror.com
 .y7o9rh.cn
 .y820.darientimes.com
+.y88m2.top
 .y8ht.xyz
 .y8hxgv9m.kobetsu.co.jp
 .y8lsyibocd.ru
@@ -94141,6 +94158,7 @@ zzxosget.com
 .yogyn.com
 .yohioo.com
 .yoiprqtykkhhfq.com
+.yoiqacw.cn
 .yoiur.com
 .yokebao.com
 .yokeeroud.com
@@ -94854,6 +94872,7 @@ zzxosget.com
 .zclick.pro
 .zcmnffq.cn
 .zcode7.me
+.zcoptry.com
 .zcp.zwame.pt
 .zcpap.cn
 .zcpmenyq.com
@@ -95278,6 +95297,7 @@ zzxosget.com
 .zizidi.com
 .zizikagle.com
 .zizpjdnvkks.com
+.zjai.xyz
 .zjbdt.com
 .zjcxyh.cn
 .zjdb2b.wang
