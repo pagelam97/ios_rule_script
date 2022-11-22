@@ -12,15 +12,15 @@ Adobe规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-03 17:10:09
+最后更新时间：2022-11-22 23:01:18
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 1  | 
 | DOMAIN-KEYWORD | 1  | 
-| DOMAIN-SUFFIX | 137  | 
-| TOTAL | 139  | 
+| DOMAIN-SUFFIX | 136  | 
+| TOTAL | 138  | 
 
 
 ## Clash 

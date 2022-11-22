@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-21 02:08:15
+# UPDATED: 2022-11-22 23:01:10
 # HOST: 440
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37629
+# HOST-SUFFIX: 37633
 # IP-CIDR: 110
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38267
+# TOTAL: 38271
 HOST,265.com,Global
 HOST,2mdn-cn.net,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -1706,6 +1706,7 @@ HOST-SUFFIX,azure-sphere.com,Global
 HOST-SUFFIX,azure-test.net,Global
 HOST-SUFFIX,azure.net,Global
 HOST-SUFFIX,azurecomcdn.net,Global
+HOST-SUFFIX,azurecomm.net,Global
 HOST-SUFFIX,azurecontainer.io,Global
 HOST-SUFFIX,azurecosmos.net,Global
 HOST-SUFFIX,azurecosmosdb.com,Global
@@ -4902,6 +4903,7 @@ HOST-SUFFIX,feedherfuckher.com,Global
 HOST-SUFFIX,femalefounderscomp.com,Global
 HOST-SUFFIX,femalestars.com,Global
 HOST-SUFFIX,femdomcc.net,Global
+HOST-SUFFIX,femscat.com,Global
 HOST-SUFFIX,feook.com,Global
 HOST-SUFFIX,ferabook.com,Global
 HOST-SUFFIX,ferronetwork.com,Global
@@ -5687,6 +5689,7 @@ HOST-SUFFIX,gpstheseries.com,Global
 HOST-SUFFIX,gputechconf.cn,Global
 HOST-SUFFIX,gputechconf.com,Global
 HOST-SUFFIX,gr-assets.com,Global
+HOST-SUFFIX,grabhentai.com,Global
 HOST-SUFFIX,grabpussy.com,Global
 HOST-SUFFIX,gradeuptube.com,Global
 HOST-SUFFIX,grafolio.com,Global
@@ -9824,6 +9827,7 @@ HOST-SUFFIX,puripuriunkomura.com,Global
 HOST-SUFFIX,pushwoosh.com,Global
 HOST-SUFFIX,pussy-pics.net,Global
 HOST-SUFFIX,pussy3dporn.com,Global
+HOST-SUFFIX,pussyboy.net,Global
 HOST-SUFFIX,pussymomsex.com,Global
 HOST-SUFFIX,pussyporntubes.com,Global
 HOST-SUFFIX,pussysexgames.com,Global

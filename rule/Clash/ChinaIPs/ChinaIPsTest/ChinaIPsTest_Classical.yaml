@@ -1,10 +1,10 @@
 # NAME: ChinaIPsTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-22 02:09:47
-# IP-CIDR: 6824
-# IP-CIDR6: 4706
-# TOTAL: 11530
+# UPDATED: 2022-11-22 23:02:41
+# IP-CIDR: 6825
+# IP-CIDR6: 4707
+# TOTAL: 11532
 payload:
   - IP-CIDR,1.0.1.0/24
   - IP-CIDR,1.0.2.0/23
@@ -738,6 +738,7 @@ payload:
   - IP-CIDR,103.187.0.0/16
   - IP-CIDR,103.188.0.0/16
   - IP-CIDR,103.189.0.0/18
+  - IP-CIDR,103.189.140.0/23
   - IP-CIDR,103.189.154.0/23
   - IP-CIDR,103.189.64.0/20
   - IP-CIDR,103.189.80.0/21
@@ -6863,6 +6864,7 @@ payload:
   - IP-CIDR6,2001:df0:27e::/48
   - IP-CIDR6,2001:df0:2e00::/48
   - IP-CIDR6,2001:df0:423::/48
+  - IP-CIDR6,2001:df0:59c0::/48
   - IP-CIDR6,2001:df0:85c0::/48
   - IP-CIDR6,2001:df0:8d40::/48
   - IP-CIDR6,2001:df0:9c0::/48
@@ -11382,8 +11384,7 @@ payload:
   - IP-CIDR6,2a0c:e640:6002::/48
   - IP-CIDR6,2a0d:2406:1c2e::/48
   - IP-CIDR6,2a0d:2587:2000::/36
-  - IP-CIDR6,2a0d:2587:3000::/40
-  - IP-CIDR6,2a0d:2587:3200::/39
+  - IP-CIDR6,2a0d:2587:3000::/38
   - IP-CIDR6,2a0d:2587:3400::/40
   - IP-CIDR6,2a0d:2587:3500::/45
   - IP-CIDR6,2a0d:2587:3508::/47
@@ -11472,6 +11473,7 @@ payload:
   - IP-CIDR6,2a0e:b107:1a31:1::/64
   - IP-CIDR6,2a0e:b107:1a32:2000::/52
   - IP-CIDR6,2a0e:b107:1a34::/48
+  - IP-CIDR6,2a0e:b107:1d8::/46
   - IP-CIDR6,2a0e:b107:272::/48
   - IP-CIDR6,2a0e:b107:580::/44
   - IP-CIDR6,2a0e:b107:bd0::/48
