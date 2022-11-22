@@ -1,29 +1,40 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-11-22 23:00:22
+! Updated: 2022-11-23 02:09:27
 ! Total: 107793
 
 
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||46186911.vtt^
 ||79zxcv.com^
 ||80055404.vtt^
 ||absurdapple.com^
+||adfox.yandex.ru^
 ||adfstat.yandex.ru^
 ||ads.yahoo.com^
 ||ads.youtube.com^
+||adsdk.yandex.ru^
+||an.yandex.ru^
 ||anxiousapples.com^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
+||apple.www.letv.com^
 ||applequan.com^
 ||applescringe.com^
 ||applesometimes.com^
+||awaps.yandex.ru^
 ||awsync.yandex.ru^
+||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
 ||blueduckredapple.com^
+||bs.yandex.ru^
 ||cloyingombres.com^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
 ||coquethamaul.com^
 ||courteous-development.com^
 ||crypta.js^
@@ -31,28 +42,38 @@
 ||d1zjr9cc2zx7cg.cloudfront.net^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
 ||fpb1.apple886.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
+||informer.yandex.ru^
 ||iwqetbj.cn^
+||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
 ||knmwrkw.xyz^
 ||log.strm.yandex.ru^
 ||marketingsolutions.yahoo.com^
+||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
+||nol.yahoo.com^
 ||offerentsentedo.com^
 ||pr.comet.yahoo.com^
 ||pterylaroak.com^
+||pv.sohu.com^
 ||rrf.fat1domain1^
 ||shackapple.com^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
 ||sullageprancy.com^
+||supportmetrics.apple.com^
+||test.vast^
 ||tfaftemail.com^
 ||theapple.site^
 ||uslycoloursewo.com^
+||visit.webhosting.yahoo.com^
 ||wondefulapplend.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||xiaohui.ink^
@@ -70628,7 +70649,6 @@
 ||tarteaucitron.ml^
 ||tartoals.net^
 ||taryarguestio.info^
-||tat.pandora.xiaomi.com^
 ||tataget.ru^
 ||tatagou.com.cn^
 ||tatahn.com^
@@ -75043,6 +75063,7 @@
 ||zzzzz4.52896368.com^
 ||519332da.rtc.youme.im^
 ||gvod.aiseejapp.atianqi.com^
+||tat.pandora.xiaomi.com^
 ||0013.cc^
 ||0024aadd.com^
 ||006a039c957c142bb.com^
@@ -95103,33 +95124,15 @@
 ||zzssywh.cn^
 ||zzyanhushi.com^
 ||zzz.pissrip.net^
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
-||adfox.yandex.ru^
 ||adl.bankofthewest.com^
-||adsdk.yandex.ru^
-||an.yandex.ru^
-||apple.www.letv.com^
-||awaps.yandex.ru^
-||bats.video.yahoo.com^
-||bs.yandex.ru^
 ||cm.nordvpn.com^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
-||ganon.yahoo.com^
 ||geo.brobible.com^
-||geo.yahoo.com^
-||informer.yandex.ru^
-||jill.fc.yahoo.com^
 ||log.kuwo.cn^
 ||matt.mercadolivre.com.br^
-||mc.yandex.ru^
 ||metrics.apple.com^
 ||midas.chase.com^
-||nol.yahoo.com^
 ||plausible.safing.io^
-||pv.sohu.com^
 ||retcode.taobao.com^
 ||securemetrics.apple.com^
 ||securemetrics.experience.apple^
@@ -95137,11 +95140,8 @@
 ||securemvt.apple.com.cn^
 ||ssp.rambler.ru^
 ||sugar.zhihu.com^
-||supportmetrics.apple.com^
 ||t.pagesix.com^
-||test.vast^
 ||u44.pnc.com^
-||visit.webhosting.yahoo.com^
 ||17gouwuba.com^
 ||186078.com^
 ||189key.com^

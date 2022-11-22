@@ -1,32 +1,43 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-22 23:00:21
+# UPDATED: 2022-11-23 02:09:26
 # DOMAIN: 10448
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 97354
 # IP-CIDR: 244
 # TOTAL: 108310
 payload:
+  - DOMAIN,3p-geo.yahoo.com
+  - DOMAIN,3p-udc.yahoo.com
   - DOMAIN,46186911.vtt
   - DOMAIN,79zxcv.com
   - DOMAIN,80055404.vtt
   - DOMAIN,absurdapple.com
+  - DOMAIN,adfox.yandex.ru
   - DOMAIN,adfstat.yandex.ru
   - DOMAIN,ads.yahoo.com
   - DOMAIN,ads.youtube.com
+  - DOMAIN,adsdk.yandex.ru
+  - DOMAIN,an.yandex.ru
   - DOMAIN,anxiousapples.com
   - DOMAIN,api.sec.miui.com
   - DOMAIN,app.ssp.yahoo.com
   - DOMAIN,appboy-images.com
+  - DOMAIN,apple.www.letv.com
   - DOMAIN,applequan.com
   - DOMAIN,applescringe.com
   - DOMAIN,applesometimes.com
+  - DOMAIN,awaps.yandex.ru
   - DOMAIN,awsync.yandex.ru
+  - DOMAIN,bats.video.yahoo.com
   - DOMAIN,beacon.search.yahoo.com
   - DOMAIN,beap-bc.yahoo.com
   - DOMAIN,blueduckredapple.com
+  - DOMAIN,bs.yandex.ru
   - DOMAIN,cloyingombres.com
+  - DOMAIN,collector2c.zhihuishu.com
+  - DOMAIN,cookiex.ngd.yahoo.com
   - DOMAIN,coquethamaul.com
   - DOMAIN,courteous-development.com
   - DOMAIN,crypta.js
@@ -34,28 +45,38 @@ payload:
   - DOMAIN,d1zjr9cc2zx7cg.cloudfront.net
   - DOMAIN,dmg-dd.oss-accelerate.aliyuncs.com
   - DOMAIN,fpb1.apple886.com
+  - DOMAIN,ganon.yahoo.com
+  - DOMAIN,geo.yahoo.com
   - DOMAIN,iadsdk.apple.com
   - DOMAIN,ib.snssdk.com
+  - DOMAIN,informer.yandex.ru
   - DOMAIN,iwqetbj.cn
+  - DOMAIN,jill.fc.yahoo.com
   - DOMAIN,jpaasne.e.shifen.com
   - DOMAIN,knmwrkw.xyz
   - DOMAIN,log.strm.yandex.ru
   - DOMAIN,marketingsolutions.yahoo.com
+  - DOMAIN,mc.yandex.ru
   - DOMAIN,mediaappletree.com
   - DOMAIN,meitaolianmeng.ltd
   - DOMAIN,mm.n3w1d0ma1n
   - DOMAIN,mo.vlpyj.xy
+  - DOMAIN,nol.yahoo.com
   - DOMAIN,offerentsentedo.com
   - DOMAIN,pr.comet.yahoo.com
   - DOMAIN,pterylaroak.com
+  - DOMAIN,pv.sohu.com
   - DOMAIN,rrf.fat1domain1
   - DOMAIN,shackapple.com
   - DOMAIN,stats.video.search.yahoo.com
   - DOMAIN,sub.powerapple.com
   - DOMAIN,sullageprancy.com
+  - DOMAIN,supportmetrics.apple.com
+  - DOMAIN,test.vast
   - DOMAIN,tfaftemail.com
   - DOMAIN,theapple.site
   - DOMAIN,uslycoloursewo.com
+  - DOMAIN,visit.webhosting.yahoo.com
   - DOMAIN,wondefulapplend.com
   - DOMAIN,wzjs1.oss-accelerate.aliyuncs.com
   - DOMAIN,xiaohui.ink
@@ -7465,7 +7486,6 @@ payload:
   - DOMAIN,tapffdskgjr.com
   - DOMAIN,targetctracker.com
   - DOMAIN,tarteaucitron.ml
-  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,tataget.ru
   - DOMAIN,tatami-solutions.com
   - DOMAIN,tauwhout.net
@@ -9708,6 +9728,7 @@ payload:
   - DOMAIN,zzxosget.com
   - DOMAIN,519332da.rtc.youme.im
   - DOMAIN,gvod.aiseejapp.atianqi.com
+  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,204.scloud.lfengmobile.com
   - DOMAIN,2mdnsys.com
   - DOMAIN,39d83s.com
@@ -10417,33 +10438,15 @@ payload:
   - DOMAIN,ymsdk.apkcar.com
   - DOMAIN,yume.com
   - DOMAIN,zen.sr
-  - DOMAIN,3p-geo.yahoo.com
-  - DOMAIN,3p-udc.yahoo.com
   - DOMAIN,ad.kddi-fs.com
-  - DOMAIN,adfox.yandex.ru
   - DOMAIN,adl.bankofthewest.com
-  - DOMAIN,adsdk.yandex.ru
-  - DOMAIN,an.yandex.ru
-  - DOMAIN,apple.www.letv.com
-  - DOMAIN,awaps.yandex.ru
-  - DOMAIN,bats.video.yahoo.com
-  - DOMAIN,bs.yandex.ru
   - DOMAIN,cm.nordvpn.com
-  - DOMAIN,collector2c.zhihuishu.com
-  - DOMAIN,cookiex.ngd.yahoo.com
-  - DOMAIN,ganon.yahoo.com
   - DOMAIN,geo.brobible.com
-  - DOMAIN,geo.yahoo.com
-  - DOMAIN,informer.yandex.ru
-  - DOMAIN,jill.fc.yahoo.com
   - DOMAIN,log.kuwo.cn
   - DOMAIN,matt.mercadolivre.com.br
-  - DOMAIN,mc.yandex.ru
   - DOMAIN,metrics.apple.com
   - DOMAIN,midas.chase.com
-  - DOMAIN,nol.yahoo.com
   - DOMAIN,plausible.safing.io
-  - DOMAIN,pv.sohu.com
   - DOMAIN,retcode.taobao.com
   - DOMAIN,securemetrics.apple.com
   - DOMAIN,securemetrics.experience.apple
@@ -10451,11 +10454,8 @@ payload:
   - DOMAIN,securemvt.apple.com.cn
   - DOMAIN,ssp.rambler.ru
   - DOMAIN,sugar.zhihu.com
-  - DOMAIN,supportmetrics.apple.com
   - DOMAIN,t.pagesix.com
-  - DOMAIN,test.vast
   - DOMAIN,u44.pnc.com
-  - DOMAIN,visit.webhosting.yahoo.com
   - DOMAIN-SUFFIX,0-000.store
   - DOMAIN-SUFFIX,0.code.cotsta.ru
   - DOMAIN-SUFFIX,0001.best
