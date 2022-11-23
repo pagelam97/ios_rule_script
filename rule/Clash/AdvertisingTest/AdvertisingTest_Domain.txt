@@ -1,23 +1,27 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-23 02:09:27
-# DOMAIN: 10448
+# UPDATED: 2022-11-24 02:07:29
+# DOMAIN: 10449
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 97354
+# DOMAIN-SUFFIX: 97405
 # IP-CIDR: 244
-# TOTAL: 108310
+# TOTAL: 108362
+065yuyu.com
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
-79zxcv.com
 80055404.vtt
 absurdapple.com
 adfox.yandex.ru
 adfstat.yandex.ru
+adnitro.pro
+adp.vnecdn.net
+ads.dygdigital.com
 ads.yahoo.com
 ads.youtube.com
 adsdk.yandex.ru
+adservob.com
 an.yandex.ru
 anxiousapples.com
 api.sec.miui.com
@@ -32,27 +36,26 @@ awsync.yandex.ru
 bats.video.yahoo.com
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+bfsqtsn.cn
 blueduckredapple.com
 bs.yandex.ru
-cloyingombres.com
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
-coquethamaul.com
-courteous-development.com
 crypta.js
 d1stxfv94hrhia.cloudfront
-d1zjr9cc2zx7cg.cloudfront.net
 dmg-dd.oss-accelerate.aliyuncs.com
 fpb1.apple886.com
 ganon.yahoo.com
 geo.yahoo.com
+gzzb.xyz
 iadsdk.apple.com
 ib.snssdk.com
+ifautzg.cn
 informer.yandex.ru
-iwqetbj.cn
+j41.xyz
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
-knmwrkw.xyz
+lksdj.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
 mc.yandex.ru
@@ -61,26 +64,24 @@ meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
 nol.yahoo.com
-offerentsentedo.com
 pr.comet.yahoo.com
-pterylaroak.com
+ptijx.xyz
 pv.sohu.com
+qz15.top
 rrf.fat1domain1
+sganilglb.cyou
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-sullageprancy.com
 supportmetrics.apple.com
 test.vast
-tfaftemail.com
 theapple.site
-uslycoloursewo.com
+tian-ting.ink
 visit.webhosting.yahoo.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
-xiaohui.ink
+xp.apple.com
 youtube.local
-zzngisyq.xyz
 ad.xy2013.cn
 ads.play.cbsi.video
 ads.reembed.com
@@ -7485,6 +7486,7 @@ taozgpkjzpdtgr.com
 tapffdskgjr.com
 targetctracker.com
 tarteaucitron.ml
+tat.pandora.xiaomi.com
 tataget.ru
 tatami-solutions.com
 tauwhout.net
@@ -9727,7 +9729,6 @@ zzxlukodff.com
 zzxosget.com
 519332da.rtc.youme.im
 gvod.aiseejapp.atianqi.com
-tat.pandora.xiaomi.com
 204.scloud.lfengmobile.com
 2mdnsys.com
 39d83s.com
@@ -11863,6 +11864,7 @@ u44.pnc.com
 .79lucky.com
 .79sodo.com
 .79xmz3lmss.com
+.79zxcv.com
 .7a6421ee67fdb0f660.com
 .7a6a4e9e27.com
 .7a864ece03.com
@@ -12459,6 +12461,7 @@ u44.pnc.com
 .ab.rejushe.com
 .ab.servogram.io
 .ab.tweakers.nl
+.ab08706bb4.com
 .ab1n.net
 .ab3yssin4i6an.com
 .ab470c8dd5.com
@@ -18381,6 +18384,7 @@ u44.pnc.com
 .awwlrd.cn
 .awwoeoevxnvt.com
 .awwvbwym.xyz
+.awxczujifw.com
 .awxoddnhl.xyz
 .awzbijw.com
 .ax.xrea.com
@@ -23332,6 +23336,7 @@ u44.pnc.com
 .cloudweekly.vip
 .cloutbeliefphantom.com
 .clownsong.com
+.cloyingombres.com
 .clozetempts.com
 .clrpdhptoddatj49.pro
 .clrstm.com
@@ -24054,6 +24059,7 @@ u44.pnc.com
 .copysign.link
 .coqcjbk.cn
 .coqnaoubj.xyz
+.coquethamaul.com
 .coquine-dispo.com
 .cor8ni3shwerex.com
 .corba.adtech.fr
@@ -24318,6 +24324,7 @@ u44.pnc.com
 .couptoug.net
 .courierregistered.com
 .couriersticky.com
+.courteous-development.com
 .courthouseworseflaw.com
 .courtlyuns.com
 .coveredbetting.com
@@ -25154,6 +25161,7 @@ u44.pnc.com
 .d1sowp9ayjro6j.cloudfront.net
 .d1stxfv94hrhia.cloudfront
 .d1t4ekjh9ps4ob.cloudfront.net
+.d1t671k72j9pxc.cloudfront.net
 .d1t8it0ywk3xu.cloudfront.net
 .d1t9uctetvi0tu.cloudfront.net
 .d1tpwjufge3qqa.cloudfront.net
@@ -25182,6 +25190,7 @@ u44.pnc.com
 .d1z2jf7jlzjs58.cloudfront.net
 .d1z9vm58yath60.cloudfront.net
 .d1zfhhmz4n1jvq.cloudfront.net
+.d1zjr9cc2zx7cg.cloudfront.net
 .d1zw85ny9dtn37.cloudfront.net
 .d2-apps.net
 .d204slsrhoah2f.cloudfront.net
@@ -25900,6 +25909,10 @@ u44.pnc.com
 .db-z.fr
 .db52cc91beabf7e8.com
 .dba9ytko5p72r.cloudfront.net
+.dbankcloud.asia
+.dbankcloud.cn
+.dbankcloud.eu
+.dbankcloud.ru
 .dbaujmgikas.com
 .dbbsrv.com
 .dbcache.fun
@@ -25941,6 +25954,7 @@ u44.pnc.com
 .dccc.cloud
 .dcceb78f4a.com
 .dce0k0.cn
+.dcentatorsstrial.com
 .dcesxdvixnrwlu.com
 .dcf0698a21.com
 .dcfh7vk.cn
@@ -26617,6 +26631,7 @@ u44.pnc.com
 .diqkldlh.com
 .dir.opank.com
 .dircont3.com
+.direbitterly.com
 .direcionando.baixedetudo.net
 .direct-collect.dy-api.com
 .direct-collect.dy-api.eu
@@ -27707,6 +27722,7 @@ u44.pnc.com
 .e13085e58935e6.com
 .e1f95201b19594.site
 .e21b1642db801b2a.com
+.e27fe9334e.com
 .e2a1c91d8b.com
 .e2e.mashable.com
 .e2e76d25ce.com
@@ -28420,6 +28436,7 @@ u44.pnc.com
 .endlessapparatus.com
 .endomespettle.com
 .endorsebilateralpancreas.com
+.endream.buzz
 .endurablecrayon.com
 .enduredslayers.com
 .enebut.com
@@ -29293,6 +29310,7 @@ u44.pnc.com
 .f5080f5cee5a00.com
 .f5f84f4d83.com
 .f5v1x3kgv5.com
+.f63f3176ad.com
 .f688add167.com
 .f6c456a438.com
 .f6d56854f2.com
@@ -29765,6 +29783,7 @@ u44.pnc.com
 .fervortracer.com
 .fessoovy.com
 .festicolor.fr
+.festivalexcitinghypocrisy.com
 .festivefranchisetorrent.com
 .festtube.com
 .festusthedrag.com
@@ -30637,6 +30656,7 @@ u44.pnc.com
 .frothadditions.com
 .frowzyvibex.com
 .frpiksdeygy.com
+.frrdlass.com
 .frrtrr.banggirls.ru
 .frstlead.com
 .frsuli.com
@@ -31643,6 +31663,7 @@ u44.pnc.com
 .gkijlmbgf.xyz
 .gkiyvbk.cn
 .gkksi.com
+.gkmohklyjyh.com
 .gkngokwjmykp.xyz
 .gkofzfi.cn
 .gkpohvff.com
@@ -34503,6 +34524,7 @@ u44.pnc.com
 .iicsxxkdcy.com
 .iid-network.jp
 .iidfxj.com
+.iifvcfwiqi.com
 .iigmlx.com
 .iihpwzo.cn
 .iiiuuu.top
@@ -34538,6 +34560,7 @@ u44.pnc.com
 .ikiif.com
 .ikinbugen.com
 .ikjnbvf.de
+.ikjnwd.xyz
 .ikjocef.cn
 .iklan-laris.com
 .iklanads.com
@@ -35661,6 +35684,7 @@ u44.pnc.com
 .iwin.club
 .iwkexdab.com
 .iwofkvupfz.com
+.iwqetbj.cn
 .iwqzrm.com
 .iwrzdwi.cn
 .iwstats.com
@@ -35897,6 +35921,7 @@ u44.pnc.com
 .jeckoort.com
 .jecoglegru.com
 .jecqhvrclrxe.com
+.jecromaha.info
 .jeculdfores.ru
 .jecumapu.com
 .jeehathu.com
@@ -37184,6 +37209,7 @@ u44.pnc.com
 .klsynmld.fun
 .kltnnxb.cn
 .kltxw.xyz
+.klxwe.xyz
 .klyhw.xyz
 .klyunker.ru
 .km-sea.net
@@ -37228,6 +37254,7 @@ u44.pnc.com
 .knkqjmjyxzev.info
 .knkyeterla.cc
 .knmnamr.cn
+.knmwrkw.xyz
 .knockerpokeys.space
 .knockoutantipathy.com
 .knocus.com
@@ -37394,6 +37421,7 @@ u44.pnc.com
 .krisydark.com
 .kriteriatika.ru
 .kriwrsvcbo.com
+.krjxhvyyzp.com
 .krkcryk.cn
 .krkursist.com
 .krmal.com
@@ -39386,6 +39414,7 @@ u44.pnc.com
 .luoshihua.club
 .luotuoma.center
 .luotuoma.cool
+.luotuoma.xin
 .luracancamus.com
 .lurefuleuryon.com
 .lurgaimt.net
@@ -42420,6 +42449,7 @@ u44.pnc.com
 .neemu.com
 .neesemicah.com
 .neezausu.net
+.nefies.com
 .nefijapu.com
 .negaic.com
 .negationsome.com
@@ -43807,6 +43837,7 @@ u44.pnc.com
 .offdeck.telkomsel.com
 .offer-go.com
 .offer.camp
+.offerentsentedo.com
 .offerforge.com
 .offerforge.net
 .offergate.pro
@@ -44707,6 +44738,7 @@ u44.pnc.com
 .ouyhh.xyz
 .ouzekomtok.com
 .ouzhijie.top
+.ovalfunny.com
 .ovdimin.buzz
 .ovdolnb.cn
 .ovemen.com
@@ -47155,6 +47187,7 @@ u44.pnc.com
 .psaiptoh.net
 .psairees.net
 .psairtoo.com
+.psaisegn.net
 .psaizeemit.com
 .psalisverbate.com
 .psaltauw.net
@@ -47271,6 +47304,7 @@ u44.pnc.com
 .ptengine.com
 .ptengine.jp
 .ptenwy.cn
+.pterylaroak.com
 .ptesigliglu.com
 .ptetchie.net
 .ptewarin.net
@@ -47815,6 +47849,7 @@ u44.pnc.com
 .qfcdgy.cn
 .qfdn3gyfbs.com
 .qfgall.cn
+.qfgfpi.cn
 .qfhtwihrle.xyz
 .qfhzki.com
 .qfjherc.com
@@ -49040,6 +49075,7 @@ u44.pnc.com
 .rentracks.jp
 .renxingganwu.com
 .renxinghuan.com
+.renzw.xyz
 .reofamily.cn
 .reojou.com
 .reople.co.kr
@@ -49346,6 +49382,7 @@ u44.pnc.com
 .rgbsl.com
 .rgentssep.xyz
 .rgfftupf.com
+.rgfqcly.cn
 .rggtt.top
 .rggtysyp.com
 .rgjeow3.com
@@ -49838,6 +49875,7 @@ u44.pnc.com
 .rqgigsrdnomuhmq.com
 .rqhere.com
 .rqhere2.com
+.rqjpeyfzohgwd.com
 .rqkfhquz.cn
 .rqkgcd.xyz
 .rqmob.com
@@ -52976,6 +53014,7 @@ u44.pnc.com
 .stat.download.xunlei.com
 .stat.duokanbox.com
 .stat.dyna.ultraweb.hu
+.stat.gspaceteam.com
 .stat.headlines.pw
 .stat.i3.dmm.com
 .stat.kika-backend.com
@@ -53646,6 +53685,7 @@ u44.pnc.com
 .suliglsr.space
 .sulkydozeperceive.com
 .sulkypowerheads.com
+.sullageprancy.com
 .sullensregimes.com
 .sultingcoem.com
 .sulvo.co
@@ -54741,6 +54781,7 @@ u44.pnc.com
 .terttalkinhitin.pro
 .terytelevel.xyz
 .teslaamg.obs.cn-east-3.myhuaweicloud.com
+.tesswithoughcle.com
 .test-studio.ru
 .test.besstidniki.ru
 .test.ishvara-yoga.com
@@ -54797,6 +54838,7 @@ u44.pnc.com
 .tf2www.com
 .tf88luck.com
 .tf88v.com
+.tfaftemail.com
 .tfag.de
 .tfaln.com
 .tfdftbasnm.com
@@ -56487,6 +56529,7 @@ u44.pnc.com
 .ts2.hockey-talks.com
 .tsai.ltd
 .tsardagger.com
+.tsarkinds.com
 .tsatwushcyiihh.com
 .tsbluebox.com
 .tsbm.ch
@@ -56916,6 +56959,7 @@ u44.pnc.com
 .ubjpqgpiacql.com
 .ubkcrmxth.com
 .ubktmlk.cn
+.ubln.top
 .ublrfs.com
 .ubmdkecltnv.xyz
 .uboungera.com
@@ -57050,6 +57094,7 @@ u44.pnc.com
 .uhzjdfpccxtne.com
 .ui.ppjol.com
 .uib.ff.avast.com
+.uibqwl.xyz
 .uibtxv.cn
 .uidndas.cn
 .uieoogjarimcey.com
@@ -57121,6 +57166,7 @@ u44.pnc.com
 .ulourgaz.net
 .ulqihfr.cn
 .ulqlckpdpadfpo.com
+.ulried.com
 .ulsynmlt.fun
 .ultimateclixx.com
 .ultimatecounter.com
@@ -57638,6 +57684,7 @@ u44.pnc.com
 .usinesmycete.xyz
 .usingswhoring.com
 .uslioert.com
+.uslycoloursewo.com
 .usmhimw.cn
 .usnczrq.cn
 .usnignst.xyz
@@ -57870,6 +57917,7 @@ u44.pnc.com
 .vakhty.com
 .valadygators.com
 .valencevinyls.life
+.valerainingexplain.com
 .valerie.forbes.com
 .valetisolate.com
 .valid-dad.com
@@ -58959,6 +59007,7 @@ u44.pnc.com
 .vymhnxjyj.com
 .vyocqq.com
 .vyps.fun
+.vyrgapgedwbqpa.com
 .vyrhxfi.cn
 .vytand.com
 .vyvxx.com
@@ -59131,6 +59180,7 @@ u44.pnc.com
 .wapsagnu.net
 .wapserepti.pro
 .wapsisod.net
+.wapsmne.cyou
 .wapstart.ru
 .waptrick.com
 .waqool.com
@@ -59766,6 +59816,7 @@ u44.pnc.com
 .whoutsog.net
 .whowhipi.net
 .whpfl.cn
+.whrc.xyz
 .whs82908.com
 .whsdmiaxdujo.com
 .whsepelmrnz.com
@@ -61229,6 +61280,7 @@ u44.pnc.com
 .xiaodongjun.com
 .xiaodongrui.com
 .xiaofashi.top
+.xiaohui.ink
 .xiaokenan.net
 .xiaoli.video
 .xiaomaxitong.co
@@ -63194,6 +63246,7 @@ u44.pnc.com
 .zvhgxssgec.com
 .zvkoukk.cn
 .zvkytbjimbhk.com
+.zvxwvny.cn
 .zw2b9.cn
 .zwaar.org
 .zwadakesq.cyou
@@ -63277,6 +63330,7 @@ u44.pnc.com
 .zzhengre.com
 .zzkangyuan.cn
 .zzkj.biz
+.zzngisyq.xyz
 .zzpwwbf.cn
 .zzpzero.com
 .zztuu.cn
@@ -81792,7 +81846,6 @@ u44.pnc.com
 .data.xici.net
 .dataapi.ktplay.com
 .databerries.com
-.datacollector-dra.dt.dbankcloud.cn
 .datadoghq-browser-agent.com
 .datadome.co
 .dataflow.biliapi.com
@@ -83783,6 +83836,7 @@ u44.pnc.com
 .goat.codeofar.ms
 .goat.studiobruikbaar.nl
 .goat.vrds.app
+.goblocker.xyz
 .gocarrot.com
 .gocertiport.pearsonvue.com
 .goemotify.com
@@ -84479,7 +84533,6 @@ u44.pnc.com
 .ijeu.pdkzyy.cn
 .ijjiii.is
 .ikhpcl.watch.de
-.ikjnwd.xyz
 .ikuailian.com
 .ikxcep.xyz
 .ilb.pns.kt.com
@@ -85381,7 +85434,6 @@ u44.pnc.com
 .klfutm.missamara.com.au
 .klfxq.kieedi.foosheng.com
 .klqlmg.mitchellandness.com
-.klxwe.xyz
 .kmaa45.com
 .kmgfjc.cn
 .kmijmx.bobshop.com
@@ -85622,6 +85674,7 @@ u44.pnc.com
 .lfannaifu.cn
 .lfjack.com
 .lfxdqs.mamasandpapas.ae
+.lgjxw.xyz
 .lgpdy.com
 .lhewdj.fnac.pt
 .liangpinge.com
@@ -88960,6 +89013,7 @@ u44.pnc.com
 .qal0.destinia.gr
 .qapm.baidu.com
 .qappcenterv6.3g.qq.com
+.qapsmny.cyou
 .qaz.wdou168.com
 .qb.falsenalice.com
 .qbdgame.com
@@ -88978,7 +89032,6 @@ u44.pnc.com
 .qeryz.com
 .qetup12.com
 .qezfer.motelamiio.com
-.qfgfpi.cn
 .qfihdr.com
 .qfy.innotechx.com
 .qgbnjd.coches.net
@@ -93351,7 +93404,6 @@ u44.pnc.com
 .uhygtf1.com
 .uhytajrtpo-a.akamaihd.net
 .ui.videojav.com
-.uibqwl.xyz
 .uil.cbs.baidu.com
 .uilwmi.coop.nl
 .uim.tifbs.net
@@ -93373,7 +93425,6 @@ u44.pnc.com
 .ultimate-captcha.com
 .ultra-cdn.pl
 .ultranote.org
-.um.sullageprancy.com
 .um0.cn
 .um1.cn
 .umapi.cn
@@ -93842,7 +93893,6 @@ u44.pnc.com
 .wap.x4399.com
 .wap.yb3.cc
 .wapforum.org
-.wapsmne.cyou
 .wapuad.com
 .warbler.nycmode.com
 .warbler.todoscout.com
@@ -93950,6 +94000,7 @@ u44.pnc.com
 .weighted.com.akadns.net
 .weilang.site
 .weiledi.com
+.weilin.xin
 .weiter.verifizierte-angebote.com
 .weiweitop.top
 .weixinxx.com
@@ -94001,9 +94052,9 @@ u44.pnc.com
 .whitesaas.com
 .who.nie.easebar.com
 .whoclick.cn
-.whrc.xyz
 .whughesh.com
 .whwdzgykybnfg.com
+.widelygeneralizereptile.com
 .widget-cdn.rpxnow.com
 .widget-static.com
 .widget.adviceiq.com
@@ -94395,6 +94446,7 @@ u44.pnc.com
 .xcvf.info
 .xcycm.com
 .xdadang.com
+.xdaigua.cn
 .xdaoxa.footasylum.com
 .xdsblm.ullapopken.de
 .xdwan.com
@@ -94474,6 +94526,7 @@ u44.pnc.com
 .xlbvvo.luisaviaroma.com
 .xlcun.com
 .xlhdtn.hugendubel.de
+.xlhnkpw.cn
 .xlingdi.com
 .xljqqe.hsn.com
 .xlog.jd.com
@@ -95120,7 +95173,6 @@ u44.pnc.com
 .zuciwang.com
 .zvlxlu.emsan.com.tr
 .zvsuhljiha-a.akamaihd.net
-.zvxwvny.cn
 .zwiucp.ohmynews.com
 .zwmunz.com
 .zwnqki.dxracer.com.br
