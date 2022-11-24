@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-24 02:07:54
+# UPDATED: 2022-11-25 02:08:16
 # DOMAIN: 175
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37302
+# DOMAIN-SUFFIX: 37311
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37631
+# TOTAL: 37640
 payload:
   - 'abematv.akamaized.net'
   - 'amp.akamaized.net'
@@ -461,6 +461,7 @@ payload:
   - '+.abcheadphones.com'
   - '+.abclider.com'
   - '+.abeatsbydrdre.com'
+  - '+.abema-tv.com'
   - '+.abema.io'
   - '+.abema.tv'
   - '+.aboluowang.com'
@@ -7333,6 +7334,7 @@ payload:
   - '+.llnw.com'
   - '+.llnw.net'
   - '+.llnwi.net'
+  - '+.lmmbtc.com'
   - '+.lnstagram-help.com'
   - '+.loanbuilder.com'
   - '+.localbitcoinschain.com'
@@ -7686,6 +7688,7 @@ payload:
   - '+.mhshosting.com'
   - '+.mi9cdn.com'
   - '+.miamifintechfestival.com'
+  - '+.miaomwu.com'
   - '+.mickey.tv'
   - '+.mickybells.com'
   - '+.microbit.org'
@@ -10540,6 +10543,7 @@ payload:
   - '+.shequ8.cam'
   - '+.shesfreaky.com'
   - '+.sheshaft.com'
+  - '+.shianyuanfang.com'
   - '+.shields.io'
   - '+.shikorina.net'
   - '+.shinhangmc.com'
@@ -10832,6 +10836,7 @@ payload:
   - '+.ssplive.pw'
   - '+.ssrcloud.org'
   - '+.ssrpass.pw'
+  - '+.sssins.com'
   - '+.ssx3.com'
   - '+.st.dl.bscstorage.net'
   - '+.st.dl.eccdnx.com'
@@ -11682,6 +11687,7 @@ payload:
   - '+.uwpcommunitytoolkit.com'
   - '+.uxxxporn.com'
   - '+.v-has.com'
+  - '+.v2ph.com'
   - '+.v2ray.cool'
   - '+.v7hds.com'
   - '+.v8.dev'
@@ -12910,6 +12916,7 @@ payload:
   - '+.youtubemp3.scriptscraft.com'
   - '+.youtubepp.com'
   - '+.youtubetool.com'
+  - '+.youwuss.com'
   - '+.youyoutube.com'
   - '+.youyu.services'
   - '+.ysporn.com'
@@ -12962,6 +12969,7 @@ payload:
   - '+.zettai-ero.com'
   - '+.zh.videosfilmsporno.com'
   - '+.zh99.net'
+  - '+.zhaimankan.com'
   - '+.zhainanjidi.xyz'
   - '+.zhainanjidid.top'
   - '+.zind.cloud'
@@ -13013,6 +13021,7 @@ payload:
   - '+.zopim.com'
   - '+.zqqpwz.com'
   - '+.zsh.org'
+  - '+.zteman.net'
   - '+.zuckerberg.com'
   - '+.zuckerberg.net'
   - '+.zwtvusa.com'

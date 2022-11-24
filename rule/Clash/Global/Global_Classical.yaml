@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-24 02:07:54
+# UPDATED: 2022-11-25 02:08:16
 # DOMAIN: 175
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37302
+# DOMAIN-SUFFIX: 37311
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37631
+# TOTAL: 37640
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -461,6 +461,7 @@ payload:
   - DOMAIN-SUFFIX,abcheadphones.com
   - DOMAIN-SUFFIX,abclider.com
   - DOMAIN-SUFFIX,abeatsbydrdre.com
+  - DOMAIN-SUFFIX,abema-tv.com
   - DOMAIN-SUFFIX,abema.io
   - DOMAIN-SUFFIX,abema.tv
   - DOMAIN-SUFFIX,aboluowang.com
@@ -7333,6 +7334,7 @@ payload:
   - DOMAIN-SUFFIX,llnw.com
   - DOMAIN-SUFFIX,llnw.net
   - DOMAIN-SUFFIX,llnwi.net
+  - DOMAIN-SUFFIX,lmmbtc.com
   - DOMAIN-SUFFIX,lnstagram-help.com
   - DOMAIN-SUFFIX,loanbuilder.com
   - DOMAIN-SUFFIX,localbitcoinschain.com
@@ -7686,6 +7688,7 @@ payload:
   - DOMAIN-SUFFIX,mhshosting.com
   - DOMAIN-SUFFIX,mi9cdn.com
   - DOMAIN-SUFFIX,miamifintechfestival.com
+  - DOMAIN-SUFFIX,miaomwu.com
   - DOMAIN-SUFFIX,mickey.tv
   - DOMAIN-SUFFIX,mickybells.com
   - DOMAIN-SUFFIX,microbit.org
@@ -10540,6 +10543,7 @@ payload:
   - DOMAIN-SUFFIX,shequ8.cam
   - DOMAIN-SUFFIX,shesfreaky.com
   - DOMAIN-SUFFIX,sheshaft.com
+  - DOMAIN-SUFFIX,shianyuanfang.com
   - DOMAIN-SUFFIX,shields.io
   - DOMAIN-SUFFIX,shikorina.net
   - DOMAIN-SUFFIX,shinhangmc.com
@@ -10832,6 +10836,7 @@ payload:
   - DOMAIN-SUFFIX,ssplive.pw
   - DOMAIN-SUFFIX,ssrcloud.org
   - DOMAIN-SUFFIX,ssrpass.pw
+  - DOMAIN-SUFFIX,sssins.com
   - DOMAIN-SUFFIX,ssx3.com
   - DOMAIN-SUFFIX,st.dl.bscstorage.net
   - DOMAIN-SUFFIX,st.dl.eccdnx.com
@@ -11682,6 +11687,7 @@ payload:
   - DOMAIN-SUFFIX,uwpcommunitytoolkit.com
   - DOMAIN-SUFFIX,uxxxporn.com
   - DOMAIN-SUFFIX,v-has.com
+  - DOMAIN-SUFFIX,v2ph.com
   - DOMAIN-SUFFIX,v2ray.cool
   - DOMAIN-SUFFIX,v7hds.com
   - DOMAIN-SUFFIX,v8.dev
@@ -12910,6 +12916,7 @@ payload:
   - DOMAIN-SUFFIX,youtubemp3.scriptscraft.com
   - DOMAIN-SUFFIX,youtubepp.com
   - DOMAIN-SUFFIX,youtubetool.com
+  - DOMAIN-SUFFIX,youwuss.com
   - DOMAIN-SUFFIX,youyoutube.com
   - DOMAIN-SUFFIX,youyu.services
   - DOMAIN-SUFFIX,ysporn.com
@@ -12962,6 +12969,7 @@ payload:
   - DOMAIN-SUFFIX,zettai-ero.com
   - DOMAIN-SUFFIX,zh.videosfilmsporno.com
   - DOMAIN-SUFFIX,zh99.net
+  - DOMAIN-SUFFIX,zhaimankan.com
   - DOMAIN-SUFFIX,zhainanjidi.xyz
   - DOMAIN-SUFFIX,zhainanjidid.top
   - DOMAIN-SUFFIX,zind.cloud
@@ -13013,6 +13021,7 @@ payload:
   - DOMAIN-SUFFIX,zopim.com
   - DOMAIN-SUFFIX,zqqpwz.com
   - DOMAIN-SUFFIX,zsh.org
+  - DOMAIN-SUFFIX,zteman.net
   - DOMAIN-SUFFIX,zuckerberg.com
   - DOMAIN-SUFFIX,zuckerberg.net
   - DOMAIN-SUFFIX,zwtvusa.com

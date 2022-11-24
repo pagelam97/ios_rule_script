@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-24 02:08:29
+# UPDATED: 2022-11-25 02:08:50
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66813
+# DOMAIN-SUFFIX: 66812
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 67014
+# TOTAL: 67013
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -4533,7 +4533,6 @@ xn--flw351e.com
 .02kdid.com
 .02lu.com
 .02o.pw
-.02shu.cc
 .02shu.com
 .02wan.com
 .02wq.com
@@ -9159,7 +9158,6 @@ xn--flw351e.com
 .607777.cc
 .6080d.com
 .6080j.com
-.6080k.com
 .6090b.com
 .609999.xyz
 .60dj.com
@@ -9442,6 +9440,7 @@ xn--flw351e.com
 .69cy.net
 .69hr.com
 .69jianzhi.com
+.69mok.com
 .69ps.com
 .69shu.org
 .69xiu.com
@@ -18828,7 +18827,6 @@ xn--flw351e.com
 .clyric.com
 .clz.me
 .clzqlhj.com
-.clzycld.com
 .cm-analysis.com
 .cm-iov.com
 .cm-worklink.com
@@ -26262,6 +26260,7 @@ xn--flw351e.com
 .gameiy.com
 .gamejym.com
 .gamekee.com
+.gamekuaishou.com
 .gameley.com
 .gameloveman.com
 .gamemale.com
@@ -36621,6 +36620,7 @@ xn--flw351e.com
 .kexianggroup.com
 .kexin001.com
 .kexing100.com
+.kexingchem.com
 .kexinguoji.com
 .kexinhaoma.org
 .kexinyun.org
@@ -45162,7 +45162,6 @@ xn--flw351e.com
 .pingxonline.com
 .pingxuan123.com
 .pingyin.cc
-.pingyou.cc
 .pinhaohuo.com
 .pinhuba.com
 .pinhui001.com
@@ -47306,6 +47305,7 @@ xn--flw351e.com
 .qyham.com
 .qyi.io
 .qyiliao.com
+.qyjks.com
 .qyjpzx.com
 .qykh2009.com
 .qyle1.com
@@ -53022,7 +53022,6 @@ xn--flw351e.com
 .tc199.net
 .tc9011.com
 .tc930.com
-.tccaijing.com
 .tccqb.com
 .tccxfw.com
 .tcdai.com
@@ -58953,7 +58952,6 @@ xn--flw351e.com
 .wy213.com
 .wyaoqing.com
 .wybbao.com
-.wybg666.com
 .wybgs.com
 .wycanyin.com
 .wycntv.com
@@ -59301,6 +59299,7 @@ xn--flw351e.com
 .xdh0808.com
 .xdhbs.com
 .xdhcn.com
+.xdiarys.com
 .xdj-sz.com
 .xdja.com
 .xdjc.org

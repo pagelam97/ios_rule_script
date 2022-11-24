@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-24 02:08:29
+# UPDATED: 2022-11-25 02:08:50
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66813
+# DOMAIN-SUFFIX: 66812
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 67014
+# TOTAL: 67013
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdp.cloud.unity3d.com
@@ -4533,7 +4533,6 @@ DOMAIN-SUFFIX,02edu.com
 DOMAIN-SUFFIX,02kdid.com
 DOMAIN-SUFFIX,02lu.com
 DOMAIN-SUFFIX,02o.pw
-DOMAIN-SUFFIX,02shu.cc
 DOMAIN-SUFFIX,02shu.com
 DOMAIN-SUFFIX,02wan.com
 DOMAIN-SUFFIX,02wq.com
@@ -9159,7 +9158,6 @@ DOMAIN-SUFFIX,6071.com
 DOMAIN-SUFFIX,607777.cc
 DOMAIN-SUFFIX,6080d.com
 DOMAIN-SUFFIX,6080j.com
-DOMAIN-SUFFIX,6080k.com
 DOMAIN-SUFFIX,6090b.com
 DOMAIN-SUFFIX,609999.xyz
 DOMAIN-SUFFIX,60dj.com
@@ -9442,6 +9440,7 @@ DOMAIN-SUFFIX,699xs.com
 DOMAIN-SUFFIX,69cy.net
 DOMAIN-SUFFIX,69hr.com
 DOMAIN-SUFFIX,69jianzhi.com
+DOMAIN-SUFFIX,69mok.com
 DOMAIN-SUFFIX,69ps.com
 DOMAIN-SUFFIX,69shu.org
 DOMAIN-SUFFIX,69xiu.com
@@ -18828,7 +18827,6 @@ DOMAIN-SUFFIX,clx360.com
 DOMAIN-SUFFIX,clyric.com
 DOMAIN-SUFFIX,clz.me
 DOMAIN-SUFFIX,clzqlhj.com
-DOMAIN-SUFFIX,clzycld.com
 DOMAIN-SUFFIX,cm-analysis.com
 DOMAIN-SUFFIX,cm-iov.com
 DOMAIN-SUFFIX,cm-worklink.com
@@ -26262,6 +26260,7 @@ DOMAIN-SUFFIX,gameinns.com
 DOMAIN-SUFFIX,gameiy.com
 DOMAIN-SUFFIX,gamejym.com
 DOMAIN-SUFFIX,gamekee.com
+DOMAIN-SUFFIX,gamekuaishou.com
 DOMAIN-SUFFIX,gameley.com
 DOMAIN-SUFFIX,gameloveman.com
 DOMAIN-SUFFIX,gamemale.com
@@ -36621,6 +36620,7 @@ DOMAIN-SUFFIX,kevinlq.com
 DOMAIN-SUFFIX,kexianggroup.com
 DOMAIN-SUFFIX,kexin001.com
 DOMAIN-SUFFIX,kexing100.com
+DOMAIN-SUFFIX,kexingchem.com
 DOMAIN-SUFFIX,kexinguoji.com
 DOMAIN-SUFFIX,kexinhaoma.org
 DOMAIN-SUFFIX,kexinyun.org
@@ -45162,7 +45162,6 @@ DOMAIN-SUFFIX,pingxiaow.com
 DOMAIN-SUFFIX,pingxonline.com
 DOMAIN-SUFFIX,pingxuan123.com
 DOMAIN-SUFFIX,pingyin.cc
-DOMAIN-SUFFIX,pingyou.cc
 DOMAIN-SUFFIX,pinhaohuo.com
 DOMAIN-SUFFIX,pinhuba.com
 DOMAIN-SUFFIX,pinhui001.com
@@ -47306,6 +47305,7 @@ DOMAIN-SUFFIX,qygzbxpt.com
 DOMAIN-SUFFIX,qyham.com
 DOMAIN-SUFFIX,qyi.io
 DOMAIN-SUFFIX,qyiliao.com
+DOMAIN-SUFFIX,qyjks.com
 DOMAIN-SUFFIX,qyjpzx.com
 DOMAIN-SUFFIX,qykh2009.com
 DOMAIN-SUFFIX,qyle1.com
@@ -53022,7 +53022,6 @@ DOMAIN-SUFFIX,tc12580.com
 DOMAIN-SUFFIX,tc199.net
 DOMAIN-SUFFIX,tc9011.com
 DOMAIN-SUFFIX,tc930.com
-DOMAIN-SUFFIX,tccaijing.com
 DOMAIN-SUFFIX,tccqb.com
 DOMAIN-SUFFIX,tccxfw.com
 DOMAIN-SUFFIX,tcdai.com
@@ -58953,7 +58952,6 @@ DOMAIN-SUFFIX,wy182000.com
 DOMAIN-SUFFIX,wy213.com
 DOMAIN-SUFFIX,wyaoqing.com
 DOMAIN-SUFFIX,wybbao.com
-DOMAIN-SUFFIX,wybg666.com
 DOMAIN-SUFFIX,wybgs.com
 DOMAIN-SUFFIX,wycanyin.com
 DOMAIN-SUFFIX,wycntv.com
@@ -59301,6 +59299,7 @@ DOMAIN-SUFFIX,xdgalaxy.com
 DOMAIN-SUFFIX,xdh0808.com
 DOMAIN-SUFFIX,xdhbs.com
 DOMAIN-SUFFIX,xdhcn.com
+DOMAIN-SUFFIX,xdiarys.com
 DOMAIN-SUFFIX,xdj-sz.com
 DOMAIN-SUFFIX,xdja.com
 DOMAIN-SUFFIX,xdjc.org
