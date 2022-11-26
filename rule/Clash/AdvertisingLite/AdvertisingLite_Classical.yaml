@@ -1,12 +1,12 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:08:18
-# DOMAIN: 23685
+# UPDATED: 2022-11-27 02:06:21
+# DOMAIN: 23678
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13488
+# DOMAIN-SUFFIX: 13501
 # IP-CIDR: 190
-# TOTAL: 37390
+# TOTAL: 37396
 payload:
   - DOMAIN,00-gov.cn
   - DOMAIN,0024aadd.com
@@ -2620,7 +2620,6 @@ payload:
   - DOMAIN,ape78cn2.com
   - DOMAIN,apearmare.site
   - DOMAIN,apendit.com
-  - DOMAIN,apester.com
   - DOMAIN,apex-ad.com
   - DOMAIN,apexcdn.com
   - DOMAIN,apexstats.com
@@ -14325,7 +14324,6 @@ payload:
   - DOMAIN,obxwnnheaixf.com
   - DOMAIN,obyxqjgwg.com
   - DOMAIN,obzatop.info
-  - DOMAIN,ocean2.authcaptcha.com
   - DOMAIN,oceanwebcraft.com
   - DOMAIN,ocejkjkopphj.com
   - DOMAIN,ocelot.studio
@@ -17107,7 +17105,6 @@ payload:
   - DOMAIN,robotadserver.com
   - DOMAIN,robsoaks.com
   - DOMAIN,rock.reauthenticator.com
-  - DOMAIN,rock2.authcaptcha.com
   - DOMAIN,rocketgames.com
   - DOMAIN,rocketier.net
   - DOMAIN,rocketyield.com
@@ -17478,7 +17475,6 @@ payload:
   - DOMAIN,sas.com
   - DOMAIN,sas15k01.com
   - DOMAIN,sascentral.com
-  - DOMAIN,sass2.authcaptcha.com
   - DOMAIN,sasson-cpa.co.il
   - DOMAIN,satgreera.com
   - DOMAIN,satismeter.com
@@ -17606,7 +17602,6 @@ payload:
   - DOMAIN,sdzwkmokd.com
   - DOMAIN,sdzxojlt.com
   - DOMAIN,sea-nov-1.com
-  - DOMAIN,sea2.authcaptcha.com
   - DOMAIN,seal.godaddy.com
   - DOMAIN,seal.verisign.com
   - DOMAIN,sealserver.trustwave.com
@@ -18883,7 +18878,6 @@ payload:
   - DOMAIN,stoaksie.com
   - DOMAIN,stoashou.net
   - DOMAIN,stocker.bonnint.net
-  - DOMAIN,stone2.authcaptcha.com
   - DOMAIN,stonecalcom.com
   - DOMAIN,stootoat.com
   - DOMAIN,stopadblock.info
@@ -22299,7 +22293,6 @@ payload:
   - DOMAIN,www.uriyuri.com
   - DOMAIN,www.usaenterprise.com
   - DOMAIN,www.vegaschina.cn
-  - DOMAIN,www.verifier.live
   - DOMAIN,www.vertourmer.com
   - DOMAIN,www.vinyljazzrecords.com
   - DOMAIN,www.vipcpms.com
@@ -25703,9 +25696,11 @@ payload:
   - DOMAIN-SUFFIX,analytics.bhaskar.com
   - DOMAIN-SUFFIX,analytics.bigcommerce.com
   - DOMAIN-SUFFIX,analytics.bloomberg.com
+  - DOMAIN-SUFFIX,analytics.brandcrumb.com
   - DOMAIN-SUFFIX,analytics.cmg.net
   - DOMAIN-SUFFIX,analytics.cohesionapps.com
   - DOMAIN-SUFFIX,analytics.conmio.com
+  - DOMAIN-SUFFIX,analytics.cynapse.com
   - DOMAIN-SUFFIX,analytics.dol.gr
   - DOMAIN-SUFFIX,analytics.eip.telegraph.co.uk
   - DOMAIN-SUFFIX,analytics.epi.es
@@ -25804,6 +25799,7 @@ payload:
   - DOMAIN-SUFFIX,aoyinn.com
   - DOMAIN-SUFFIX,apas.aipai.com
   - DOMAIN-SUFFIX,apearkcan.club
+  - DOMAIN-SUFFIX,apester.com
   - DOMAIN-SUFFIX,api-deal.kechenggezi.com
   - DOMAIN-SUFFIX,api-flow.flyme.cn
   - DOMAIN-SUFFIX,api-flow.meizu.com
@@ -26048,6 +26044,7 @@ payload:
   - DOMAIN-SUFFIX,aurdeert.net
   - DOMAIN-SUFFIX,aurtooks.com
   - DOMAIN-SUFFIX,auspiciousvp.com
+  - DOMAIN-SUFFIX,authcaptcha.com
   - DOMAIN-SUFFIX,authedmine.com
   - DOMAIN-SUFFIX,authornernsa.pro
   - DOMAIN-SUFFIX,autobedo.com.cn
@@ -26142,6 +26139,7 @@ payload:
   - DOMAIN-SUFFIX,ba.ccm2.net
   - DOMAIN-SUFFIX,ba.kioskea.net
   - DOMAIN-SUFFIX,ba138901a1dd4534b2d0.com
+  - DOMAIN-SUFFIX,bab.frb.io
   - DOMAIN-SUFFIX,backstage.funnelenvy.com
   - DOMAIN-SUFFIX,backup.lumion3d.com
   - DOMAIN-SUFFIX,backup.lumion3d.net
@@ -26372,6 +26370,7 @@ payload:
   - DOMAIN-SUFFIX,beacon.nrholding.net
   - DOMAIN-SUFFIX,beacon.nuskin.com
   - DOMAIN-SUFFIX,beacon.rum.dynapis.com
+  - DOMAIN-SUFFIX,beacon.squixa.net
   - DOMAIN-SUFFIX,beacon.thred.woven.com
   - DOMAIN-SUFFIX,beacon.toyota.co.jp
   - DOMAIN-SUFFIX,beacon.www.theguardian.com
@@ -26406,6 +26405,7 @@ payload:
   - DOMAIN-SUFFIX,bensezhiye.com
   - DOMAIN-SUFFIX,bentengcn.com
   - DOMAIN-SUFFIX,bepolite.eu
+  - DOMAIN-SUFFIX,berateveng.ru
   - DOMAIN-SUFFIX,berfd.xyz
   - DOMAIN-SUFFIX,bersmanatomic.site
   - DOMAIN-SUFFIX,bes-progfree.com
@@ -28564,7 +28564,6 @@ payload:
   - DOMAIN-SUFFIX,eventlogger.soundcloud.com
   - DOMAIN-SUFFIX,events-api.outfit7.net
   - DOMAIN-SUFFIX,events.antenna.is
-  - DOMAIN-SUFFIX,events.apester.com
   - DOMAIN-SUFFIX,events.avantisvideo.com
   - DOMAIN-SUFFIX,events.godaddy.com
   - DOMAIN-SUFFIX,events.guesttoguest.com
@@ -31718,6 +31717,7 @@ payload:
   - DOMAIN-SUFFIX,menuexamples.com
   - DOMAIN-SUFFIX,menuladshy.life
   - DOMAIN-SUFFIX,meooe.com
+  - DOMAIN-SUFFIX,mercadolibre.com
   - DOMAIN-SUFFIX,message.meitu.com
   - DOMAIN-SUFFIX,meta.video.qiyi.com
   - DOMAIN-SUFFIX,metalex.io
@@ -31728,6 +31728,7 @@ payload:
   - DOMAIN-SUFFIX,metric.ipv6test.net
   - DOMAIN-SUFFIX,metricfast.com
   - DOMAIN-SUFFIX,metrics.apartments.com
+  - DOMAIN-SUFFIX,metrics.bangbros.com
   - DOMAIN-SUFFIX,metrics.cbslocal.com
   - DOMAIN-SUFFIX,metrics.extremetech.com
   - DOMAIN-SUFFIX,metrics.feedroom.com
@@ -32963,6 +32964,7 @@ payload:
   - DOMAIN-SUFFIX,platado.com
   - DOMAIN-SUFFIX,platform.wondershare.com
   - DOMAIN-SUFFIX,plathwardsve.site
+  - DOMAIN-SUFFIX,play.mix.kinostuff.com
   - DOMAIN-SUFFIX,play.vidzi.tv
   - DOMAIN-SUFFIX,playad.xjmg.com
   - DOMAIN-SUFFIX,player.1800coupon.com
@@ -35643,6 +35645,7 @@ payload:
   - DOMAIN-SUFFIX,verdict.abc.go.com
   - DOMAIN-SUFFIX,verdriusuref.site
   - DOMAIN-SUFFIX,veremund-hon.com
+  - DOMAIN-SUFFIX,verifier.live
   - DOMAIN-SUFFIX,vers80.com
   - DOMAIN-SUFFIX,vertivchina.cn
   - DOMAIN-SUFFIX,veta.naver.com
@@ -35665,6 +35668,7 @@ payload:
   - DOMAIN-SUFFIX,video231.oss-cn-beijing.aliyuncs.com
   - DOMAIN-SUFFIX,videojj.com
   - DOMAIN-SUFFIX,videondun.com
+  - DOMAIN-SUFFIX,videoplayer2.xyz
   - DOMAIN-SUFFIX,videopush.baidu.cn
   - DOMAIN-SUFFIX,videopush.baidu.com
   - DOMAIN-SUFFIX,vidoomy.com
@@ -36074,6 +36078,7 @@ payload:
   - DOMAIN-SUFFIX,woogoust.com
   - DOMAIN-SUFFIX,woovooza.net
   - DOMAIN-SUFFIX,worcesternews-gb.worcesternews.co.uk
+  - DOMAIN-SUFFIX,wordc.ga
   - DOMAIN-SUFFIX,wordshipopa.club
   - DOMAIN-SUFFIX,woredi.com
   - DOMAIN-SUFFIX,workbizs.com
@@ -37068,6 +37073,7 @@ payload:
   - DOMAIN-SUFFIX,zlsw.nnjxqd.com
   - DOMAIN-SUFFIX,zm-bulu.cn
   - DOMAIN-SUFFIX,zmgod.com
+  - DOMAIN-SUFFIX,zminer.zaloapp.com
   - DOMAIN-SUFFIX,zmlfk.com
   - DOMAIN-SUFFIX,zmyuer.com
   - DOMAIN-SUFFIX,znsv.baidu.cn

@@ -1,12 +1,12 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-26 02:10:17
+# UPDATED: 2022-11-27 02:09:24
 # DOMAIN: 152
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 69059
+# DOMAIN-SUFFIX: 69063
 # USER-AGENT: 65
-# TOTAL: 69290
+# TOTAL: 69294
 265.com
 accounts.googlers.com
 accounts.xn--9trs65b.com
@@ -18758,7 +18758,11 @@ xn--flw351e.com
 .dbank.com
 .dbankcdn.cn
 .dbankcdn.com
+.dbankcloud.asia
+.dbankcloud.cn
 .dbankcloud.com
+.dbankcloud.eu
+.dbankcloud.ru
 .dbankedge.asia
 .dbankedge.cn
 .dbankedge.net

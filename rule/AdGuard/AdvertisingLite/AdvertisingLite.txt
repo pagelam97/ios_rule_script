@@ -1,8 +1,8 @@
 ! Title: AdvertisingLite
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-11-26 02:07:12
-! Total: 37173
+! Updated: 2022-11-27 02:06:21
+! Total: 37179
 
 
 ||00-gov.cn^
@@ -4511,10 +4511,12 @@
 ||analytics.bigcommerce.com^
 ||analytics.bloomberg.com^
 ||analytics.blue^
+||analytics.brandcrumb.com^
 ||analytics.cmg.net^
 ||analytics.cnd-motionmedia.de^
 ||analytics.cohesionapps.com^
 ||analytics.conmio.com^
+||analytics.cynapse.com^
 ||analytics.dol.gr^
 ||analytics.edgekey.net^
 ||analytics.edgesuite.net^
@@ -5291,6 +5293,7 @@
 ||ausagauw.net^
 ||auspiciousvp.com^
 ||auspipe.com^
+||authcaptcha.com^
 ||authedmine.com^
 ||authedmine.eu^
 ||authedwebmine.cz^
@@ -5575,6 +5578,7 @@
 ||ba6af3a0099c6cb9eb5.com^
 ||baa2e174884c9c0460e.com^
 ||baaeobgdaxdvsa.com^
+||bab.frb.io^
 ||babator.com^
 ||babbnrs.com^
 ||bablace.com^
@@ -6044,6 +6048,7 @@
 ||beacon.nrholding.net^
 ||beacon.nuskin.com^
 ||beacon.rum.dynapis.com^
+||beacon.squixa.net^
 ||beacon.thred.woven.com^
 ||beacon.toyota.co.jp^
 ||beacon.www.theguardian.com^
@@ -6145,6 +6150,7 @@
 ||beopinion.com^
 ||bepolite.eu^
 ||beqkxrcgjfnc.com^
+||berateveng.ru^
 ||berfd.xyz^
 ||berg-6-82.com^
 ||beringmedia.com^
@@ -12292,7 +12298,6 @@
 ||eventlogger.soundcloud.com^
 ||events-api.outfit7.net^
 ||events.antenna.is^
-||events.apester.com^
 ||events.avantisvideo.com^
 ||events.browsiprod.com^
 ||events.data.microsoft.com^
@@ -20913,6 +20918,7 @@
 ||mepirtedic.com^
 ||mepra.blautechnology.cl^
 ||mercadoclics.com^
+||mercadolibre.com^
 ||mercent.com^
 ||merchenta.com^
 ||mercuras.com^
@@ -20943,6 +20949,7 @@
 ||metricfast.com^
 ||metricool.com^
 ||metrics.apartments.com^
+||metrics.bangbros.com^
 ||metrics.cbslocal.com^
 ||metrics.el-mundo.net^
 ||metrics.extremetech.com^
@@ -23081,7 +23088,6 @@
 ||obyxqjgwg.com^
 ||obzatop.info^
 ||oca.telemetry.microsoft.com.nsatc.net^
-||ocean2.authcaptcha.com^
 ||oceanwebcraft.com^
 ||ocejkjkopphj.com^
 ||ocelot.studio^
@@ -24661,6 +24667,7 @@
 ||play.gramombird.com^
 ||play.istlandoll.com^
 ||play.mine.gay-hotvideo.net^
+||play.mix.kinostuff.com^
 ||play.on.animeteatr.ru^
 ||play.pampopholf.com^
 ||play.play.estream.nu^
@@ -27033,7 +27040,6 @@
 ||robovoiz.com^
 ||robsoaks.com^
 ||rock.reauthenticator.com^
-||rock2.authcaptcha.com^
 ||rocketgames.com^
 ||rocketier.net^
 ||rocketyield.com^
@@ -27616,7 +27622,6 @@
 ||sas.com^
 ||sas15k01.com^
 ||sascentral.com^
-||sass2.authcaptcha.com^
 ||sasson-cpa.co.il^
 ||satgreera.com^
 ||satismeter.com^
@@ -27864,7 +27869,6 @@
 ||sdzxojlt.com^
 ||sea-nov-1.com^
 ||sea.napi.ucweb.com^
-||sea2.authcaptcha.com^
 ||seal.godaddy.com^
 ||seal.verisign.com^
 ||sealserver.trustwave.com^
@@ -29701,7 +29705,6 @@
 ||stocker.bonnint.net^
 ||stocksbsc.com^
 ||stoffickiesolding.site^
-||stone2.authcaptcha.com^
 ||stonecalcom.com^
 ||stonseeb.net^
 ||stootoat.com^
@@ -32897,6 +32900,7 @@
 ||verdrivenbru.info^
 ||veremund-hon.com^
 ||verified-extensions.com^
+||verifier.live^
 ||verifypow.com^
 ||vernmentbasily.com^
 ||vernoblisk.com^
@@ -33003,6 +33007,7 @@
 ||videojj.com^
 ||videologygroup.com^
 ||videondun.com^
+||videoplayer2.xyz^
 ||videoplayerhub.com^
 ||videoplaza.com^
 ||videoplaza.tv^
@@ -34273,6 +34278,7 @@
 ||wootric.com^
 ||woovooza.net^
 ||worcesternews-gb.worcesternews.co.uk^
+||wordc.ga^
 ||wordego.com^
 ||wordshipopa.club^
 ||woredi.com^
@@ -34753,7 +34759,6 @@
 ||www.uriyuri.com^
 ||www.usaenterprise.com^
 ||www.vegaschina.cn^
-||www.verifier.live^
 ||www.vertourmer.com^
 ||www.vinyljazzrecords.com^
 ||www.vipcpms.com^
@@ -36870,6 +36875,7 @@
 ||zmctrack.net^
 ||zmgod.com^
 ||zmhwglwmi.com^
+||zminer.zaloapp.com^
 ||zmkkiqghh.com^
 ||zmlfk.com^
 ||zmnhcswlu.com^

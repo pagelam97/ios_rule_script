@@ -1,14 +1,14 @@
 # NAME: AdvertisingLite
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-03 17:08:18
+# UPDATED: 2022-11-27 02:06:20
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 23685
+# DOMAIN: 23678
 # DOMAIN-KEYWORD: 27
-# DOMAIN-SUFFIX: 13488
+# DOMAIN-SUFFIX: 13501
 # IP-CIDR: 190
 # URL-REGEX: 295
-# TOTAL: 37685
+# TOTAL: 37691
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -2621,7 +2621,6 @@ apcugpxy.com
 ape78cn2.com
 apearmare.site
 apendit.com
-apester.com
 apex-ad.com
 apexcdn.com
 apexstats.com
@@ -14326,7 +14325,6 @@ obvbubmzdvom.com
 obxwnnheaixf.com
 obyxqjgwg.com
 obzatop.info
-ocean2.authcaptcha.com
 oceanwebcraft.com
 ocejkjkopphj.com
 ocelot.studio
@@ -17108,7 +17106,6 @@ robocat.me
 robotadserver.com
 robsoaks.com
 rock.reauthenticator.com
-rock2.authcaptcha.com
 rocketgames.com
 rocketier.net
 rocketyield.com
@@ -17479,7 +17476,6 @@ sarov.ws
 sas.com
 sas15k01.com
 sascentral.com
-sass2.authcaptcha.com
 sasson-cpa.co.il
 satgreera.com
 satismeter.com
@@ -17607,7 +17603,6 @@ sdytygrznweksx.com
 sdzwkmokd.com
 sdzxojlt.com
 sea-nov-1.com
-sea2.authcaptcha.com
 seal.godaddy.com
 seal.verisign.com
 sealserver.trustwave.com
@@ -18884,7 +18879,6 @@ stnn.adsame.com
 stoaksie.com
 stoashou.net
 stocker.bonnint.net
-stone2.authcaptcha.com
 stonecalcom.com
 stootoat.com
 stopadblock.info
@@ -22300,7 +22294,6 @@ www.unicaitaly.it
 www.uriyuri.com
 www.usaenterprise.com
 www.vegaschina.cn
-www.verifier.live
 www.vertourmer.com
 www.vinyljazzrecords.com
 www.vipcpms.com
@@ -25704,9 +25697,11 @@ zzxosget.com
 .analytics.bhaskar.com
 .analytics.bigcommerce.com
 .analytics.bloomberg.com
+.analytics.brandcrumb.com
 .analytics.cmg.net
 .analytics.cohesionapps.com
 .analytics.conmio.com
+.analytics.cynapse.com
 .analytics.dol.gr
 .analytics.eip.telegraph.co.uk
 .analytics.epi.es
@@ -25805,6 +25800,7 @@ zzxosget.com
 .aoyinn.com
 .apas.aipai.com
 .apearkcan.club
+.apester.com
 .api-deal.kechenggezi.com
 .api-flow.flyme.cn
 .api-flow.meizu.com
@@ -26049,6 +26045,7 @@ zzxosget.com
 .aurdeert.net
 .aurtooks.com
 .auspiciousvp.com
+.authcaptcha.com
 .authedmine.com
 .authornernsa.pro
 .autobedo.com.cn
@@ -26143,6 +26140,7 @@ zzxosget.com
 .ba.ccm2.net
 .ba.kioskea.net
 .ba138901a1dd4534b2d0.com
+.bab.frb.io
 .backstage.funnelenvy.com
 .backup.lumion3d.com
 .backup.lumion3d.net
@@ -26373,6 +26371,7 @@ zzxosget.com
 .beacon.nrholding.net
 .beacon.nuskin.com
 .beacon.rum.dynapis.com
+.beacon.squixa.net
 .beacon.thred.woven.com
 .beacon.toyota.co.jp
 .beacon.www.theguardian.com
@@ -26407,6 +26406,7 @@ zzxosget.com
 .bensezhiye.com
 .bentengcn.com
 .bepolite.eu
+.berateveng.ru
 .berfd.xyz
 .bersmanatomic.site
 .bes-progfree.com
@@ -28565,7 +28565,6 @@ zzxosget.com
 .eventlogger.soundcloud.com
 .events-api.outfit7.net
 .events.antenna.is
-.events.apester.com
 .events.avantisvideo.com
 .events.godaddy.com
 .events.guesttoguest.com
@@ -31719,6 +31718,7 @@ zzxosget.com
 .menuexamples.com
 .menuladshy.life
 .meooe.com
+.mercadolibre.com
 .message.meitu.com
 .meta.video.qiyi.com
 .metalex.io
@@ -31729,6 +31729,7 @@ zzxosget.com
 .metric.ipv6test.net
 .metricfast.com
 .metrics.apartments.com
+.metrics.bangbros.com
 .metrics.cbslocal.com
 .metrics.extremetech.com
 .metrics.feedroom.com
@@ -32964,6 +32965,7 @@ zzxosget.com
 .platado.com
 .platform.wondershare.com
 .plathwardsve.site
+.play.mix.kinostuff.com
 .play.vidzi.tv
 .playad.xjmg.com
 .player.1800coupon.com
@@ -35644,6 +35646,7 @@ zzxosget.com
 .verdict.abc.go.com
 .verdriusuref.site
 .veremund-hon.com
+.verifier.live
 .vers80.com
 .vertivchina.cn
 .veta.naver.com
@@ -35666,6 +35669,7 @@ zzxosget.com
 .video231.oss-cn-beijing.aliyuncs.com
 .videojj.com
 .videondun.com
+.videoplayer2.xyz
 .videopush.baidu.cn
 .videopush.baidu.com
 .vidoomy.com
@@ -36075,6 +36079,7 @@ zzxosget.com
 .woogoust.com
 .woovooza.net
 .worcesternews-gb.worcesternews.co.uk
+.wordc.ga
 .wordshipopa.club
 .woredi.com
 .workbizs.com
@@ -37069,6 +37074,7 @@ zzxosget.com
 .zlsw.nnjxqd.com
 .zm-bulu.cn
 .zmgod.com
+.zminer.zaloapp.com
 .zmlfk.com
 .zmyuer.com
 .znsv.baidu.cn
