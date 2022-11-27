@@ -1,8 +1,8 @@
 ! Title: Privacy
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-11-27 02:07:26
-! Total: 14794
+! Updated: 2022-11-28 02:08:06
+! Total: 14796
 
 
 ||0-owazo4.net.zooplus.de^
@@ -2504,6 +2504,7 @@
 ||analytics.yolacdn.net^
 ||analytics.yomedia.vn^
 ||analytics.yourbankcard.com^
+||analytics.yugen.to^
 ||analytics.ziftsolutions.com^
 ||analytics00.meride.tv^
 ||analytics2-meride-tv.akamaized.net^
@@ -8528,6 +8529,7 @@
 ||pumpkin.abine.com^
 ||punyplant.com^
 ||purchasesuggestion.com^
+||push-sdk.net^
 ||pushmaster-cdn.xyz^
 ||puzzlingproperty.com^
 ||pv.hd.sohu.com^

@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-27 02:08:03
+# UPDATED: 2022-11-28 02:08:53
 # HOST: 440
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37643
+# HOST-SUFFIX: 37642
 # IP-CIDR: 110
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38281
+# TOTAL: 38280
 HOST,265.com,Global
 HOST,2mdn-cn.net,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
@@ -5024,7 +5024,6 @@ HOST-SUFFIX,flowtype.org,Global
 HOST-SUFFIX,fluidpreview.com,Global
 HOST-SUFFIX,flutter.dev,Global
 HOST-SUFFIX,flutterapp.com,Global
-HOST-SUFFIX,flydiv.com,Global
 HOST-SUFFIX,flyingjizz.com,Global
 HOST-SUFFIX,fmcebook.com,Global
 HOST-SUFFIX,fnacebook.com,Global

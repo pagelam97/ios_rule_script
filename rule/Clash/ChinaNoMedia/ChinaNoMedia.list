@@ -1,13 +1,13 @@
 # NAME: ChinaNoMedia
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-21 02:09:27
+# UPDATED: 2022-11-28 02:10:24
 # DOMAIN: 20
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 4004
+# DOMAIN-SUFFIX: 4005
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 4048
+# TOTAL: 4049
 DOMAIN,analytics.strava.com
 DOMAIN,blzddist1-a.akamaihd.net
 DOMAIN,cdn.angruo.com
@@ -2758,6 +2758,7 @@ DOMAIN-SUFFIX,opdown.com
 DOMAIN-SUFFIX,open.cd
 DOMAIN-SUFFIX,openapp.run
 DOMAIN-SUFFIX,openjudge.cn
+DOMAIN-SUFFIX,openkylin.top
 DOMAIN-SUFFIX,openlearning.com
 DOMAIN-SUFFIX,openmidas.com
 DOMAIN-SUFFIX,oppo.cn

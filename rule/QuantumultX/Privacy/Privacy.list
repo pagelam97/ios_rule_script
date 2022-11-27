@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-27 02:07:26
+# UPDATED: 2022-11-28 02:08:06
 # HOST: 14
-# HOST-SUFFIX: 14780
+# HOST-SUFFIX: 14782
 # IP-CIDR: 7
-# TOTAL: 14801
+# TOTAL: 14803
 HOST,hm.baidu.com,Privacy
 HOST,hmma.baidu.com,Privacy
 HOST,js.users.51.la,Privacy
@@ -2519,6 +2519,7 @@ HOST-SUFFIX,analytics.yola.net,Privacy
 HOST-SUFFIX,analytics.yolacdn.net,Privacy
 HOST-SUFFIX,analytics.yomedia.vn,Privacy
 HOST-SUFFIX,analytics.yourbankcard.com,Privacy
+HOST-SUFFIX,analytics.yugen.to,Privacy
 HOST-SUFFIX,analytics.ziftsolutions.com,Privacy
 HOST-SUFFIX,analytics00.meride.tv,Privacy
 HOST-SUFFIX,analytics2-meride-tv.akamaized.net,Privacy
@@ -8538,6 +8539,7 @@ HOST-SUFFIX,pulse.delta.com,Privacy
 HOST-SUFFIX,pumpkin.abine.com,Privacy
 HOST-SUFFIX,punyplant.com,Privacy
 HOST-SUFFIX,purchasesuggestion.com,Privacy
+HOST-SUFFIX,push-sdk.net,Privacy
 HOST-SUFFIX,pushmaster-cdn.xyz,Privacy
 HOST-SUFFIX,puzzlingproperty.com,Privacy
 HOST-SUFFIX,pv.hd.sohu.com,Privacy

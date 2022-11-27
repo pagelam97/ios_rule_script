@@ -1,11 +1,11 @@
 # NAME: Privacy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-27 02:07:26
+# UPDATED: 2022-11-28 02:08:06
 # DOMAIN: 14
-# DOMAIN-SUFFIX: 14780
+# DOMAIN-SUFFIX: 14782
 # IP-CIDR: 7
-# TOTAL: 14801
+# TOTAL: 14803
 payload:
   - DOMAIN,hm.baidu.com
   - DOMAIN,hmma.baidu.com
@@ -2520,6 +2520,7 @@ payload:
   - DOMAIN-SUFFIX,analytics.yolacdn.net
   - DOMAIN-SUFFIX,analytics.yomedia.vn
   - DOMAIN-SUFFIX,analytics.yourbankcard.com
+  - DOMAIN-SUFFIX,analytics.yugen.to
   - DOMAIN-SUFFIX,analytics.ziftsolutions.com
   - DOMAIN-SUFFIX,analytics00.meride.tv
   - DOMAIN-SUFFIX,analytics2-meride-tv.akamaized.net
@@ -8539,6 +8540,7 @@ payload:
   - DOMAIN-SUFFIX,pumpkin.abine.com
   - DOMAIN-SUFFIX,punyplant.com
   - DOMAIN-SUFFIX,purchasesuggestion.com
+  - DOMAIN-SUFFIX,push-sdk.net
   - DOMAIN-SUFFIX,pushmaster-cdn.xyz
   - DOMAIN-SUFFIX,puzzlingproperty.com
   - DOMAIN-SUFFIX,pv.hd.sohu.com
