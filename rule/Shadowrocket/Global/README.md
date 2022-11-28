@@ -12,17 +12,17 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-28 02:08:32
+最后更新时间：2022-11-28 22:28:33
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN | 175  | 
+| DOMAIN | 171  | 
 | DOMAIN-KEYWORD | 39  | 
-| DOMAIN-SUFFIX | 37309  | 
+| DOMAIN-SUFFIX | 37285  | 
 | IP-CIDR | 114  | 
 | USER-AGENT | 45  | 
-| TOTAL | 37682  | 
+| TOTAL | 37654  | 
 
 
 ## Shadowrocket 
@@ -73,9 +73,9 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 
 
 当前分流规则，已排除以下规则：
-| 排除规则  |  | 
-| ---- | ----  |
-| AdvertisingLite | China  | 
+| 排除规则  |  |  | 
+| ---- | ---- | ----  |
+| AdvertisingLite | China | ChinaMaxNoIP  | 
 
 ## 数据来源
 

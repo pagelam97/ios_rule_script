@@ -1,12 +1,12 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:07:09
+# UPDATED: 2022-11-28 22:26:33
 # DOMAIN: 14344
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 80721
+# DOMAIN-SUFFIX: 80732
 # IP-CIDR: 243
-# TOTAL: 95385
+# TOTAL: 95396
 DOMAIN,ad.xy2013.cn
 DOMAIN,ads.play.cbsi.video
 DOMAIN,ads.reembed.com
@@ -15594,6 +15594,7 @@ DOMAIN-SUFFIX,669fb3128e4b4.com
 DOMAIN-SUFFIX,66cn.com
 DOMAIN-SUFFIX,66e7b94f96.com
 DOMAIN-SUFFIX,66f66dd865.com
+DOMAIN-SUFFIX,66ko9.com
 DOMAIN-SUFFIX,66mjbg.com
 DOMAIN-SUFFIX,670360.com
 DOMAIN-SUFFIX,6740e9369b.com
@@ -18275,6 +18276,7 @@ DOMAIN-SUFFIX,ads.fotosidan.se
 DOMAIN-SUFFIX,ads.fox.com
 DOMAIN-SUFFIX,ads.foxnetworks.com
 DOMAIN-SUFFIX,ads.foxnews.com
+DOMAIN-SUFFIX,ads.fpt.vn
 DOMAIN-SUFFIX,ads.fptplay.net.vn
 DOMAIN-SUFFIX,ads.fredericksburg.com
 DOMAIN-SUFFIX,ads.freebannertrade.com
@@ -18860,6 +18862,7 @@ DOMAIN-SUFFIX,ads6.gamecity.net
 DOMAIN-SUFFIX,ads7.advance.net
 DOMAIN-SUFFIX,ads7.gamecity.net
 DOMAIN-SUFFIX,ads7.speedbit.com
+DOMAIN-SUFFIX,ads8.fpt.vn
 DOMAIN-SUFFIX,adsadmin.corusradionetwork.com
 DOMAIN-SUFFIX,adsafety.net
 DOMAIN-SUFFIX,adsagony.com
@@ -21291,6 +21294,7 @@ DOMAIN-SUFFIX,api-analytics.metaps.com
 DOMAIN-SUFFIX,api-analytics.prod.birdapp.com
 DOMAIN-SUFFIX,api-analytics.rozetka.com.ua
 DOMAIN-SUFFIX,api-keks.com
+DOMAIN-SUFFIX,api-logdev.sohatv.vn
 DOMAIN-SUFFIX,api-stg.ensonhaber.com
 DOMAIN-SUFFIX,api.140proof.com
 DOMAIN-SUFFIX,api.abcxs.org
@@ -36224,6 +36228,7 @@ DOMAIN-SUFFIX,govshenzhen.cn
 DOMAIN-SUFFIX,govxian.cn
 DOMAIN-SUFFIX,govxinjiang.cn
 DOMAIN-SUFFIX,govyunfu.cn
+DOMAIN-SUFFIX,gowin39.com
 DOMAIN-SUFFIX,gowoman.ru
 DOMAIN-SUFFIX,goxonnawhmkqq.com
 DOMAIN-SUFFIX,goyetteconnelly.bid
@@ -36960,6 +36965,7 @@ DOMAIN-SUFFIX,hazardousschooloutcry.com
 DOMAIN-SUFFIX,hazelnutshighs.com
 DOMAIN-SUFFIX,hb-247.com
 DOMAIN-SUFFIX,hb.afl.rakuten.co.jp
+DOMAIN-SUFFIX,hb88p.com
 DOMAIN-SUFFIX,hb8a.top
 DOMAIN-SUFFIX,hbads.eboz.com
 DOMAIN-SUFFIX,hbadz.eboz.com
@@ -43035,6 +43041,7 @@ DOMAIN-SUFFIX,logping.exblog.jp
 DOMAIN-SUFFIX,logrocket.com
 DOMAIN-SUFFIX,logrocket.io
 DOMAIN-SUFFIX,logru.vietnamplus.vn
+DOMAIN-SUFFIX,logs-ott.fbox.fpt.vn
 DOMAIN-SUFFIX,logs.amap.com
 DOMAIN-SUFFIX,logs.datadoghq.eu
 DOMAIN-SUFFIX,logs.docnhanh.com.vn
@@ -43071,7 +43078,6 @@ DOMAIN-SUFFIX,lol.bash.org.ru
 DOMAIN-SUFFIX,lol.to
 DOMAIN-SUFFIX,lolco.net
 DOMAIN-SUFFIX,lolhello.com
-DOMAIN-SUFFIX,loli.io
 DOMAIN-SUFFIX,loli.net
 DOMAIN-SUFFIX,lologhfd.com
 DOMAIN-SUFFIX,lolper.ru
@@ -51948,6 +51954,7 @@ DOMAIN-SUFFIX,qq0017.xyz
 DOMAIN-SUFFIX,qq288.com
 DOMAIN-SUFFIX,qq288jak.com
 DOMAIN-SUFFIX,qq2ux.top
+DOMAIN-SUFFIX,qq628.live
 DOMAIN-SUFFIX,qq86tbqodk.ru
 DOMAIN-SUFFIX,qq8788.net
 DOMAIN-SUFFIX,qq8788viet.com
@@ -56557,6 +56564,7 @@ DOMAIN-SUFFIX,spokesmanlinedmercury.com
 DOMAIN-SUFFIX,spoki-noki.net
 DOMAIN-SUFFIX,spolecznosci.net
 DOMAIN-SUFFIX,spongecell.com
+DOMAIN-SUFFIX,sponsor.imacdn.com
 DOMAIN-SUFFIX,sponsor1.com
 DOMAIN-SUFFIX,sponsorads.de
 DOMAIN-SUFFIX,sponsorcounter.de
@@ -58824,6 +58832,7 @@ DOMAIN-SUFFIX,thefreeadv.com
 DOMAIN-SUFFIX,thefreehitcounter.com
 DOMAIN-SUFFIX,thefreshposts.com
 DOMAIN-SUFFIX,thehomo.org
+DOMAIN-SUFFIX,thehotlive.com
 DOMAIN-SUFFIX,thehotposts.com
 DOMAIN-SUFFIX,theirsvendor.com
 DOMAIN-SUFFIX,thekromp.com
@@ -63747,6 +63756,7 @@ DOMAIN-SUFFIX,whatsapp-app.com
 DOMAIN-SUFFIX,whatsapp-chat.xyz
 DOMAIN-SUFFIX,whatsappsohbetim.net
 DOMAIN-SUFFIX,whatsappsupport.net
+DOMAIN-SUFFIX,whatstheword.co
 DOMAIN-SUFFIX,whattoexpectheal.com
 DOMAIN-SUFFIX,whaudsur.net
 DOMAIN-SUFFIX,whaulids.com
@@ -64217,6 +64227,7 @@ DOMAIN-SUFFIX,wordego.com
 DOMAIN-SUFFIX,worden.samenresultaat.nl
 DOMAIN-SUFFIX,wordennutcake.com
 DOMAIN-SUFFIX,wordkeyhelper.com
+DOMAIN-SUFFIX,wordmonetize.com
 DOMAIN-SUFFIX,wordstore.net
 DOMAIN-SUFFIX,wordstream.com
 DOMAIN-SUFFIX,woreinformed.com
@@ -65502,6 +65513,7 @@ DOMAIN-SUFFIX,xndcnnkygvd.com
 DOMAIN-SUFFIX,xniexnz.cn
 DOMAIN-SUFFIX,xnnfchykwvgjmoh.com
 DOMAIN-SUFFIX,xnxonbf.cn
+DOMAIN-SUFFIX,xo88.fun
 DOMAIN-SUFFIX,xoalt.com
 DOMAIN-SUFFIX,xogepg.com
 DOMAIN-SUFFIX,xoktditxsmr.xyz
@@ -72513,7 +72525,6 @@ DOMAIN-SUFFIX,game.pps.tv
 DOMAIN-SUFFIX,game.qidian.com
 DOMAIN-SUFFIX,game.res.meizu.com
 DOMAIN-SUFFIX,game.rising.cn
-DOMAIN-SUFFIX,game.subway.uu.cc
 DOMAIN-SUFFIX,game.weibo.cn
 DOMAIN-SUFFIX,game.weibo.com
 DOMAIN-SUFFIX,game.weibo.com.cn

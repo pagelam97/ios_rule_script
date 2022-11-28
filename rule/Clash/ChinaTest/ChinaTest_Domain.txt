@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:09:15
+# UPDATED: 2022-11-28 22:29:18
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66800
+# DOMAIN-SUFFIX: 66808
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 67001
+# TOTAL: 67009
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -9275,6 +9275,7 @@ xn--flw351e.com
 .65650000.com
 .65677358625.com
 .65688qp.com
+.6571n.com
 .65875.com
 .65918.tw
 .659595.com
@@ -10285,6 +10286,7 @@ xn--flw351e.com
 .89274.st
 .89303.com
 .8961zx.com
+.897263tqs.com
 .8977567.com
 .8979.com
 .898.travel
@@ -10514,6 +10516,7 @@ xn--flw351e.com
 .91huayi.com
 .91huoke.com
 .91ios.com
+.91jbz.com
 .91jf.com
 .91jiabohui.com
 .91jiafang.com
@@ -11737,6 +11740,7 @@ xn--flw351e.com
 .aibaix.com
 .aibang.com
 .aibaov.com
+.aibe1e.cc
 .aibing.cc
 .aibo123.com
 .aibooks.cc
@@ -25905,7 +25909,6 @@ xn--flw351e.com
 .fuliapps.com
 .fuliba2020.net
 .fulibbs.com
-.fulibest.com
 .fulijd.com
 .fulimin.org
 .fulin.org
@@ -26843,7 +26846,6 @@ xn--flw351e.com
 .ghlearning.com
 .ghmba.com
 .ghmcchina.com
-.ghmp4.com
 .gho5.com
 .ghost008.com
 .ghost11.com
@@ -31809,6 +31811,7 @@ xn--flw351e.com
 .i5399.com
 .i5738.com
 .i5i6.net
+.i5jh6b.cc
 .i5mai.com
 .i66wan.com
 .i6879.com
@@ -40567,6 +40570,7 @@ xn--flw351e.com
 .mbabao.com
 .mbabycare.com
 .mbachina.com
+.mbadashi.com
 .mbajyz.com
 .mbalunwen.net
 .mbanggo.com
@@ -43113,6 +43117,7 @@ xn--flw351e.com
 .nicolaszhao.com
 .niconiconi.cc
 .nicotine.vip
+.nicotv.me
 .nie.io
 .nielsenccdata.tv
 .nies.org
@@ -59814,6 +59819,7 @@ xn--flw351e.com
 .xiaoshituina.vip
 .xiaoshouhudong.com
 .xiaoshoukuaifa.com
+.xiaoshourc.com
 .xiaoshouyi.com
 .xiaoshu168.com
 .xiaoshujiang.com
@@ -60379,6 +60385,7 @@ xn--flw351e.com
 .xinzheng.cc
 .xinzhenkj.com
 .xinzhi.space
+.xinzzfsdfdslk333.com
 .xionganxinxi.com
 .xionganzhuce.com
 .xiongdayq.com
@@ -61473,6 +61480,7 @@ xn--flw351e.com
 .xyzggg.com
 .xyzkj.xyz
 .xyzmdzs.com
+.xyzop.com
 .xyzs.com
 .xyzsq.com
 .xyzvo.com
@@ -64906,7 +64914,6 @@ xn--flw351e.com
 .zhangu365.com
 .zhangweijie.net
 .zhangwenli.com
-.zhangxiaoyang.me
 .zhangxinhuichuan.com
 .zhangxinhulian.com
 .zhangxinxu.com
@@ -64947,6 +64954,7 @@ xn--flw351e.com
 .zhanyicg.com
 .zhanyouyun.com
 .zhao-meng.com
+.zhao-zupu.com
 .zhaobeidaxiao.com
 .zhaobeijing.com
 .zhaobuxiu.com

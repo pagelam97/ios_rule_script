@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:08:32
-# DOMAIN: 175
+# UPDATED: 2022-11-28 22:28:33
+# DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37309
+# DOMAIN-SUFFIX: 37285
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37638
+# TOTAL: 37610
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -17,7 +17,6 @@ api-p.videomarket.jp
 apple.com.akadns.net
 appleworldwidedeveloper.hb-api.omtrdc.net
 appleworldwidedeveloper.sc.omtrdc.net
-apps5.oingo.com
 as-dash-uk-live.akamaized.net
 as-hls-uk-live.akamaized.net
 asahishimbun.sc.omtrdc.net
@@ -59,7 +58,6 @@ elib.maruzen.co.jp
 espn.hb.omtrdc.net
 espndotcom.tt.omtrdc.net
 faronics.kayako.com
-firebase-settings.crashlytics.com
 firstsearch.oclc.org
 gamedownloads-rockstargames-com.akamaized.net
 gog.qtlglb.com
@@ -161,9 +159,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
-tesla-cdn.thron.cn
 tesla-cdn.thron.com
-update.crashlytics.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
 vod-abematv.akamaized.net
@@ -270,9 +266,6 @@ assets-priconne-redive-us.akamaized.net
 .2022.dev
 .21centuryaccess.com
 .21hub.com
-.21vbc.com
-.21vbluecloud.com
-.21vbluecloud.net
 .2371tom.com
 .249dw7.cn
 .24porn.com
@@ -589,6 +582,7 @@ assets-priconne-redive-us.akamaized.net
 .adultartsites.com
 .adultbay.org
 .adultblogranking.com
+.adultblogtoplist.com
 .adultcamslover.com
 .adultdeepfakes.com
 .adultdvdmarketplace.com
@@ -639,7 +633,6 @@ assets-priconne-redive-us.akamaized.net
 .afpforum.com
 .afriboyz.com
 .agendaweek.com
-.aggresmart.com
 .agoogleaday.com
 .agu.org
 .agzy1.com
@@ -890,7 +883,6 @@ assets-priconne-redive-us.akamaized.net
 .amsterdamhotescort.com
 .amsterdamluxescort.com
 .amytele.com
-.amz123.com
 .amzn.com
 .amznl.com
 .anacams.com
@@ -2162,8 +2154,6 @@ assets-priconne-redive-us.akamaized.net
 .blpcareers.com
 .blpevents.com
 .blpprofessional.com
-.blueaggrestore.com
-.bluecloudprod.com
 .bluefootcms.com
 .bluehatil.com
 .bluehatnights.com
@@ -3051,7 +3041,6 @@ assets-priconne-redive-us.akamaized.net
 .cnnmoney.com
 .cnnmoneystream.com
 .cnnpolitics.com
-.cnpmjs.org
 .cnshopin.com
 .cobatt.com
 .cobrasearch.com
@@ -3341,7 +3330,6 @@ assets-priconne-redive-us.akamaized.net
 .dazndn.com
 .dcard.io
 .dcard.link
-.dcocsp.cn
 .dctbeatsbydre.com
 .dd-cdn.origin-apple.com.akadns.net
 .ddd-smart.net
@@ -4062,7 +4050,6 @@ assets-priconne-redive-us.akamaized.net
 .ecuatorianas.best
 .edditstatic.com
 .edengay.net
-.edgedatg.com
 .edgefonts.net
 .edgemeplease.com
 .edisebay.com
@@ -4081,7 +4068,6 @@ assets-priconne-redive-us.akamaized.net
 .ehgt.org
 .ehv.cc
 .ehwiki.org
-.eilieili.cc
 .einfachporno.com
 .einstein.com
 .eiu.com
@@ -4152,7 +4138,6 @@ assets-priconne-redive-us.akamaized.net
 .enfamil.pt
 .enfasmart.com
 .enfinitas.com.cn
-.engkoo.com
 .enjoyasianporn.com
 .enjoyfuck.com
 .enlnks.com
@@ -4677,6 +4662,7 @@ assets-priconne-redive-us.akamaized.net
 .fblitho.com
 .fbmarketing.com
 .fbmessenger.com
+.fbooktaiwan.com
 .fbredex.com
 .fbreg.com
 .fbrell.com
@@ -5356,7 +5342,6 @@ assets-priconne-redive-us.akamaized.net
 .gifnuki.com
 .gifporntube.com
 .gigabyte.cn
-.gigabyte.com
 .gigantits.com
 .gigaporn.org
 .gigaxvideos.com
@@ -5610,7 +5595,6 @@ assets-priconne-redive-us.akamaized.net
 .gouri.xyz
 .govforce.com
 .goyoutube.com
-.gpsonextra.net
 .gpstheseries.com
 .gputechconf.cn
 .gputechconf.com
@@ -5976,7 +5960,6 @@ assets-priconne-redive-us.akamaized.net
 .hometubeporn.com
 .honawalaan.com
 .hongmaodan100.com
-.honkaiimpact3.com
 .honkaistarrail.com
 .hoodamateurs.com
 .hooloo.tv
@@ -6188,6 +6171,7 @@ assets-priconne-redive-us.akamaized.net
 .httpwwwfacebook.com
 .htyj-bj.com
 .hu1u.com
+.huangse.love
 .huanyuju.com
 .huashundg.com
 .huffingtonpost.it
@@ -6814,7 +6798,6 @@ assets-priconne-redive-us.akamaized.net
 .iyalc.com
 .iyottube.com
 .iyoutube.com
-.izatcloud.net
 .j2objc.org
 .jabcomix.com
 .jable.org
@@ -6980,7 +6963,6 @@ assets-priconne-redive-us.akamaized.net
 .joinside.org
 .jokerlu1.cc
 .jokerlu1.info
-.joox.com
 .jorropo.net
 .jos.com
 .jove.com
@@ -7146,7 +7128,6 @@ assets-priconne-redive-us.akamaized.net
 .kubeacademy.com
 .kubeapps.com
 .kubernetes.io
-.kuke.com
 .kum.com
 .kumo.com
 .kundun1069.com
@@ -7611,7 +7592,6 @@ assets-priconne-redive-us.akamaized.net
 .maya5.net
 .mbeats-tech.com
 .mbheadphone.com
-.mcchcdn.com
 .mcd.com
 .mcdelivery.co.id
 .mcdindonesia.com
@@ -7891,7 +7871,6 @@ assets-priconne-redive-us.akamaized.net
 .miniso.cn
 .miniso.co
 .miniso.co.id
-.miniso.com
 .miniso.com.py
 .miniso.pk
 .minisohome.cn
@@ -8089,7 +8068,6 @@ assets-priconne-redive-us.akamaized.net
 .moviesarena.com
 .moviesfree4u.xyz
 .moviesneek.com
-.mox.moe
 .moxing.mobi
 .moxing.news
 .moystoys.com
@@ -8118,7 +8096,6 @@ assets-priconne-redive-us.akamaized.net
 .msauth.cn
 .msauthimages.cn
 .mschallenge2018.com
-.mschcdn.com
 .msdn.com
 .msft.info
 .msft.net
@@ -8783,7 +8760,6 @@ assets-priconne-redive-us.akamaized.net
 .nypostreprints.com
 .nyt.net
 .nytlog.com
-.o365cn.com
 .o365files.cn
 .o365weve-dev.com
 .o365weve-ppe.com
@@ -8910,7 +8886,6 @@ assets-priconne-redive-us.akamaized.net
 .opengraphprotocol.org
 .openjsf.org
 .openmaps.org
-.openresty.org
 .opensource.guide
 .opensourceinsight.dev
 .opensourceinsights.dev
@@ -9630,6 +9605,7 @@ assets-priconne-redive-us.akamaized.net
 .pornoreino.com
 .pornorips.com
 .pornos.live
+.pornoscanner.com
 .pornosfilmes.com
 .pornoslon.me
 .pornosphere.com
@@ -9693,6 +9669,7 @@ assets-priconne-redive-us.akamaized.net
 .porntvblog.com
 .pornub.com
 .pornultras.com
+.pornv.org
 .pornve.com
 .pornvibe.org
 .pornvideobb.com
@@ -9941,7 +9918,6 @@ assets-priconne-redive-us.akamaized.net
 .qualysguard.qcpp1.net
 .qualysguard.qpdp1.net
 .quanben.io
-.quantil.com
 .quatrowireless.com
 .quicinc.com
 .quickiepage.com
@@ -10321,7 +10297,6 @@ assets-priconne-redive-us.akamaized.net
 .schemer.com
 .schiffvitamins.com
 .scholarpedia.org
-.sci-hub.ee
 .sci-hub.mksa.top
 .sci.hubg.org
 .science.com
@@ -10358,7 +10333,6 @@ assets-priconne-redive-us.akamaized.net
 .secomtrust.net
 .secret-flirt-hub.com
 .sectigo.com
-.sectigochina.com
 .secure-paypal.info
 .securepaypal.info
 .seedmov18.com
@@ -10484,6 +10458,7 @@ assets-priconne-redive-us.akamaized.net
 .sexxxhd.com
 .sexxxxfilms.com
 .sexy-babe-pics.com
+.sexy-torrents.com
 .sexy3dtoon.com
 .sexycandidgirls.com
 .sexyfeet.tv
@@ -10568,7 +10543,6 @@ assets-priconne-redive-us.akamaized.net
 .shopee.id
 .shopee.io
 .shopeemobile.com
-.shopeesz.com
 .shopfacebook.com
 .shopibay.net
 .shopify.com
@@ -11281,7 +11255,6 @@ assets-priconne-redive-us.akamaized.net
 .theteenhome.com
 .thetranny.com
 .thetread.com
-.thetype.cloud
 .thetype.com
 .theuab.net
 .thewonderful101.com
@@ -12012,7 +11985,6 @@ assets-priconne-redive-us.akamaized.net
 .vodafone.com
 .vodafone.it
 .vokevr.com
-.vol.moe
 .volvo.cn
 .volvo.com
 .volvo.com.cn
@@ -12323,7 +12295,6 @@ assets-priconne-redive-us.akamaized.net
 .worldsecureemail.com
 .worldsecuresystems.com
 .worldsfastestgamer.net
-.wowchina.com
 .wowindianporn.com
 .wowporn.com
 .wowpornlist.xyz
@@ -12990,6 +12961,7 @@ assets-priconne-redive-us.akamaized.net
 .zoig.com
 .zononi.com
 .zoo-hardcore.com
+.zoo-porno.biz
 .zoo-tube8.com
 .zoo-xnxx.com
 .zoo-xvideo.com

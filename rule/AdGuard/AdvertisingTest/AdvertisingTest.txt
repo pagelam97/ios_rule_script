@@ -1,58 +1,77 @@
 ! Title: AdvertisingTest
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-11-28 02:08:00
-! Total: 108021
+! Updated: 2022-11-28 22:27:30
+! Total: 108036
 
 
+||3p-geo.yahoo.com^
+||3p-udc.yahoo.com^
 ||46186911.vtt^
-||66ko9.com^
 ||80055404.vtt^
 ||absurdapple.com^
+||adfox.yandex.ru^
 ||adfstat.yandex.ru^
-||ads.fpt.vn^
 ||ads.yahoo.com^
 ||ads.youtube.com^
-||ads8.fpt.vn^
+||adsdk.yandex.ru^
+||an.yandex.ru^
 ||anxiousapples.com^
-||api-logdev.sohatv.vn^
 ||api.sec.miui.com^
 ||app.ssp.yahoo.com^
 ||appboy-images.com^
+||apple.www.letv.com^
 ||applequan.com^
 ||applescringe.com^
 ||applesometimes.com^
+||awaps.yandex.ru^
 ||awsync.yandex.ru^
+||bats.video.yahoo.com^
 ||beacon.search.yahoo.com^
 ||beap-bc.yahoo.com^
 ||blueduckredapple.com^
+||booptuwa.net^
+||bs.yandex.ru^
+||bugs2022.com^
+||clw99.mobi^
+||collector2c.zhihuishu.com^
+||cookiex.ngd.yahoo.com^
 ||crypta.js^
 ||d1stxfv94hrhia.cloudfront^
 ||dmg-dd.oss-accelerate.aliyuncs.com^
+||flaxim.com^
 ||fpb1.apple886.com^
-||gowin39.com^
-||hb88p.com^
+||ganon.yahoo.com^
+||geo.yahoo.com^
+||i7x3.fun^
 ||iadsdk.apple.com^
 ||ib.snssdk.com^
+||informer.yandex.ru^
+||jill.fc.yahoo.com^
 ||jpaasne.e.shifen.com^
 ||log.strm.yandex.ru^
-||logs-ott.fbox.fpt.vn^
 ||marketingsolutions.yahoo.com^
+||mc.yandex.ru^
 ||mediaappletree.com^
 ||meitaolianmeng.ltd^
 ||mm.n3w1d0ma1n^
 ||mo.vlpyj.xy^
+||mtdkhfguafqijx.com^
+||nol.yahoo.com^
 ||pr.comet.yahoo.com^
-||qq628.live^
+||pv.sohu.com^
 ||rrf.fat1domain1^
 ||shackapple.com^
+||sitewithg.me^
 ||stats.video.search.yahoo.com^
 ||sub.powerapple.com^
+||supportmetrics.apple.com^
+||test.vast^
 ||theapple.site^
-||thehotlive.com^
-||whatstheword.co^
+||visit.webhosting.yahoo.com^
+||weeuqek.cn^
 ||wondefulapplend.com^
-||wordmonetize.com^
+||wugabts.com^
 ||wzjs1.oss-accelerate.aliyuncs.com^
 ||xp.apple.com^
 ||youtube.local^
@@ -1295,6 +1314,7 @@
 ||66cn.com^
 ||66e7b94f96.com^
 ||66f66dd865.com^
+||66ko9.com^
 ||66mjbg.com^
 ||670360.com^
 ||6740e9369b.com^
@@ -3949,6 +3969,7 @@
 ||ads.fox.com^
 ||ads.foxnetworks.com^
 ||ads.foxnews.com^
+||ads.fpt.vn^
 ||ads.fptplay.net.vn^
 ||ads.fredericksburg.com^
 ||ads.freebannertrade.com^
@@ -4530,6 +4551,7 @@
 ||ads7.advance.net^
 ||ads7.gamecity.net^
 ||ads7.speedbit.com^
+||ads8.fpt.vn^
 ||adsadmin.corusradionetwork.com^
 ||adsafety.net^
 ||adsagony.com^
@@ -6710,6 +6732,7 @@
 ||aphycolourses.info^
 ||aphyfllbla.xyz^
 ||api-keks.com^
+||api-logdev.sohatv.vn^
 ||api-stg.ensonhaber.com^
 ||api.140proof.com^
 ||api.abcxs.org^
@@ -21432,6 +21455,7 @@
 ||govxian.cn^
 ||govxinjiang.cn^
 ||govyunfu.cn^
+||gowin39.com^
 ||gowoman.ru^
 ||goxonnawhmkqq.com^
 ||goyetteconnelly.bid^
@@ -22166,6 +22190,7 @@
 ||hazelnutshighs.com^
 ||hb-247.com^
 ||hb.afl.rakuten.co.jp^
+||hb88p.com^
 ||hb8a.top^
 ||hbads.eboz.com^
 ||hbadz.eboz.com^
@@ -28190,6 +28215,7 @@
 ||logrocket.com^
 ||logrocket.io^
 ||logru.vietnamplus.vn^
+||logs-ott.fbox.fpt.vn^
 ||logs.amap.com^
 ||logs.datadoghq.eu^
 ||logs.docnhanh.com.vn^
@@ -28225,7 +28251,6 @@
 ||lol.to^
 ||lolco.net^
 ||lolhello.com^
-||loli.io^
 ||loli.net^
 ||lologhfd.com^
 ||lolper.ru^
@@ -37016,6 +37041,7 @@
 ||qq288.com^
 ||qq288jak.com^
 ||qq2ux.top^
+||qq628.live^
 ||qq86tbqodk.ru^
 ||qq8788.net^
 ||qq8788viet.com^
@@ -41580,6 +41606,7 @@
 ||spoki-noki.net^
 ||spolecznosci.net^
 ||spongecell.com^
+||sponsor.imacdn.com^
 ||sponsor1.com^
 ||sponsorads.de^
 ||sponsorcounter.de^
@@ -43821,6 +43848,7 @@
 ||thefreehitcounter.com^
 ||thefreshposts.com^
 ||thehomo.org^
+||thehotlive.com^
 ||thehotposts.com^
 ||theirsvendor.com^
 ||thekromp.com^
@@ -48466,6 +48494,7 @@
 ||whatsapp-chat.xyz^
 ||whatsappsohbetim.net^
 ||whatsappsupport.net^
+||whatstheword.co^
 ||whattoexpectheal.com^
 ||whaudsur.net^
 ||whaulids.com^
@@ -48931,6 +48960,7 @@
 ||worden.samenresultaat.nl^
 ||wordennutcake.com^
 ||wordkeyhelper.com^
+||wordmonetize.com^
 ||wordstore.net^
 ||wordstream.com^
 ||woreinformed.com^
@@ -50195,6 +50225,7 @@
 ||xniexnz.cn^
 ||xnnfchykwvgjmoh.com^
 ||xnxonbf.cn^
+||xo88.fun^
 ||xoalt.com^
 ||xogepg.com^
 ||xoktditxsmr.xyz^
@@ -59888,7 +59919,6 @@
 ||game.qidian.com^
 ||game.res.meizu.com^
 ||game.rising.cn^
-||game.subway.uu.cc^
 ||gamead.swjoy.com^
 ||gameads.digyourowngrave.com^
 ||gamebox.360.cn^
@@ -69748,6 +69778,7 @@
 ||tarteaucitron.ml^
 ||tartoals.net^
 ||taryarguestio.info^
+||tat.pandora.xiaomi.com^
 ||tataget.ru^
 ||tatagou.com.cn^
 ||tatahn.com^
@@ -74167,7 +74198,6 @@
 ||zzzzz4.52896368.com^
 ||519332da.rtc.youme.im^
 ||gvod.aiseejapp.atianqi.com^
-||tat.pandora.xiaomi.com^
 ||000123456789.online^
 ||000123456789.site^
 ||000123456789.space^
@@ -87132,6 +87162,7 @@
 ||ocelot.pixlwebs.nl^
 ||ocelot.simplifiedfitness.io^
 ||oci.dyn.com^
+||ocive.xyz^
 ||ocmxbu.hanatour.com^
 ||ocs.ameriprise.com^
 ||octopus.couragetrainingcentre.com^
@@ -88592,6 +88623,7 @@
 ||qoqv.com^
 ||qorosmall.com^
 ||qps.cint.com^
+||qptnew.com^
 ||qpwoei2.com^
 ||qq167.com^
 ||qq4g.cn^
@@ -88953,6 +88985,7 @@
 ||rjigj.cn^
 ||rjsouj.clubd.co.jp^
 ||rlhn.xyz^
+||rlllwby.cn^
 ||rlog.video.qq.com^
 ||rm-3d84e791.payby.com^
 ||rmawm7mw.top^
@@ -91672,6 +91705,7 @@
 ||szmpc.cn^
 ||szqipin.cn^
 ||szxhxp.gehalt.de^
+||szzb.xyz^
 ||t-abi.hypers.com.cn^
 ||t-s.actemra.com^
 ||t-s.avastin.com^
@@ -93452,6 +93486,7 @@
 ||utf1.liehuo.net^
 ||utklhk.kojima.net^
 ||utlnjry.top^
+||utlove02.com^
 ||utma.ywpxp.cn^
 ||uts.kingoapp.com^
 ||uttclimber.com^
@@ -94483,6 +94518,7 @@
 ||xgogi.com^
 ||xgsnjl.com^
 ||xgvenv.farmatodo.com.co^
+||xgvfkge.cn^
 ||xhamstercams.com^
 ||xhamsterpremium.com^
 ||xhandfuk.com^
@@ -95301,27 +95337,9 @@
 ||zzssywh.cn^
 ||zzyanhushi.com^
 ||zzz.pissrip.net^
-||3p-geo.yahoo.com^
-||3p-udc.yahoo.com^
 ||ad.kddi-fs.com^
-||adfox.yandex.ru^
-||adsdk.yandex.ru^
-||an.yandex.ru^
-||apple.www.letv.com^
-||awaps.yandex.ru^
-||bats.video.yahoo.com^
-||bs.yandex.ru^
-||collector2c.zhihuishu.com^
-||cookiex.ngd.yahoo.com^
-||ganon.yahoo.com^
-||geo.yahoo.com^
-||informer.yandex.ru^
-||jill.fc.yahoo.com^
 ||log.kuwo.cn^
-||mc.yandex.ru^
 ||metrics.apple.com^
-||nol.yahoo.com^
-||pv.sohu.com^
 ||retcode.taobao.com^
 ||securemetrics.apple.com^
 ||securemetrics.experience.apple^
@@ -95329,9 +95347,6 @@
 ||securemvt.apple.com.cn^
 ||ssp.rambler.ru^
 ||sugar.zhihu.com^
-||supportmetrics.apple.com^
-||test.vast^
-||visit.webhosting.yahoo.com^
 ||17gouwuba.com^
 ||186078.com^
 ||189key.com^

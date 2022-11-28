@@ -1,14 +1,14 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:07:58
+# UPDATED: 2022-11-28 22:27:27
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
-# DOMAIN: 10440
+# DOMAIN: 10438
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 97590
+# DOMAIN-SUFFIX: 97607
 # IP-CIDR: 244
 # URL-REGEX: 301
-# TOTAL: 108839
+# TOTAL: 108854
 00-gov.cn
 0026645142c89aeb1.com
 00ae8b5a9c1d597.com
@@ -261,7 +261,6 @@
 66.zx1234.com
 660a755deb8829fe.com
 66ce98158e4f402.com
-66ko9.com
 67126e4413a.com
 67785az.com
 6868bbe42af8e518.com
@@ -593,7 +592,6 @@ ads.adtrustmedia.com
 ads.appchair.com
 ads.chargeads.com
 ads.fotoable.net
-ads.fpt.vn
 ads.latinongroup.com
 ads.mediaforge.com.edgekey.net
 ads.mobitree.co.kr
@@ -610,7 +608,6 @@ ads.yahoo.com
 ads.youtube.com
 ads3-normal-lq.zijieapi.com
 ads5-normal-lq.zijieapi.com
-ads8.fpt.vn
 adsdk.yandex.ru
 adservhere.com
 adserving.favorit-network.com
@@ -891,7 +888,6 @@ apearmare.site
 apendit.com
 apfmwcktbj.com
 api-log.immomo.com
-api-logdev.sohatv.vn
 api-scsdk.appcloudbox.net
 api-vip.immomo.com
 api.1mobile.com
@@ -1423,6 +1419,7 @@ bohowhepsandked.info
 bolizirs.com
 bonugmdpqyvjc.com
 bookofkisl.com
+booptuwa.net
 booraipa.com
 boostshow.com
 boplhfqz.com
@@ -1487,6 +1484,7 @@ btttmgxtziztqq.com
 budgetedbauer.com
 buffalogoesout.com
 bugel.pronpic.org
+bugs2022.com
 bugsense.appspot.com
 buhlhkkvljt.com
 builder-assets.unbounce.com
@@ -1847,6 +1845,7 @@ cloud2.gsdk.proximabeta.com
 cloudtracked.com
 clpremdo.com
 clsyxddpbt.com
+clw99.mobi
 clz3.net
 clzfurcqmlgw.com
 cm.pinsightmedia.com
@@ -3018,6 +3017,7 @@ flac2flac.xyz
 flagship.asp-host.co.uk
 flashgamestats.com
 flashsavant.com
+flaxim.com
 flexknfp.com
 flipp.com
 flipy6sudy.com
@@ -3466,7 +3466,6 @@ gotrlayh.com
 goupandhigher.com
 govdelivery.com
 govereign.com
-gowin39.com
 gpatesbcesl.com
 gpdqzmhayrcgsy.com
 gpgsxlmjnfid.com
@@ -3633,7 +3632,6 @@ hauphaun.net
 hausly.info
 haviouslyshoutesce.info
 hb-minify-juc1ugur1qwqqqo4.stackpathdns.com
-hb88p.com
 hbfls.vip
 hbhcilgdqxt.com
 hbhfslicqq.com
@@ -3917,6 +3915,7 @@ i000o.com
 i0s26ol9.com
 i401xox.com
 i568vc.cn
+i7x3.fun
 i864ekhq.com
 iaatzkkqyv.com
 iadfjbrttvgn.com
@@ -5087,7 +5086,6 @@ log.kuwo.cn
 log.strm.yandex.ru
 logfrochi.site
 logger.su
-logs-ott.fbox.fpt.vn
 logs.starbolt.io
 logws1354.ati-host.net
 lohappbnrpgypu.com
@@ -5606,6 +5604,7 @@ mszoioqvm.com
 mt.sellingrealestatemalta.com
 mtbgrgscjwcjc.com
 mtbwqtfqnj.com
+mtdkhfguafqijx.com
 mtldesigns.ca
 mtmuhcmpz.com
 mtnreztslx.com
@@ -7006,7 +7005,6 @@ qpkyqrafgsacm.com
 qplcqdbiob.com
 qpljfpwdpk.com
 qpshvivbqpz.com
-qq628.live
 qqablora.com
 qqatxipoki.com
 qqdalrqzvukzto.com
@@ -7736,6 +7734,7 @@ sisyqzktimhrgo.com
 sitcom24.com
 siteanaliz.org
 sitestats.live
+sitewithg.me
 sitionne.pro
 sittiad.com
 sivqblzejhx.com
@@ -8204,7 +8203,6 @@ theequalground.info
 theersoa.net
 thefxarchive.com
 thehairofcaptainpicard.com
-thehotlive.com
 theih1w.top
 thekat.nl
 thenlathettors.pro
@@ -9197,6 +9195,7 @@ weepbvhyoo.com
 weepjoejkqadi.com
 weesh.co.uk
 weesschoollecthurri.info
+weeuqek.cn
 weimineiyixiu.cn
 welovepg.polymail.io
 wemgcdygokm.com
@@ -9236,7 +9235,6 @@ wh5kb0u4.com
 wha8q7pevj.com
 whackedmedia.com
 whatseet.net
-whatstheword.co
 whautsel.net
 wheptoot.net
 wheshaud.net
@@ -9337,7 +9335,6 @@ womenslabour.org
 wonchangvacuum.com.my
 wonclick.com
 wondefulapplend.com
-wordmonetize.com
 workably.club
 worlddatinghere.com
 worldsearchpro.com
@@ -9390,6 +9387,7 @@ wu.biquge.info
 wuaefxberbqcv.com
 wudraqvw.com
 wufcygryt.com
+wugabts.com
 wugwwssgjcn.com
 wuldvrdfie.com
 wultaikr.net
@@ -12945,6 +12943,7 @@ zzxosget.com
 .66f66dd865.com
 .66infra-strat.com
 .66jo.societegenerale.fr
+.66ko9.com
 .66mjbg.com
 .66san.com
 .66wen.com
@@ -18509,6 +18508,7 @@ zzxosget.com
 .ads.fox.com
 .ads.foxnetworks.com
 .ads.foxnews.com
+.ads.fpt.vn
 .ads.fptplay.net.vn
 .ads.fredericksburg.com
 .ads.free-to.download
@@ -19156,6 +19156,7 @@ zzxosget.com
 .ads7.gamecity.net
 .ads7.speedbit.com
 .ads8.com
+.ads8.fpt.vn
 .ads80.com
 .adsadmin.corusradionetwork.com
 .adsafeprotected.com
@@ -22500,6 +22501,7 @@ zzxosget.com
 .api-h.outgrow.co
 .api-keks.com
 .api-live.outgrow.co
+.api-logdev.sohatv.vn
 .api-n.outgrow.co
 .api-pravoved.s3.amazonaws.com
 .api-proxy.bee7.com
@@ -47914,7 +47916,6 @@ zzxosget.com
 .game.qidian.com
 .game.res.meizu.com
 .game.rising.cn
-.game.subway.uu.cc
 .game.vulcan-casino.com
 .game2.cn
 .game321.fr
@@ -49882,6 +49883,7 @@ zzxosget.com
 .govyunfu.cn
 .gowadogo.com
 .gowin01.com
+.gowin39.com
 .gowinxp.com
 .gowoman.ru
 .goxmrminer.com
@@ -51128,6 +51130,7 @@ zzxosget.com
 .hb.afl.rakuten.co.jp
 .hb.mynativeplatform.com
 .hb.vhsrv.com
+.hb88p.com
 .hb8a.top
 .hbaazk.bukalapak.com
 .hbads.eboz.com
@@ -61753,6 +61756,7 @@ zzxosget.com
 .logru.vietnamplus.vn
 .logs-01.loggly.com
 .logs-api.shoprunner.com
+.logs-ott.fbox.fpt.vn
 .logs-partners.coupang.com
 .logs-qos.tf1.fr
 .logs.51cto.com
@@ -61828,7 +61832,6 @@ zzxosget.com
 .loldyttw.com
 .loldyttw.net
 .lolhello.com
-.loli.io
 .loli.net
 .lolmp4.com
 .loloclicks.biz
@@ -70623,6 +70626,7 @@ zzxosget.com
 .ochringtensor.com
 .ochze.com
 .oci.dyn.com
+.ocive.xyz
 .ocjeg2ca9uh9.mailfloss.com
 .oclaserver.com
 .oclasrv.com
@@ -77811,6 +77815,7 @@ zzxosget.com
 .qprskl.com
 .qps.cint.com
 .qpslgfcsbvgm.com
+.qptnew.com
 .qpwgmphwnejfp.com
 .qpwiyfmlkhbxop.com
 .qpwoei2.com
@@ -77826,6 +77831,7 @@ zzxosget.com
 .qq2ux.top
 .qq4g.cn
 .qq61.com
+.qq628.live
 .qq86tbqodk.ru
 .qq8788.net
 .qq8788viet.com
@@ -80123,6 +80129,7 @@ zzxosget.com
 .rlhn.xyz
 .rlinks.one.in
 .rljjt.cn
+.rlllwby.cn
 .rloddo.olx.bg
 .rlog-api.under9.co
 .rlog.9gag.com
@@ -87587,6 +87594,7 @@ zzxosget.com
 .spoluprace.vcelarstvi-domovina.cz
 .spongecell.com
 .spongesalt.com
+.sponsor.imacdn.com
 .sponsor1.com
 .sponsorads.de
 .sponsorcounter.de
@@ -91192,6 +91200,7 @@ zzxosget.com
 .szxzytech.com
 .szyr474.com
 .szyuke.cn
+.szzb.xyz
 .szzd.ltd
 .t-abi.hypers.com.cn
 .t-ads.xiaohongshu.com
@@ -93053,6 +93062,7 @@ zzxosget.com
 .thefuncoolstuff.com
 .thegreenzoneblog.com
 .thehomo.org
+.thehotlive.com
 .thehotposts.com
 .theirsvendor.com
 .thejesperbay.com
@@ -98639,6 +98649,7 @@ zzxosget.com
 .utle.tech426.com
 .utll.cn
 .utlnjry.top
+.utlove02.com
 .utma.ywpxp.cn
 .utmostsecond.com
 .utmyoogrxpesf.xyz
@@ -101801,6 +101812,7 @@ zzxosget.com
 .whatsappsohbetim.net
 .whatsappsupport.net
 .whatsbroadcast.com
+.whatstheword.co
 .whattoexpectheal.com
 .whatya.solairo-api.com
 .whaudsur.net
@@ -102586,6 +102598,7 @@ zzxosget.com
 .worden.samenresultaat.nl
 .wordennutcake.com
 .wordkeyhelper.com
+.wordmonetize.com
 .wordshipopa.club
 .wordstore.net
 .wordstream.com
@@ -104205,6 +104218,7 @@ zzxosget.com
 .xgsx.club
 .xguqeh.com
 .xgvenv.farmatodo.com.co
+.xgvfkge.cn
 .xgwqjjgwhgke.com
 .xgzdys.com
 .xgzyfpmfkxa.com
@@ -104811,6 +104825,7 @@ zzxosget.com
 .xnxonbf.cn
 .xnyemao.com
 .xo704w18yt75.filmustage.com
+.xo88.fun
 .xoalt.com
 .xogepg.com
 .xogogowebcams.com

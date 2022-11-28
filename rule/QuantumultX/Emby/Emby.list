@@ -1,11 +1,11 @@
 # NAME: Emby
 # AUTHOR: justdoiting
 # REPO: https://github.com/justdoiting/emby-rules
-# UPDATED: 2022-11-03 17:11:25
-# HOST-KEYWORD: 4
+# UPDATED: 2022-11-28 22:30:11
+# HOST-KEYWORD: 3
 # HOST-SUFFIX: 34
 # IP-CIDR: 1
-# TOTAL: 39
+# TOTAL: 38
 HOST-SUFFIX,agahk1.jmsooo.com,Emby
 HOST-SUFFIX,agajp1.jmsooo.com,Emby
 HOST-SUFFIX,agasg1.jmsooo.com,Emby
@@ -40,8 +40,7 @@ HOST-SUFFIX,ntt1.jmsooo.com,Emby
 HOST-SUFFIX,plusmedia.site,Emby
 HOST-SUFFIX,pornemby.club,Emby
 HOST-SUFFIX,servers.xeton.dev,Emby
-HOST-KEYWORD,emby,Emby
+HOST-KEYWORD,emby.wtf,Emby
 HOST-KEYWORD,jmsooo,Emby
 HOST-KEYWORD,odysseyplus,Emby
-HOST-KEYWORD,xeton.dev,Emby
 IP-CIDR,161.97.148.156/24,Emby

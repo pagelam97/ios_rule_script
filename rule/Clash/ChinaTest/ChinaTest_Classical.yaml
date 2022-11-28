@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:09:15
+# UPDATED: 2022-11-28 22:29:18
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66800
+# DOMAIN-SUFFIX: 66808
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 67001
+# TOTAL: 67009
 payload:
   - DOMAIN,analytics.strava.com
   - DOMAIN,blzddist1-a.akamaihd.net
@@ -9276,6 +9276,7 @@ payload:
   - DOMAIN-SUFFIX,65650000.com
   - DOMAIN-SUFFIX,65677358625.com
   - DOMAIN-SUFFIX,65688qp.com
+  - DOMAIN-SUFFIX,6571n.com
   - DOMAIN-SUFFIX,65875.com
   - DOMAIN-SUFFIX,65918.tw
   - DOMAIN-SUFFIX,659595.com
@@ -10286,6 +10287,7 @@ payload:
   - DOMAIN-SUFFIX,89274.st
   - DOMAIN-SUFFIX,89303.com
   - DOMAIN-SUFFIX,8961zx.com
+  - DOMAIN-SUFFIX,897263tqs.com
   - DOMAIN-SUFFIX,8977567.com
   - DOMAIN-SUFFIX,8979.com
   - DOMAIN-SUFFIX,898.travel
@@ -10515,6 +10517,7 @@ payload:
   - DOMAIN-SUFFIX,91huayi.com
   - DOMAIN-SUFFIX,91huoke.com
   - DOMAIN-SUFFIX,91ios.com
+  - DOMAIN-SUFFIX,91jbz.com
   - DOMAIN-SUFFIX,91jf.com
   - DOMAIN-SUFFIX,91jiabohui.com
   - DOMAIN-SUFFIX,91jiafang.com
@@ -11738,6 +11741,7 @@ payload:
   - DOMAIN-SUFFIX,aibaix.com
   - DOMAIN-SUFFIX,aibang.com
   - DOMAIN-SUFFIX,aibaov.com
+  - DOMAIN-SUFFIX,aibe1e.cc
   - DOMAIN-SUFFIX,aibing.cc
   - DOMAIN-SUFFIX,aibo123.com
   - DOMAIN-SUFFIX,aibooks.cc
@@ -25906,7 +25910,6 @@ payload:
   - DOMAIN-SUFFIX,fuliapps.com
   - DOMAIN-SUFFIX,fuliba2020.net
   - DOMAIN-SUFFIX,fulibbs.com
-  - DOMAIN-SUFFIX,fulibest.com
   - DOMAIN-SUFFIX,fulijd.com
   - DOMAIN-SUFFIX,fulimin.org
   - DOMAIN-SUFFIX,fulin.org
@@ -26844,7 +26847,6 @@ payload:
   - DOMAIN-SUFFIX,ghlearning.com
   - DOMAIN-SUFFIX,ghmba.com
   - DOMAIN-SUFFIX,ghmcchina.com
-  - DOMAIN-SUFFIX,ghmp4.com
   - DOMAIN-SUFFIX,gho5.com
   - DOMAIN-SUFFIX,ghost008.com
   - DOMAIN-SUFFIX,ghost11.com
@@ -31810,6 +31812,7 @@ payload:
   - DOMAIN-SUFFIX,i5399.com
   - DOMAIN-SUFFIX,i5738.com
   - DOMAIN-SUFFIX,i5i6.net
+  - DOMAIN-SUFFIX,i5jh6b.cc
   - DOMAIN-SUFFIX,i5mai.com
   - DOMAIN-SUFFIX,i66wan.com
   - DOMAIN-SUFFIX,i6879.com
@@ -40568,6 +40571,7 @@ payload:
   - DOMAIN-SUFFIX,mbabao.com
   - DOMAIN-SUFFIX,mbabycare.com
   - DOMAIN-SUFFIX,mbachina.com
+  - DOMAIN-SUFFIX,mbadashi.com
   - DOMAIN-SUFFIX,mbajyz.com
   - DOMAIN-SUFFIX,mbalunwen.net
   - DOMAIN-SUFFIX,mbanggo.com
@@ -43114,6 +43118,7 @@ payload:
   - DOMAIN-SUFFIX,nicolaszhao.com
   - DOMAIN-SUFFIX,niconiconi.cc
   - DOMAIN-SUFFIX,nicotine.vip
+  - DOMAIN-SUFFIX,nicotv.me
   - DOMAIN-SUFFIX,nie.io
   - DOMAIN-SUFFIX,nielsenccdata.tv
   - DOMAIN-SUFFIX,nies.org
@@ -59815,6 +59820,7 @@ payload:
   - DOMAIN-SUFFIX,xiaoshituina.vip
   - DOMAIN-SUFFIX,xiaoshouhudong.com
   - DOMAIN-SUFFIX,xiaoshoukuaifa.com
+  - DOMAIN-SUFFIX,xiaoshourc.com
   - DOMAIN-SUFFIX,xiaoshouyi.com
   - DOMAIN-SUFFIX,xiaoshu168.com
   - DOMAIN-SUFFIX,xiaoshujiang.com
@@ -60380,6 +60386,7 @@ payload:
   - DOMAIN-SUFFIX,xinzheng.cc
   - DOMAIN-SUFFIX,xinzhenkj.com
   - DOMAIN-SUFFIX,xinzhi.space
+  - DOMAIN-SUFFIX,xinzzfsdfdslk333.com
   - DOMAIN-SUFFIX,xionganxinxi.com
   - DOMAIN-SUFFIX,xionganzhuce.com
   - DOMAIN-SUFFIX,xiongdayq.com
@@ -61474,6 +61481,7 @@ payload:
   - DOMAIN-SUFFIX,xyzggg.com
   - DOMAIN-SUFFIX,xyzkj.xyz
   - DOMAIN-SUFFIX,xyzmdzs.com
+  - DOMAIN-SUFFIX,xyzop.com
   - DOMAIN-SUFFIX,xyzs.com
   - DOMAIN-SUFFIX,xyzsq.com
   - DOMAIN-SUFFIX,xyzvo.com
@@ -64907,7 +64915,6 @@ payload:
   - DOMAIN-SUFFIX,zhangu365.com
   - DOMAIN-SUFFIX,zhangweijie.net
   - DOMAIN-SUFFIX,zhangwenli.com
-  - DOMAIN-SUFFIX,zhangxiaoyang.me
   - DOMAIN-SUFFIX,zhangxinhuichuan.com
   - DOMAIN-SUFFIX,zhangxinhulian.com
   - DOMAIN-SUFFIX,zhangxinxu.com
@@ -64948,6 +64955,7 @@ payload:
   - DOMAIN-SUFFIX,zhanyicg.com
   - DOMAIN-SUFFIX,zhanyouyun.com
   - DOMAIN-SUFFIX,zhao-meng.com
+  - DOMAIN-SUFFIX,zhao-zupu.com
   - DOMAIN-SUFFIX,zhaobeidaxiao.com
   - DOMAIN-SUFFIX,zhaobeijing.com
   - DOMAIN-SUFFIX,zhaobuxiu.com

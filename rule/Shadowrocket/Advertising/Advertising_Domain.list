@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 02:07:10
+# UPDATED: 2022-11-28 22:26:34
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14344
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 80721
+# DOMAIN-SUFFIX: 80732
 # IP-CIDR: 243
 # URL-REGEX: 301
-# TOTAL: 95686
+# TOTAL: 95697
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -16433,6 +16433,7 @@ zzxosget.com
 .66cn.com
 .66e7b94f96.com
 .66f66dd865.com
+.66ko9.com
 .66mjbg.com
 .66san.com
 .670360.com
@@ -21854,6 +21855,7 @@ zzxosget.com
 .ads.fox.com
 .ads.foxnetworks.com
 .ads.foxnews.com
+.ads.fpt.vn
 .ads.fptplay.net.vn
 .ads.fredericksburg.com
 .ads.freebannertrade.com
@@ -22470,6 +22472,7 @@ zzxosget.com
 .ads7.gamecity.net
 .ads7.speedbit.com
 .ads8.com
+.ads8.fpt.vn
 .ads80.com
 .adsadmin.corusradionetwork.com
 .adsafeprotected.com
@@ -25903,6 +25906,7 @@ zzxosget.com
 .api-flow.meizu.com
 .api-game.meizu.com
 .api-keks.com
+.api-logdev.sohatv.vn
 .api-push.meizu.com
 .api-shoulei-ssl.xunlei.com
 .api-stg.ensonhaber.com
@@ -45600,7 +45604,6 @@ zzxosget.com
 .game.qidian.com
 .game.res.meizu.com
 .game.rising.cn
-.game.subway.uu.cc
 .game.vulcan-casino.com
 .game.weibo.cn
 .game.weibo.com
@@ -47225,6 +47228,7 @@ zzxosget.com
 .govyunfu.cn
 .gowadogo.com
 .gowin01.com
+.gowin39.com
 .gowoman.ru
 .goxonnawhmkqq.com
 .goyetteconnelly.bid
@@ -48255,6 +48259,7 @@ zzxosget.com
 .hb-247.com
 .hb.afl.rakuten.co.jp
 .hb.vhsrv.com
+.hb88p.com
 .hb8a.top
 .hbaazk.bukalapak.com
 .hbads.eboz.com
@@ -57018,6 +57023,7 @@ zzxosget.com
 .logrocket.io
 .logru.vietnamplus.vn
 .logs-api.shoprunner.com
+.logs-ott.fbox.fpt.vn
 .logs-partners.coupang.com
 .logs-qos.tf1.fr
 .logs.51cto.com
@@ -57079,7 +57085,6 @@ zzxosget.com
 .lol.to
 .lolco.net
 .lolhello.com
-.loli.io
 .loli.net
 .lolmp4.com
 .loloclicks.biz
@@ -69921,6 +69926,7 @@ zzxosget.com
 .qq288jak.com
 .qq2ux.top
 .qq61.com
+.qq628.live
 .qq86tbqodk.ru
 .qq8788.net
 .qq8788viet.com
@@ -77925,6 +77931,7 @@ zzxosget.com
 .spolecznosci.net
 .spongecell.com
 .spongesalt.com
+.sponsor.imacdn.com
 .sponsor1.com
 .sponsorads.de
 .sponsorcounter.de
@@ -82082,6 +82089,7 @@ zzxosget.com
 .thefuncoolstuff.com
 .thegreenzoneblog.com
 .thehomo.org
+.thehotlive.com
 .thehotposts.com
 .theirsvendor.com
 .thejesperbay.com
@@ -89698,6 +89706,7 @@ zzxosget.com
 .whatsapp-chat.xyz
 .whatsappsohbetim.net
 .whatsappsupport.net
+.whatstheword.co
 .whattoexpectheal.com
 .whaudsur.net
 .whaulids.com
@@ -90297,6 +90306,7 @@ zzxosget.com
 .worden.samenresultaat.nl
 .wordennutcake.com
 .wordkeyhelper.com
+.wordmonetize.com
 .wordshipopa.club
 .wordstore.net
 .wordstream.com
@@ -92405,6 +92415,7 @@ zzxosget.com
 .xnnfchykwvgjmoh.com
 .xnxonbf.cn
 .xo704w18yt75.filmustage.com
+.xo88.fun
 .xoalt.com
 .xogepg.com
 .xoktditxsmr.xyz
