@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 22:29:18
+# UPDATED: 2022-11-30 02:09:06
 # DOMAIN: 177
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66808
+# DOMAIN-SUFFIX: 66804
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 67009
+# TOTAL: 67005
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -528,6 +528,7 @@ xn--flw351e.com
 .agoralab.co
 .agrantsem.com
 .ahitv.com
+.aiaa.org
 .aicdn.com
 .aichaoxing.com
 .aicoinstorge.com
@@ -5276,6 +5277,7 @@ xn--flw351e.com
 .12226.com
 .12227.com
 .122cha.com
+.122law.com
 .122park.com
 .123-789.com
 .123-biyezheng.org
@@ -6383,7 +6385,6 @@ xn--flw351e.com
 .2345a.com
 .2345ac.com
 .2345cdn.net
-.2345daohang.com
 .2345download.com
 .2345ff.com
 .2345licai.com
@@ -22737,6 +22738,7 @@ xn--flw351e.com
 .dsxdn.com
 .dsxtv.pro
 .dsxys.com
+.dsxys.pro
 .dsyjz0755.com
 .dszw.net
 .dtcash.com
@@ -23228,7 +23230,6 @@ xn--flw351e.com
 .e4008.com
 .e4221.com
 .e48.xyz
-.e4asoft.com
 .e521.com
 .e5421.com
 .e546.net
@@ -29348,7 +29349,6 @@ xn--flw351e.com
 .hedaotang.net
 .hedgehogrock.com
 .heduibu.com
-.heduwang.com
 .heeeeeh.com
 .heehee.club
 .heemoo.com
@@ -33296,7 +33296,6 @@ xn--flw351e.com
 .ishanshan.com
 .ishansong.com
 .ishaohuang.com
-.ishare20.net
 .isharebest.com
 .isharepc.com
 .isheely.com
@@ -35126,6 +35125,7 @@ xn--flw351e.com
 .jlgyjj.com
 .jljbbs.com
 .jljgdj.org
+.jljob88.com
 .jlkj.cc
 .jllihua.com
 .jlmhw.com
@@ -35511,7 +35511,6 @@ xn--flw351e.com
 .jshqjt.com
 .jshrconsult.com
 .jshsoft.com
-.jshuabo.com
 .jshuachen.com
 .jshy.com
 .jshylm.com
@@ -37434,7 +37433,6 @@ xn--flw351e.com
 .kvov.org
 .kwaicdn.com
 .kwaigobuy.com
-.kwaisczway7r4tz7m8.com
 .kwaishop.com
 .kwaishouapp.com
 .kwaixiaodian.com
@@ -39504,7 +39502,6 @@ xn--flw351e.com
 .lqbyj.com
 .lqgcb.com
 .lqgrdj.com
-.lqhigo.com
 .lqhualang.com
 .lqjob88.com
 .lqpsj.com
@@ -40596,6 +40593,7 @@ xn--flw351e.com
 .mc91.com
 .mcake.com
 .mcarding.com
+.mcbeam.pro
 .mcchcdn.com
 .mcchina.com
 .mcchou.com
@@ -40844,6 +40842,7 @@ xn--flw351e.com
 .meisubq.com
 .meisupic.com
 .meitangdehulu.com
+.meitaotaoo.com
 .meitegou.com
 .meitianhui.com
 .meitibijia.com
@@ -41098,7 +41097,6 @@ xn--flw351e.com
 .mianxiangxue.com
 .mianyazulin.com
 .miao-lang.com
-.miao.su
 .miaobe.com
 .miaoche.com
 .miaodiyun.com
@@ -43583,6 +43581,7 @@ xn--flw351e.com
 .nunu8.com
 .nuobeiliao.com
 .nuobg.com
+.nuobz.com
 .nuodefund.com
 .nuoder.com
 .nuoha.vip
@@ -43794,7 +43793,6 @@ xn--flw351e.com
 .office-peixun.com
 .office26.com
 .officectrl.com
-.officedoyen.com
 .officeedit.com
 .officesoftcn.com
 .officeweb365.com
@@ -44435,6 +44433,7 @@ xn--flw351e.com
 .padding.me
 .paddlepaddle.org
 .paddlewaver.com
+.pafwl.com
 .pageadmin.net
 .pagechoice.com
 .pagechoice.net
@@ -49619,6 +49618,7 @@ xn--flw351e.com
 .shenxianyu.cc
 .shenxingnet.com
 .shenyangoffice.com
+.shenyd.com
 .shenyecg.com
 .shenyehd.com
 .shenyou.tv
@@ -52070,7 +52070,6 @@ xn--flw351e.com
 .svmuu.com
 .svn999.com
 .svnbucket.com
-.svnfc.com
 .svnspot.com
 .svw-volkswagen.com
 .svwuc.com
@@ -56099,7 +56098,6 @@ xn--flw351e.com
 .vkemai.com
 .vksoft.com
 .vku6.com
-.vkvr.net
 .vlabstatic.com
 .vlan9.com
 .vland-official.com
@@ -58032,7 +58030,6 @@ xn--flw351e.com
 .wjdiy.net
 .wjgslb.com
 .wjhh666.com
-.wjhouses.com
 .wjhtxx.com
 .wjiaxing.com
 .wjika.com
@@ -58839,7 +58836,6 @@ xn--flw351e.com
 .www.vive.com
 .www.viveport.com
 .www.volvocars.com
-.www045789.com
 .www1.djicdn.com
 .www2.djicdn.com
 .www2011india.com
@@ -62673,6 +62669,7 @@ xn--flw351e.com
 .yizhanzx.com
 .yizhchan.com
 .yizhema.com
+.yizhengwx.com
 .yizhi-its.com
 .yizhibi.com
 .yizhidayu.com
@@ -66064,7 +66061,6 @@ xn--flw351e.com
 .zjscs.com
 .zjshuo.com
 .zjsight.com
-.zjsjdjhq.tokyo
 .zjsr.com
 .zjsxlt.com
 .zjszbank.com

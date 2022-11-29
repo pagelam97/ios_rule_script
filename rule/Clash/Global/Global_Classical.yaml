@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-28 22:28:33
+# UPDATED: 2022-11-30 02:08:32
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37285
+# DOMAIN-SUFFIX: 37284
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37610
+# TOTAL: 37609
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -644,7 +644,6 @@ payload:
   - DOMAIN-SUFFIX,ahtops.com
   - DOMAIN-SUFFIX,ahtranny.com
   - DOMAIN-SUFFIX,ahxxx.club
-  - DOMAIN-SUFFIX,aiaa.org
   - DOMAIN-SUFFIX,aibaobei.me
   - DOMAIN-SUFFIX,aicoin.com
   - DOMAIN-SUFFIX,aimei133.com
