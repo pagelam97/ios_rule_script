@@ -1,7 +1,7 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:10:11
+# UPDATED: 2022-11-30 22:28:29
 # DOMAIN: 10438
 # DOMAIN-KEYWORD: 264
 # DOMAIN-SUFFIX: 98295
@@ -7483,7 +7483,6 @@ payload:
   - DOMAIN,tapffdskgjr.com
   - DOMAIN,targetctracker.com
   - DOMAIN,tarteaucitron.ml
-  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,tataget.ru
   - DOMAIN,tatami-solutions.com
   - DOMAIN,tauwhout.net
@@ -9727,6 +9726,7 @@ payload:
   - DOMAIN,zzxosget.com
   - DOMAIN,519332da.rtc.youme.im
   - DOMAIN,gvod.aiseejapp.atianqi.com
+  - DOMAIN,tat.pandora.xiaomi.com
   - DOMAIN,204.scloud.lfengmobile.com
   - DOMAIN,2mdnsys.com
   - DOMAIN,39d83s.com

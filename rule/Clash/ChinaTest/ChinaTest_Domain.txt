@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:43
+# UPDATED: 2022-11-30 22:30:04
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66184
+# DOMAIN-SUFFIX: 66183
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66382
+# TOTAL: 66381
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -2244,7 +2244,6 @@ xn--flw351e.com
 .livechina.com
 .liweijia.com
 .lixinger.com
-.liyuans.com
 .lizhi.fm
 .lizhi.io
 .lizhifm.com

@@ -1,14 +1,14 @@
 # NAME: Proxy
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:26
+# UPDATED: 2022-11-30 22:29:54
 # DOMAIN: 7
 # DOMAIN-KEYWORD: 31
-# DOMAIN-SUFFIX: 24703
+# DOMAIN-SUFFIX: 24704
 # IP-CIDR: 92
 # IP-CIDR6: 3
 # USER-AGENT: 8
-# TOTAL: 24844
+# TOTAL: 24845
 api.waqi.info
 aqi.aqicn.org
 assets-priconne-redive-us.akamaized.net
@@ -11613,6 +11613,7 @@ voice.telephony.goog
 .livingotherwise.com
 .livingstream.com
 .liwangyang.com
+.liyuans.com
 .liyuwiki.com
 .lizakii.000webhostapp.com
 .lizhizhuangbi.com

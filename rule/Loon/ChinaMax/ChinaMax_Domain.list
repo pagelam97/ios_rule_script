@@ -1,15 +1,15 @@
 # NAME: ChinaMax
 # AUTHOR: blackmatrix7
 # REPO: https://gitlab.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:12:22
+# UPDATED: 2022-11-30 22:30:11
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67570
+# DOMAIN-SUFFIX: 67569
 # IP-ASN: 932
 # IP-CIDR: 6814
 # IP-CIDR6: 4713
 # USER-AGENT: 65
-# TOTAL: 80279
+# TOTAL: 80278
 265.com
 2mdn-cn.net
 accounts.googlers.com
@@ -37634,7 +37634,6 @@ xn--flw351e.com
 .liyu8.com
 .liyuanheng.com
 .liyuanhospital.com
-.liyuans.com
 .liyue.name
 .liyujn.com
 .lizaike.com

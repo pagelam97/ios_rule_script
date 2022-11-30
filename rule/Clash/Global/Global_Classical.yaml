@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:05
+# UPDATED: 2022-11-30 22:29:28
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37340
+# DOMAIN-SUFFIX: 37341
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37665
+# TOTAL: 37666
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -24587,6 +24587,7 @@ payload:
   - DOMAIN-SUFFIX,livingotherwise.com
   - DOMAIN-SUFFIX,livingstream.com
   - DOMAIN-SUFFIX,liwangyang.com
+  - DOMAIN-SUFFIX,liyuans.com
   - DOMAIN-SUFFIX,liyuwiki.com
   - DOMAIN-SUFFIX,lizakii.000webhostapp.com
   - DOMAIN-SUFFIX,lizhizhuangbi.com

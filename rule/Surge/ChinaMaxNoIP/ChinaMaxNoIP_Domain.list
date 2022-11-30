@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:12:46
+# UPDATED: 2022-11-30 22:30:24
 # DOMAIN: 149
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67272
+# DOMAIN-SUFFIX: 67271
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 67511
+# TOTAL: 67510
 265.com
 accounts.googlers.com
 accounts.xn--9trs65b.com
@@ -37378,7 +37378,6 @@ xn--flw351e.com
 .liyu8.com
 .liyuanheng.com
 .liyuanhospital.com
-.liyuans.com
 .liyue.name
 .liyujn.com
 .lizaike.com

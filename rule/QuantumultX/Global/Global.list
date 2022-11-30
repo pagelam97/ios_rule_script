@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:25
+# UPDATED: 2022-11-30 22:29:52
 # HOST: 399
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37670
+# HOST-SUFFIX: 37671
 # IP-CIDR: 110
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38267
+# TOTAL: 38268
 HOST,2mdn-cn.net,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
@@ -24870,6 +24870,7 @@ HOST-SUFFIX,livingonline.us,Global
 HOST-SUFFIX,livingotherwise.com,Global
 HOST-SUFFIX,livingstream.com,Global
 HOST-SUFFIX,liwangyang.com,Global
+HOST-SUFFIX,liyuans.com,Global
 HOST-SUFFIX,liyuwiki.com,Global
 HOST-SUFFIX,lizakii.000webhostapp.com,Global
 HOST-SUFFIX,lizhizhuangbi.com,Global

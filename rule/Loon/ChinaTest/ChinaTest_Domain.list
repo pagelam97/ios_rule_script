@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 21:11:42
+# UPDATED: 2022-11-30 22:30:03
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66184
+# DOMAIN-SUFFIX: 66183
 # IP-CIDR: 10
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 66413
+# TOTAL: 66412
 265.com
 2mdn-cn.net
 2mdn.net
@@ -36999,7 +36999,6 @@ xn--flw351e.com
 .liyu8.com
 .liyuanheng.com
 .liyuanhospital.com
-.liyuans.com
 .liyue.name
 .liyujn.com
 .lizaike.com

@@ -12,17 +12,17 @@ Proxy规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-11-30 21:11:26
+最后更新时间：2022-11-30 22:29:54
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 7  | 
 | DOMAIN-KEYWORD | 31  | 
-| DOMAIN-SUFFIX | 24703  | 
+| DOMAIN-SUFFIX | 24704  | 
 | IP-CIDR | 92  | 
 | IP-CIDR6 | 3  | 
-| TOTAL | 24836  | 
+| TOTAL | 24837  | 
 
 
 ## Clash 
