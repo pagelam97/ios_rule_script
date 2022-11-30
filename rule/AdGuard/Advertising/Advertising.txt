@@ -1,8 +1,8 @@
 ! Title: Advertising
 ! Author: blackmatrix7
 ! Homepage: https://github.com/blackmatrix7/ios_rule_script
-! Updated: 2022-11-30 02:07:03
-! Total: 95158
+! Updated: 2022-11-30 21:09:24
+! Total: 95187
 
 
 ||0-000.store^
@@ -1188,6 +1188,7 @@
 ||666679.xyz^
 ||666683.xyz^
 ||666684.xyz^
+||66668aaa.com^
 ||666722.xyz^
 ||666723.xyz^
 ||666724.xyz^
@@ -2057,6 +2058,7 @@
 ||abedwest.com^
 ||abeehing.net^
 ||abeets.ru^
+||abenshishabi.com^
 ||aberr.cn^
 ||abetterinternet.com^
 ||abevc.club^
@@ -2113,6 +2115,7 @@
 ||abothe.com^
 ||abough.com^
 ||abouixgccbne.com^
+||abould.com^
 ||abourselfi.com^
 ||aboutharrypotter.fasthost.tv^
 ||abouzune.net^
@@ -8863,6 +8866,7 @@
 ||bannet.fryazino.net^
 ||bannieres.wdmedia.net^
 ||bannuncio.com^
+||banquetsemina.com^
 ||banquetunarmedgrater.com^
 ||banreklama.ru^
 ||bans.bride.ru^
@@ -9129,6 +9133,7 @@
 ||bdgoexpjglspq.com^
 ||bdgvjmsohat.com^
 ||bdhbedpviibomin.com^
+||bdhcpll.cn^
 ||bdjg.xyz^
 ||bdjs.daziba.cn^
 ||bdjs.gushiju.net^
@@ -11982,6 +11987,7 @@
 ||cdn.malokacha.club^
 ||cdn.manga9.co^
 ||cdn.marjmedya.com^
+||cdn.mavi.digital^
 ||cdn.mediatradecraft.com^
 ||cdn.mixx-ad.net^
 ||cdn.movieads.ru^
@@ -13334,7 +13340,6 @@
 ||codezp1.com^
 ||codon.vn^
 ||coedmediagroup.com^
-||coefficy.com^
 ||coehornlandsat.com^
 ||coeliacclung.com^
 ||coenobeullucu.com^
@@ -14969,6 +14974,7 @@
 ||d1wirc5qsdb1y5.cloudfront.net^
 ||d1wix2gc2cgqis.cloudfront.net^
 ||d1wjz6mrey9f5v.cloudfront.net^
+||d1wv5x2u0qrvjw.cloudfront.net^
 ||d1xfq2052q7thw.cloudfront.net^
 ||d1xkyo9j4r7vnn.cloudfront.net^
 ||d1ybdlg8aoufn.cloudfront.net^
@@ -16258,6 +16264,7 @@
 ||dhlyikbubkibk.com^
 ||dhm1.top^
 ||dhonon.com^
+||dhprokejr.com^
 ||dhrfnyw.xyz^
 ||dhrhzii89gpwo.cloudfront.net^
 ||dhsuiat.xyz^
@@ -17741,6 +17748,7 @@
 ||edassiumw.xyz^
 ||edchargina.pro^
 ||edconside.com^
+||edcritessuspi.com^
 ||eddiclucilia.com^
 ||eddoesenwraps.com^
 ||eddy.noneto.com^
@@ -19642,6 +19650,7 @@
 ||figgynudest.com^
 ||fighsfg.cn^
 ||fightingcowardlycoffin.com^
+||fightingleatherconspicuous.com^
 ||figpii.com^
 ||figuis.com^
 ||figuredcurrantcroak.com^
@@ -21249,6 +21258,7 @@
 ||gforanoppo.com^
 ||gfppeqelk.com^
 ||gfpplflrif.com^
+||gfqfjau.cn^
 ||gfsdloocn.com^
 ||gfstrck.com^
 ||gft2.de^
@@ -25050,6 +25060,7 @@
 ||io.narrative.io^
 ||io1g.net^
 ||ioadserve.com^
+||ioaiaou.cn^
 ||ioam.de^
 ||iociley.com^
 ||iocnt.net^
@@ -26026,6 +26037,7 @@
 ||jpesfzcjob.com^
 ||jphfqq.cn^
 ||jphgxskntmn.com^
+||jpivxtsxpkn.com^
 ||jpjrkdtbnwc.com^
 ||jpmpuxglivupwy.com^
 ||jpnbhyba.xyz^
@@ -28822,6 +28834,7 @@
 ||looluchu.com^
 ||looneyads.com^
 ||loopa.net.au^
+||loopaautomate.com^
 ||loopanews.com^
 ||loopfuse.net^
 ||loopme.com^
@@ -29802,6 +29815,7 @@
 ||mbiifzdvhexj.com^
 ||mbiizkzics.com^
 ||mbitag.com^
+||mbledeparatea.com^
 ||mblink.in^
 ||mblyjustin.work^
 ||mbmqgo.cn^
@@ -30401,6 +30415,7 @@
 ||mfatallp.com^
 ||mfcewkrob.com^
 ||mfemqcarptdwtg.com^
+||mfigxlan.com^
 ||mfjpwroy.com^
 ||mfjxdfkge.com^
 ||mfk-cpm.com^
@@ -32158,6 +32173,7 @@
 ||net-filter.com^
 ||net-protector.com^
 ||net-radar.com^
+||net-tracker.notolytix.com^
 ||net00.biz^
 ||netadclick.com^
 ||netads.hotwired.com^
@@ -33431,6 +33447,7 @@
 ||oechestra.fr^
 ||oedlwhcqfpfup.xyz^
 ||oedspoiletkni.xyz^
+||oehhq.xyz^
 ||oeitlgqjw.com^
 ||oensil.com^
 ||oepihvxwaboed.com^
@@ -33668,6 +33685,7 @@
 ||olkrzytv.com^
 ||ollops.com^
 ||olpfeere.com^
+||olqhulfpezp.com^
 ||olsynmlk.fun^
 ||olsyuulk.cam^
 ||oltonve.ru^
@@ -37576,6 +37594,7 @@
 ||qj86.cn^
 ||qjcdnpv.com^
 ||qjezukyqwj.com^
+||qjfokdzhkyjf.com^
 ||qjing39.top^
 ||qjkfqcmxzxhg.ink^
 ||qjxys.cn^
@@ -39284,6 +39303,7 @@
 ||robspabah.com^
 ||robustcutlery.com^
 ||rocces.com^
+||roceau.com^
 ||rocexovo.com^
 ||rock.cheerfulhunter.com^
 ||rockabox.co^
@@ -39752,6 +39772,7 @@
 ||rvt2687sqo9o.ru^
 ||rvttrack.com^
 ||rvwtpwmtnfj.com^
+||rvyjbwr.cn^
 ||rwadakesz.cyou^
 ||rwhxz.space^
 ||rwlfznyvivh.com^
@@ -41133,6 +41154,7 @@
 ||shoushushi.info^
 ||shoutchu.net^
 ||shouyefrom.xyz^
+||shouzhi.biz^
 ||shouzhuanfs.com^
 ||shoveac.com^
 ||shovedrailwaynurse.com^
@@ -42810,6 +42832,7 @@
 ||stats.investors.com^
 ||stats.jibber.social^
 ||stats.jippii.com^
+||stats.ksearchnet.com^
 ||stats.ladotstats.nl^
 ||stats.landingi.com^
 ||stats.lptracker.ru^
@@ -44813,6 +44836,7 @@
 ||tiercelkeyseat.com^
 ||tierzf.xyz^
 ||tiesmaritalkidnap.com^
+||tieszhu.com^
 ||tiffybetween.website^
 ||tigely.com^
 ||tigerhub.net^
@@ -46094,6 +46118,7 @@
 ||trax.gamespot.com^
 ||trbas.com^
 ||trbo.com^
+||trc.gpcdn.pl^
 ||trc85.com^
 ||trccmpnlnk.com^
 ||trck.cyberport.de^
@@ -46520,6 +46545,7 @@
 ||tusno.com^
 ||tut-64.com^
 ||tut.prosmotrov.net^
+||tutfuqc.com^
 ||tutlyinlaik.com^
 ||tutoads.tv^
 ||tutvp.com^
@@ -47875,6 +47901,7 @@
 ||veickea.cn^
 ||veih8bee.xhcdn.com^
 ||veille-referencement.com^
+||veilsuccessfully.com^
 ||veimmy.com^
 ||veinnotionmariner.com^
 ||veinteractive.com^
@@ -49107,6 +49134,7 @@
 ||web-boosting.net^
 ||web-check.co^
 ||web-counter.net^
+||web-device-id.banggood.com^
 ||web-domain.net^
 ||web-guardian.xyz^
 ||web-hoster.co^
@@ -51795,6 +51823,7 @@
 ||yhp4an7.cn^
 ||yhti.net^
 ||yhz18.com^
+||yhzm.xyz^
 ||yibaosenlin.top^
 ||yibivacaji.com^
 ||yicha.jp^
@@ -52724,6 +52753,7 @@
 ||zihuiguochao.top^
 ||zijaipse.com^
 ||zikroarg.com^
+||zilchesmoated.com^
 ||ziling.ink^
 ||zim-zim-zam.com^
 ||zimank.com^
@@ -52959,7 +52989,6 @@
 ||zukxd6fkxqn.com^
 ||zuliglsa.space^
 ||zulu.r867qq.net^
-||zumads.vrixon.com^
 ||zumnxwva.ink^
 ||zumobi.com^
 ||zumolery.xyz^

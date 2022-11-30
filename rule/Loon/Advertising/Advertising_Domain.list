@@ -1,14 +1,14 @@
 # NAME: Advertising
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 02:07:01
+# UPDATED: 2022-11-30 21:09:21
 # DESCRIPTION: 分流规则中含有URL-REGEX类型，建议搭配MITM使用
 # DOMAIN: 14344
 # DOMAIN-KEYWORD: 77
-# DOMAIN-SUFFIX: 80814
+# DOMAIN-SUFFIX: 80843
 # IP-CIDR: 243
 # URL-REGEX: 301
-# TOTAL: 95779
+# TOTAL: 95808
 00-gov.cn
 0024aadd.com
 0026645142c89aeb1.com
@@ -16364,6 +16364,7 @@ zzxosget.com
 .666679.xyz
 .666683.xyz
 .666684.xyz
+.66668aaa.com
 .6666lm.com
 .666722.xyz
 .666723.xyz
@@ -18787,6 +18788,7 @@ zzxosget.com
 .abeets.ru
 .abeij.com
 .abema-adx.ameba.jp
+.abenshishabi.com
 .aberr.cn
 .abetterinternet.com
 .abevc.club
@@ -19001,6 +19003,7 @@ zzxosget.com
 .abothe.com
 .abough.com
 .abouixgccbne.com
+.abould.com
 .abourselfi.com
 .aboutharrypotter.fasthost.tv
 .abouzune.net
@@ -28469,6 +28472,7 @@ zzxosget.com
 .bannieres.wdmedia.net
 .bannuncio.com
 .banomago.com
+.banquetsemina.com
 .banquetunarmedgrater.com
 .banreklama.ru
 .bans.bride.ru
@@ -28865,6 +28869,7 @@ zzxosget.com
 .bdgoexpjglspq.com
 .bdgvjmsohat.com
 .bdhbedpviibomin.com
+.bdhcpll.cn
 .bdiae.com
 .bdj.tianya.cn
 .bdj.tianyaui.cn
@@ -32653,6 +32658,7 @@ zzxosget.com
 .cdn.malokacha.club
 .cdn.manga9.co
 .cdn.marjmedya.com
+.cdn.mavi.digital
 .cdn.mediatradecraft.com
 .cdn.mingmingtehui.com
 .cdn.mixx-ad.net
@@ -34625,7 +34631,6 @@ zzxosget.com
 .codon.vn
 .cody-stats.coupa.engineering
 .coedmediagroup.com
-.coefficy.com
 .coehornlandsat.com
 .coeliacclung.com
 .coenobeullucu.com
@@ -37030,6 +37035,7 @@ zzxosget.com
 .d1wirc5qsdb1y5.cloudfront.net
 .d1wix2gc2cgqis.cloudfront.net
 .d1wjz6mrey9f5v.cloudfront.net
+.d1wv5x2u0qrvjw.cloudfront.net
 .d1xfq2052q7thw.cloudfront.net
 .d1xkyo9j4r7vnn.cloudfront.net
 .d1ybdlg8aoufn.cloudfront.net
@@ -38877,6 +38883,7 @@ zzxosget.com
 .dhlyikbubkibk.com
 .dhm1.top
 .dhonon.com
+.dhprokejr.com
 .dhrfnyw.xyz
 .dhrhzii89gpwo.cloudfront.net
 .dhsjpz.bugaboo.com
@@ -41311,6 +41318,7 @@ zzxosget.com
 .edassiumw.xyz
 .edchargina.pro
 .edconside.com
+.edcritessuspi.com
 .edcritessuspi.info
 .eddiclucilia.com
 .eddjf.com
@@ -44092,6 +44100,7 @@ zzxosget.com
 .figgynudest.com
 .fighsfg.cn
 .fightingcowardlycoffin.com
+.fightingleatherconspicuous.com
 .figpii.com
 .figuis.com
 .figuredcurrantcroak.com
@@ -46319,6 +46328,7 @@ zzxosget.com
 .gforanoppo.com
 .gfppeqelk.com
 .gfpplflrif.com
+.gfqfjau.cn
 .gfsdloocn.com
 .gfstrck.com
 .gft2.de
@@ -51817,6 +51827,7 @@ zzxosget.com
 .io.narrative.io
 .io1g.net
 .ioadserve.com
+.ioaiaou.cn
 .ioam.de
 .ioc.mmakd.top
 .iociley.com
@@ -53224,6 +53235,7 @@ zzxosget.com
 .jph.itiexue.net
 .jphfqq.cn
 .jphgxskntmn.com
+.jpivxtsxpkn.com
 .jpjrkdtbnwc.com
 .jpmpuxglivupwy.com
 .jpnbhyba.xyz
@@ -57175,6 +57187,7 @@ zzxosget.com
 .looluchu.com
 .looneyads.com
 .loopa.net.au
+.loopaautomate.com
 .loopanews.com
 .loopfuse.net
 .loopme.com
@@ -58969,6 +58982,7 @@ zzxosget.com
 .mbiizkzics.com
 .mbitag.com
 .mbjb1.girl13.com
+.mbledeparatea.com
 .mbledeparatea.info
 .mblink.in
 .mblyjustin.work
@@ -60130,6 +60144,7 @@ zzxosget.com
 .mfcvxw.cn
 .mfd.myfirstdressing.com
 .mfemqcarptdwtg.com
+.mfigxlan.com
 .mfio.cf
 .mfjpwroy.com
 .mfjxdfkge.com
@@ -62510,6 +62525,7 @@ zzxosget.com
 .net-filter.com
 .net-protector.com
 .net-radar.com
+.net-tracker.notolytix.com
 .net.haier.com
 .net00.biz
 .net1.netski.com
@@ -64192,6 +64208,7 @@ zzxosget.com
 .oedlmz.underarmour.it
 .oedlwhcqfpfup.xyz
 .oedspoiletkni.xyz
+.oehhq.xyz
 .oei1.gq
 .oeitlgqjw.com
 .oek7.april-moto.com
@@ -64499,6 +64516,7 @@ zzxosget.com
 .olpfeere.com
 .olpv.onlylady.com
 .olpvimg.onlylady.com
+.olqhulfpezp.com
 .olspyo.laredoute.co.uk
 .olstats.onlylady.com
 .olsynmlk.fun
@@ -69850,6 +69868,7 @@ zzxosget.com
 .qjcpcy.imkosmetik.com
 .qjezukyqwj.com
 .qjfcdn1220.0101122.com
+.qjfokdzhkyjf.com
 .qjing39.top
 .qjjtc.com
 .qjkfqcmxzxhg.ink
@@ -72055,6 +72074,7 @@ zzxosget.com
 .robustbelieve.com
 .robustcutlery.com
 .rocces.com
+.roceau.com
 .rocexovo.com
 .rock.cheerfulhunter.com
 .rockabox.co
@@ -72646,6 +72666,7 @@ zzxosget.com
 .rvttrack.com
 .rvv.emol.com
 .rvwtpwmtnfj.com
+.rvyjbwr.cn
 .rvz9.destinia.co.ro
 .rwadakesz.cyou
 .rwdito.carsguide.com.au
@@ -75273,6 +75294,7 @@ zzxosget.com
 .shouyefrom.xyz
 .shouyoutan.com
 .shouyouyou.com
+.shouzhi.biz
 .shouzhuanfs.com
 .shoveac.com
 .shovedrailwaynurse.com
@@ -79207,6 +79229,7 @@ zzxosget.com
 .stats.kongressen.com
 .stats.krauss.io
 .stats.kryptoslogic.com
+.stats.ksearchnet.com
 .stats.ladotstats.nl
 .stats.landingi.com
 .stats.larsroettig.dev
@@ -82476,6 +82499,7 @@ zzxosget.com
 .tiercelkeyseat.com
 .tierzf.xyz
 .tiesmaritalkidnap.com
+.tieszhu.com
 .tiffybetween.website
 .tifybecausingp.info
 .tigely.com
@@ -85087,6 +85111,7 @@ zzxosget.com
 .trblocked.com
 .trbo.com
 .trc.caravas.jp
+.trc.gpcdn.pl
 .trc85.com
 .trccmpnlnk.com
 .trck.aeon.co.jp
@@ -85669,6 +85694,7 @@ zzxosget.com
 .tusno.com
 .tut-64.com
 .tut.prosmotrov.net
+.tutfuqc.com
 .tutlyinlaik.com
 .tutoads.tv
 .tutorthing.com
@@ -87567,6 +87593,7 @@ zzxosget.com
 .veickea.cn
 .veih8bee.xhcdn.com
 .veille-referencement.com
+.veilsuccessfully.com
 .veimmy.com
 .veinnotionmariner.com
 .veinteractive.com
@@ -89196,6 +89223,7 @@ zzxosget.com
 .web-boosting.net
 .web-check.co
 .web-counter.net
+.web-device-id.banggood.com
 .web-domain.net
 .web-guardian.xyz
 .web-hoster.co
@@ -93240,6 +93268,7 @@ zzxosget.com
 .yhz18.com
 .yhzbjz.com
 .yhzm.cc
+.yhzm.xyz
 .yi.ximizi.com
 .yi71.com.cn
 .yibaosenlin.top
@@ -94601,6 +94630,7 @@ zzxosget.com
 .ziig.com.cn
 .zijaipse.com
 .zikroarg.com
+.zilchesmoated.com
 .ziling.ink
 .zilzolachi.com
 .zim-zim-zam.com
@@ -94969,7 +94999,6 @@ zzxosget.com
 .zuliglsa.space
 .zulu.r867qq.net
 .zum7cc.oui.sncf
-.zumads.vrixon.com
 .zumhice.pw
 .zumnxwva.ink
 .zumobi.com

@@ -1,16 +1,15 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 02:07:44
-# DOMAIN: 10435
+# UPDATED: 2022-11-30 21:10:11
+# DOMAIN: 10438
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 98251
+# DOMAIN-SUFFIX: 98295
 # IP-CIDR: 244
-# TOTAL: 109194
+# TOTAL: 109241
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 46186911.vtt
-66668aaa.com
 80055404.vtt
 absurdapple.com
 adfox.yandex.ru
@@ -27,25 +26,29 @@ apple.www.letv.com
 applequan.com
 applescringe.com
 applesometimes.com
+arthwhilearthu.com
 awaps.yandex.ru
 awsync.yandex.ru
 bats.video.yahoo.com
-bdhcpll.cn
 beacon.search.yahoo.com
 beap-bc.yahoo.com
+benditao.biz
 blueduckredapple.com
 bs.yandex.ru
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
 crypta.js
+cutopporting.com
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
 fpb1.apple886.com
 ganon.yahoo.com
 geo.yahoo.com
-gfqfjau.cn
+harvester.cms.markiza.sk
+hsypwju.cn
 iadsdk.apple.com
 ib.snssdk.com
+iblimq.xyz
 informer.yandex.ru
 jill.fc.yahoo.com
 jpaasne.e.shifen.com
@@ -61,18 +64,18 @@ pr.comet.yahoo.com
 pv.sohu.com
 rrf.fat1domain1
 shackapple.com
-shouzhi.biz
 stats.video.search.yahoo.com
 sub.powerapple.com
+summer5188.com
 supportmetrics.apple.com
 test.vast
 theapple.site
-tieszhu.com
 visit.webhosting.yahoo.com
-web-device-id.banggood.com
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
+xinrern.cn
 xp.apple.com
+yes-24-go.cc
 youtube.local
 ad.xy2013.cn
 ads.play.cbsi.video
@@ -11622,6 +11625,7 @@ sugar.zhihu.com
 .666679.xyz
 .666683.xyz
 .666684.xyz
+.66668aaa.com
 .666722.xyz
 .666723.xyz
 .666724.xyz
@@ -12484,6 +12488,7 @@ sugar.zhihu.com
 .abedwest.com
 .abeehing.net
 .abeets.ru
+.abenshishabi.com
 .aberr.cn
 .abetterinternet.com
 .abevc.club
@@ -12540,6 +12545,7 @@ sugar.zhihu.com
 .abothe.com
 .abough.com
 .abouixgccbne.com
+.abould.com
 .abourselfi.com
 .aboutharrypotter.fasthost.tv
 .abouzune.net
@@ -18965,6 +18971,7 @@ sugar.zhihu.com
 .bannet.fryazino.net
 .bannieres.wdmedia.net
 .bannuncio.com
+.banquetsemina.com
 .banquetunarmedgrater.com
 .banreklama.ru
 .bans.bride.ru
@@ -19226,6 +19233,7 @@ sugar.zhihu.com
 .bdgoexpjglspq.com
 .bdgvjmsohat.com
 .bdhbedpviibomin.com
+.bdhcpll.cn
 .bdjg.xyz
 .bdjs.daziba.cn
 .bdjs.gushiju.net
@@ -22031,6 +22039,7 @@ sugar.zhihu.com
 .cdn.malokacha.club
 .cdn.manga9.co
 .cdn.marjmedya.com
+.cdn.mavi.digital
 .cdn.mediatradecraft.com
 .cdn.mixx-ad.net
 .cdn.movieads.ru
@@ -23357,7 +23366,6 @@ sugar.zhihu.com
 .codezp1.com
 .codon.vn
 .coedmediagroup.com
-.coefficy.com
 .coehornlandsat.com
 .coeliacclung.com
 .coenobeullucu.com
@@ -24974,6 +24982,7 @@ sugar.zhihu.com
 .d1wirc5qsdb1y5.cloudfront.net
 .d1wix2gc2cgqis.cloudfront.net
 .d1wjz6mrey9f5v.cloudfront.net
+.d1wv5x2u0qrvjw.cloudfront.net
 .d1xfq2052q7thw.cloudfront.net
 .d1xkyo9j4r7vnn.cloudfront.net
 .d1ybdlg8aoufn.cloudfront.net
@@ -26254,6 +26263,7 @@ sugar.zhihu.com
 .dhlyikbubkibk.com
 .dhm1.top
 .dhonon.com
+.dhprokejr.com
 .dhrfnyw.xyz
 .dhrhzii89gpwo.cloudfront.net
 .dhsuiat.xyz
@@ -27721,6 +27731,7 @@ sugar.zhihu.com
 .edassiumw.xyz
 .edchargina.pro
 .edconside.com
+.edcritessuspi.com
 .eddiclucilia.com
 .eddoesenwraps.com
 .eddy.noneto.com
@@ -29601,6 +29612,7 @@ sugar.zhihu.com
 .figgynudest.com
 .fighsfg.cn
 .fightingcowardlycoffin.com
+.fightingleatherconspicuous.com
 .figpii.com
 .figuis.com
 .figuredcurrantcroak.com
@@ -31191,6 +31203,7 @@ sugar.zhihu.com
 .gforanoppo.com
 .gfppeqelk.com
 .gfpplflrif.com
+.gfqfjau.cn
 .gfsdloocn.com
 .gfstrck.com
 .gft2.de
@@ -34950,6 +34963,7 @@ sugar.zhihu.com
 .io.narrative.io
 .io1g.net
 .ioadserve.com
+.ioaiaou.cn
 .ioam.de
 .iociley.com
 .iocnt.net
@@ -35921,6 +35935,7 @@ sugar.zhihu.com
 .jpesfzcjob.com
 .jphfqq.cn
 .jphgxskntmn.com
+.jpivxtsxpkn.com
 .jpjrkdtbnwc.com
 .jpmpuxglivupwy.com
 .jpnbhyba.xyz
@@ -38693,6 +38708,7 @@ sugar.zhihu.com
 .looluchu.com
 .looneyads.com
 .loopa.net.au
+.loopaautomate.com
 .loopanews.com
 .loopfuse.net
 .loopme.com
@@ -39668,6 +39684,7 @@ sugar.zhihu.com
 .mbiifzdvhexj.com
 .mbiizkzics.com
 .mbitag.com
+.mbledeparatea.com
 .mblink.in
 .mblyjustin.work
 .mbmqgo.cn
@@ -40263,6 +40280,7 @@ sugar.zhihu.com
 .mfatallp.com
 .mfcewkrob.com
 .mfemqcarptdwtg.com
+.mfigxlan.com
 .mfjpwroy.com
 .mfjxdfkge.com
 .mfk-cpm.com
@@ -41999,6 +42017,7 @@ sugar.zhihu.com
 .net-filter.com
 .net-protector.com
 .net-radar.com
+.net-tracker.notolytix.com
 .net00.biz
 .netadclick.com
 .netads.hotwired.com
@@ -43261,6 +43280,7 @@ sugar.zhihu.com
 .oechestra.fr
 .oedlwhcqfpfup.xyz
 .oedspoiletkni.xyz
+.oehhq.xyz
 .oeitlgqjw.com
 .oensil.com
 .oepihvxwaboed.com
@@ -43497,6 +43517,7 @@ sugar.zhihu.com
 .olkrzytv.com
 .ollops.com
 .olpfeere.com
+.olqhulfpezp.com
 .olsynmlk.fun
 .olsyuulk.cam
 .oltonve.ru
@@ -47363,6 +47384,7 @@ sugar.zhihu.com
 .qj86.cn
 .qjcdnpv.com
 .qjezukyqwj.com
+.qjfokdzhkyjf.com
 .qjing39.top
 .qjkfqcmxzxhg.ink
 .qjxys.cn
@@ -49062,6 +49084,7 @@ sugar.zhihu.com
 .robspabah.com
 .robustcutlery.com
 .rocces.com
+.roceau.com
 .rocexovo.com
 .rock.cheerfulhunter.com
 .rockabox.co
@@ -49523,6 +49546,7 @@ sugar.zhihu.com
 .rvt2687sqo9o.ru
 .rvttrack.com
 .rvwtpwmtnfj.com
+.rvyjbwr.cn
 .rwadakesz.cyou
 .rwhxz.space
 .rwlfznyvivh.com
@@ -50889,6 +50913,7 @@ sugar.zhihu.com
 .shoushushi.info
 .shoutchu.net
 .shouyefrom.xyz
+.shouzhi.biz
 .shouzhuanfs.com
 .shoveac.com
 .shovedrailwaynurse.com
@@ -52544,6 +52569,7 @@ sugar.zhihu.com
 .stats.investors.com
 .stats.jibber.social
 .stats.jippii.com
+.stats.ksearchnet.com
 .stats.ladotstats.nl
 .stats.landingi.com
 .stats.lptracker.ru
@@ -54525,6 +54551,7 @@ sugar.zhihu.com
 .tiercelkeyseat.com
 .tierzf.xyz
 .tiesmaritalkidnap.com
+.tieszhu.com
 .tiffybetween.website
 .tigely.com
 .tigerhub.net
@@ -55566,6 +55593,7 @@ sugar.zhihu.com
 .trax.gamespot.com
 .trbas.com
 .trbo.com
+.trc.gpcdn.pl
 .trc85.com
 .trccmpnlnk.com
 .trck.cyberport.de
@@ -55989,6 +56017,7 @@ sugar.zhihu.com
 .tusno.com
 .tut-64.com
 .tut.prosmotrov.net
+.tutfuqc.com
 .tutlyinlaik.com
 .tutoads.tv
 .tutvp.com
@@ -57335,6 +57364,7 @@ sugar.zhihu.com
 .veickea.cn
 .veih8bee.xhcdn.com
 .veille-referencement.com
+.veilsuccessfully.com
 .veimmy.com
 .veinnotionmariner.com
 .veinteractive.com
@@ -58554,6 +58584,7 @@ sugar.zhihu.com
 .web-boosting.net
 .web-check.co
 .web-counter.net
+.web-device-id.banggood.com
 .web-domain.net
 .web-guardian.xyz
 .web-hoster.co
@@ -61200,6 +61231,7 @@ sugar.zhihu.com
 .yhp4an7.cn
 .yhti.net
 .yhz18.com
+.yhzm.xyz
 .yibaosenlin.top
 .yibivacaji.com
 .yicha.jp
@@ -62126,6 +62158,7 @@ sugar.zhihu.com
 .zihuiguochao.top
 .zijaipse.com
 .zikroarg.com
+.zilchesmoated.com
 .ziling.ink
 .zim-zim-zam.com
 .zimank.com
@@ -62360,7 +62393,6 @@ sugar.zhihu.com
 .zukxd6fkxqn.com
 .zuliglsa.space
 .zulu.r867qq.net
-.zumads.vrixon.com
 .zumnxwva.ink
 .zumobi.com
 .zumolery.xyz
@@ -75984,7 +76016,6 @@ sugar.zhihu.com
 .abeacon.cn
 .abeacon.com
 .abee.yeeowl.xyz
-.abenshishabi.com
 .abergently.club
 .abhabh.club
 .abiaobai.cn
@@ -76807,6 +76838,7 @@ sugar.zhihu.com
 .allpass.salemwebnetwork.com
 .allsportsflix.best
 .allsportsflix.top
+.allsportsflix.xyz
 .allsporttv.com
 .allxing.net
 .alnw3nsdi.com
@@ -77986,6 +78018,7 @@ sugar.zhihu.com
 .breakingrubber.com
 .breedom.club
 .brfiles.com
+.briareddollier.com
 .brie5jiff.com
 .brightadnetwork.com
 .bringmesports.com
@@ -78063,6 +78096,7 @@ sugar.zhihu.com
 .buzzset.pics
 .buzzzoo.net
 .bvakl.ifeng.com
+.bvmbnr.xyz
 .bwekoc.celeconc.com
 .bwin2808.com
 .bwujxl.yoga-lava.com
@@ -78230,6 +78264,7 @@ sugar.zhihu.com
 .careerjournalonline.com
 .careers.coniferhealth.com
 .carextenuous.com
+.carfulsranquel.com
 .cargdk.bakerross.co.uk
 .caribou.color.io
 .caribou.mcgregorpublishing.com
@@ -78897,6 +78932,7 @@ sugar.zhihu.com
 .cmp.tori.fi
 .cmp.tvspielfilm.de
 .cmprofile.cards.citidirect.com
+.cmps.o2.cz
 .cmpv2.macworld.co.uk
 .cmpv2.techadvisor.fr
 .cms-image.cdn.bcebos.com
@@ -78950,6 +78986,7 @@ sugar.zhihu.com
 .codetips.wang
 .codeym.dictall.com
 .cody.services
+.coefficy.com
 .cograilluckly.com
 .coherepeasant.com
 .coin-hive-stratum-bqywuwxwij.now.sh
@@ -81465,6 +81502,7 @@ sugar.zhihu.com
 .df.thumbtack.com
 .df9377.com
 .dfggb.cc
+.dfkd.xyz
 .dfp.bouncex.net
 .dfp.garmin.com
 .dg-hospital.com
@@ -81593,6 +81631,7 @@ sugar.zhihu.com
 .dle-news.pw
 .dlrdmw.zanui.com.au
 .dlres.ind9ed.com
+.dlstngulshedates.net
 .dlswbr.baidu.com
 .dlvjmr.cn
 .dlvkf5067xruv.cloudfront.net
@@ -82398,6 +82437,7 @@ sugar.zhihu.com
 .ep.americanexpress.com
 .epcdko.forevernew.com.au
 .epeex.com
+.epfmfqh.cn
 .ephler.com
 .episerver.net
 .epleads.ru
@@ -83047,6 +83087,7 @@ sugar.zhihu.com
 .fumeiti.cc
 .fumiad.dxys.pro
 .fundingchoicesmessages.google.com
+.fungalsbooger.com
 .funmatrix.net
 .fusepsywi.com
 .fusion-files-cf.pinsightmedia.com
@@ -83112,6 +83153,7 @@ sugar.zhihu.com
 .gallantoutskirts.com
 .gallery.pandora.xiaomi.com
 .gambol.link
+.gambolspumicer.com
 .game.466.com
 .game.5xen.com
 .game.65pk.net
@@ -84713,7 +84755,6 @@ sugar.zhihu.com
 .inwemo.com
 .inyourarea.co.uk
 .io.fapnado.com
-.ioaiaou.cn
 .ioeczq.juno.co.uk
 .ioedpk.oneill.com
 .ionia.pro
@@ -85370,6 +85411,7 @@ sugar.zhihu.com
 .krakenoptimize.com
 .kriloff.ru
 .krpano.org
+.krubisstratic.com
 .ks42zt.spec.fm
 .ksaggspp.xyz
 .ksgpdp.shopagh.com
@@ -85483,6 +85525,7 @@ sugar.zhihu.com
 .largosoft.co.kr
 .lark.frugalweb.xyz
 .lasagneandands.com
+.last0nef1le.com
 .latam.cau1aighae.com
 .latam.thomsonreuters.com
 .latency.agoop.net
@@ -85626,6 +85669,7 @@ sugar.zhihu.com
 .likemore-go.imgsmail.ru
 .likenessalmosteradicate.com
 .lilangdianqi.cn
+.lilinstall11x.com
 .lilith.ink
 .limei.com
 .limetalk.com
@@ -85896,6 +85940,7 @@ sugar.zhihu.com
 .lp.northwestern.nm.org
 .lp.smartbusiness.samsung.com
 .lp.sophos.com
+.lp247p.com
 .lpbhnv.nbclosangeles.com
 .lpbhnv.necn.com
 .lpdbca.internetaptieka.lv
@@ -87511,6 +87556,7 @@ sugar.zhihu.com
 .ncwckj.com
 .nczils.pristineauction.com
 .nda3456.com
+.ndandinter.hair
 .ndapus.cn
 .nddmcconmqsy.ru
 .ndgrlo.visiondirect.com.au
@@ -87819,7 +87865,6 @@ sugar.zhihu.com
 .odinstreamy.com
 .odvtwl.naturecenter.com.br
 .oe.tredsd.com
-.oehhq.xyz
 .oelco.cn
 .oem.cnrghj.cn
 .oesonx.10000recipe.com
@@ -89272,6 +89317,7 @@ sugar.zhihu.com
 .qolhpm.iparts.pl
 .qoqv.com
 .qorosmall.com
+.qowg.top
 .qoygsv.born2be.pl
 .qps.cint.com
 .qpwoei2.com
@@ -89546,6 +89592,7 @@ sugar.zhihu.com
 .research.net
 .researchintel.com
 .researchnow.com
+.reseelysin.com
 .resentmentveneering.com
 .reservedoffers.club
 .residebroadly.com
@@ -89816,7 +89863,6 @@ sugar.zhihu.com
 .rvlmpo.xyz
 .rvpmqeoawfedmh.xyz
 .rvw.connection.com
-.rvyjbwr.cn
 .rw-yieldmo-com-1673518954.ap-southeast-1.elb.amazonaws.com
 .rw-yieldmo-com-1857737650.us-west-2.elb.amazonaws.com
 .rwhdta.bigsizeclub.co.kr
@@ -92102,7 +92148,6 @@ sugar.zhihu.com
 .stats.kambr.io
 .stats.keirwhitaker.com
 .stats.kroger.com
-.stats.ksearchnet.com
 .stats.kumulos.com
 .stats.kyushoku2050.org
 .stats.lauracpa.ca
@@ -93890,6 +93935,7 @@ sugar.zhihu.com
 .tutad.ru
 .tutotrack.com
 .tutworkfraghan.cam
+.tuxedochard.com
 .tuxi.com.cn
 .tuzufsi.cn
 .tuzynj.sacha.nl
@@ -94405,6 +94451,7 @@ sugar.zhihu.com
 .vodone.com
 .vogate.com
 .vogorana.ru
+.voices-kerence.com
 .vokut.com
 .volanosier.com
 .vole.contemporaryartlibrary.org
@@ -95111,6 +95158,7 @@ sugar.zhihu.com
 .wxs.qq.com
 .wxsnsad.tc.qq.com
 .wxsohu.com
+.wxumevd.cn
 .wxwkgxnemw.xyz
 .wydong.top
 .wyelmp.vidaxl.si
@@ -95611,7 +95659,6 @@ sugar.zhihu.com
 .yhmceakev.com
 .yhskfe.klipsch.com
 .yhvewh.aboutyou.ro
-.yhzm.xyz
 .yicpx.com
 .yidaweb.com
 .yidu.cc

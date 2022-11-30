@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 02:08:32
+# UPDATED: 2022-11-30 21:11:05
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37284
+# DOMAIN-SUFFIX: 37340
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37609
+# TOTAL: 37665
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -100,7 +100,6 @@ scholar.google.bg
 scholar.google.ca
 scholar.google.cat
 scholar.google.cl
-scholar.google.cn
 scholar.google.co.cr
 scholar.google.co.il
 scholar.google.co.in
@@ -159,6 +158,7 @@ statics-marketingsites-eus-ms-com.akamaized.net
 statics-marketingsites-wcus-ms-com.akamaized.net
 t21.nikkei.co.jp
 t21ipau.nikkei.co.jp
+tesla-cdn.thron.cn
 tesla-cdn.thron.com
 videos-rockstargames-com.akamaized.net
 vmware.tt.omtrdc.net
@@ -442,6 +442,7 @@ assets-priconne-redive-us.akamaized.net
 .a-hentai.tv
 .a0pple.net
 .a2z.com
+.a2z.org.cn
 .aaagradeheadphones.com
 .aacrjournals.org
 .aadmv.com
@@ -826,6 +827,8 @@ assets-priconne-redive-us.akamaized.net
 .amazonalexavoxcon.com
 .amazonauthorinsights.com
 .amazonaws-china.com
+.amazonaws.cn
+.amazonaws.com.cn
 .amazonaws.tv
 .amazonbusiness.cn
 .amazonbusiness.com.cn
@@ -860,7 +863,10 @@ assets-priconne-redive-us.akamaized.net
 .amazonvideo.cc
 .amazonvideo.com
 .amazonvideodirect.com
+.amazonwebservices.com.cn
+.amazonworkdocs.cn
 .amazonworkdocs.com
+.amazonworkdocs.com.cn
 .amdfanstore.com
 .ameba.jp
 .amebame.com
@@ -1234,6 +1240,7 @@ assets-priconne-redive-us.akamaized.net
 .asagaku.com
 .asahi.com
 .asebay.com
+.asfiovnxocqpcry.com.cn
 .asha.org
 .ashemaletv.com
 .ashleysageellison.com
@@ -1405,7 +1412,11 @@ assets-priconne-redive-us.akamaized.net
 .aweencore.com
 .awetv.com
 .awflapp.top
+.aws-border.cn
+.aws-icp-domain-manager.cn
 .aws-iot-hackathon.com
+.awsapps.cn
+.awsapps.com.cn
 .awsautopilot.com
 .awsautoscaling.com
 .awsbraket.com
@@ -1418,6 +1429,7 @@ assets-priconne-redive-us.akamaized.net
 .awsloft-johannesburg.com
 .awsloft-stockholm.com
 .awssecworkshops.com
+.awsstatic.cn
 .awsthinkbox.com
 .awstrack.me
 .awstrust.com
@@ -1452,6 +1464,7 @@ assets-priconne-redive-us.akamaized.net
 .azure-mobile.net
 .azure-sphere.com
 .azure-test.net
+.azure.cn
 .azure.net
 .azurecomcdn.net
 .azurecomm.net
@@ -2050,6 +2063,8 @@ assets-priconne-redive-us.akamaized.net
 .biorxiv.org
 .bioware.com
 .biowarestore.com
+.bisheng.cn
+.bishengcompiler.cn
 .bisq.io
 .bisq.network
 .bitballoon.com
@@ -2446,6 +2461,7 @@ assets-priconne-redive-us.akamaized.net
 .braveux.com
 .bravoporn.com
 .bravotube.tv
+.brawlstars.cn
 .brazilpartneruniversity.com
 .brazzer.com
 .brazzers-porno.online
@@ -3004,6 +3020,8 @@ assets-priconne-redive-us.akamaized.net
 .cloudflarestream.com
 .cloudflaretest.com
 .cloudflarewarp.com
+.cloudfront-test.cn
+.cloudfront.cn
 .cloudfunctions.net
 .cloudhealthtech.com
 .cloudimage.io
@@ -3329,6 +3347,7 @@ assets-priconne-redive-us.akamaized.net
 .dazndn.com
 .dcard.io
 .dcard.link
+.dcocsp.cn
 .dctbeatsbydre.com
 .dd-cdn.origin-apple.com.akadns.net
 .ddd-smart.net
@@ -5413,6 +5432,7 @@ assets-priconne-redive-us.akamaized.net
 .gmail.roche.com
 .gmnetworks.net
 .gmoney.org
+.gneec.com.cn
 .gnom-cham.com
 .gnu.org
 .go-disneyworldgo.com
@@ -5466,6 +5486,7 @@ assets-priconne-redive-us.akamaized.net
 .google.cf
 .google.ch
 .google.ci
+.google.cn
 .google.co.ck
 .google.co.id
 .google.com
@@ -5588,6 +5609,7 @@ assets-priconne-redive-us.akamaized.net
 .gotcosmos.com
 .gotgayporn.com
 .gothdporn.com
+.goto-game.net.cn
 .gotporn.com
 .gotraffic.net
 .gouhuo.qq.com
@@ -5707,6 +5729,7 @@ assets-priconne-redive-us.akamaized.net
 .hayabusa.dev
 .hayabusa.io
 .hayabusa.media
+.haydaypop.cn
 .hbabit.com
 .hbfile.net
 .hbo.com.c.footprint.net
@@ -5896,6 +5919,7 @@ assets-priconne-redive-us.akamaized.net
 .hgsacx.com
 .hhtdq17.com
 .hhvm.com
+.hiascend.cn
 .hibdontire.com
 .hidefporn.ws
 .hidive.com
@@ -5908,6 +5932,8 @@ assets-priconne-redive-us.akamaized.net
 .highporn.net
 .hightopnikes.com
 .highwirepress.com
+.hikunpeng.cn
+.hikunpeng.com.cn
 .hilostripper.com
 .himalaya.exchange
 .hindawi.com
@@ -5915,6 +5941,7 @@ assets-priconne-redive-us.akamaized.net
 .hipaa6020.com
 .hippyhillscomix.com
 .hipzoom.net
+.hisilicon.com.cn
 .historyofdota.com
 .historyofdota.net
 .historyofdota.org
@@ -6361,6 +6388,7 @@ assets-priconne-redive-us.akamaized.net
 .igpublish.com
 .igsonar.com
 .igtv.com
+.ihappystudio.cn
 .iherb.com
 .iijav.com
 .iina.io
@@ -7136,6 +7164,7 @@ assets-priconne-redive-us.akamaized.net
 .kyurem.com
 .l-0005.dc-msedge.net
 .l-0005.l-msedge.net
+.labycore.cn
 .lacomics.org
 .ladies.com
 .ladsp.com
@@ -7381,6 +7410,7 @@ assets-priconne-redive-us.akamaized.net
 .lucahmelayu.club
 .lucasentertainment.com
 .luckyissue.com
+.ludosuperstar.cn
 .lululu.one
 .luoli.info
 .lupoporno.com
@@ -7457,6 +7487,7 @@ assets-priconne-redive-us.akamaized.net
 .magicmovies.com
 .magnoliaav.com.cn
 .mahajantech.com
+.mahjongcup.cn
 .maileoch.com
 .mailhealth.com
 .mailonline.com
@@ -7663,6 +7694,7 @@ assets-priconne-redive-us.akamaized.net
 .mhhanman.xyz
 .mhradio.org
 .mhshosting.com
+.mhyurl.cn
 .mi9cdn.com
 .miamifintechfestival.com
 .miaomwu.com
@@ -7780,6 +7812,7 @@ assets-priconne-redive-us.akamaized.net
 .milofetch.com
 .mimei.store
 .mindmeld.com
+.mindspore.cn
 .minecraft.net
 .minecraftshop.com
 .minghui.org
@@ -8121,6 +8154,7 @@ assets-priconne-redive-us.akamaized.net
 .msturing.org
 .msudalosti.com
 .msunlimitedcloudsummit.com
+.mszdld.cn
 .mt-ssul1.com
 .mtao.fun
 .mtt.org
@@ -8752,6 +8786,10 @@ assets-priconne-redive-us.akamaized.net
 .nvidia.cn
 .nvidia.it
 .nvidiaforhp.com
+.nwcdcloud.cn
+.nwcdcloud.com.cn
+.nwcddns.cn
+.nwcdinfosec.cn
 .nxta.org
 .nyaa.net
 .nyansa.com
@@ -9818,6 +9856,7 @@ assets-priconne-redive-us.akamaized.net
 .ptt2.cc
 .ptt3.cc
 .ptzwx.com
+.pubgno1.cn
 .public-sex-porn.com
 .public-trust.com
 .publicagentxxx.com
@@ -10146,7 +10185,9 @@ assets-priconne-redive-us.akamaized.net
 .rm2029.com
 .ro89.com
 .road-crew.com
+.roblox.cn
 .roblox.qq.com
+.robloxdev.cn
 .roborecall.com
 .rocketfishproducts.com
 .rockettube.com
@@ -10168,6 +10209,7 @@ assets-priconne-redive-us.akamaized.net
 .roshy.tv
 .rou.video
 .roughman.net
+.route53.cn
 .routledgehandbooks.com
 .royalsocietypublishing.org
 .rplay.live
@@ -10219,6 +10261,7 @@ assets-priconne-redive-us.akamaized.net
 .sae.org
 .safebooru.org
 .saffrontech.com
+.sagemaker.com.cn
 .sagernet.org
 .sahabatsetiasmartone.com
 .sale-nikeshoes.com
@@ -10290,14 +10333,18 @@ assets-priconne-redive-us.akamaized.net
 .scatsite.com
 .scatvids.club
 .scatville.com
+.sccreator.cn
+.sccreators.cn
 .scene7.com
 .scenesource.me
+.scescdn.cn
 .scharferporno.com
 .schemer.com
 .schiffvitamins.com
 .scholarpedia.org
 .sci-hub.mksa.top
 .sci.hubg.org
+.scid.cn
 .science.com
 .science.org
 .sciencedirectassets.com
@@ -10323,6 +10370,7 @@ assets-priconne-redive-us.akamaized.net
 .scpwiki.com
 .screenwisetrends.com
 .screenwisetrendspanel.com
+.scsentry.cn
 .sdcountybmw.com
 .seagroup.com
 .seamonkey-project.org
@@ -10619,6 +10667,7 @@ assets-priconne-redive-us.akamaized.net
 .skunkgirl.cc
 .sky.com
 .skyassets.com
+.skydweller.cn
 .skyoceanrescue.com
 .skyoceanrescue.it
 .skype.net
@@ -10958,6 +11007,8 @@ assets-priconne-redive-us.akamaized.net
 .sunporno.com
 .supanimegames.com
 .superadultgames.com
+.supercellcommunity.cn
+.supercellsupport.cn
 .superearsenjoy.com
 .superhqporn.com
 .superjapanesesex.com
@@ -11151,6 +11202,7 @@ assets-priconne-redive-us.akamaized.net
 .testonfox.com
 .tettediferro.it
 .tex-talk.net
+.texasholdemcup.cn
 .texttobuy.org
 .texture.com
 .tfsallin.net
@@ -12141,11 +12193,13 @@ assets-priconne-redive-us.akamaized.net
 .webpkgcache.com
 .webtoons.com
 .weekly-economist.com
+.wegame.com.cn
 .weinvoiceit.com
 .weiyuksj.com
 .weknowporn.com
 .welcomix.com
 .wellmaturetube.com
+.werepository.com.cn
 .westerndigital.com
 .wet-ass-pussy.com
 .wetandpuffy.com
@@ -12501,6 +12555,7 @@ assets-priconne-redive-us.akamaized.net
 .xn--mts47c3w9b1qr.net
 .xn--mtswd61ejxq.com
 .xn--ohq11k7pl25iyo8a.cn
+.xn--owtw8cc49ajfl.cn
 .xn--pearsonenespaol-brb.com
 .xn--q41am8x.com
 .xn--qoq462m.com
@@ -12892,6 +12947,7 @@ assets-priconne-redive-us.akamaized.net
 .yusjb.com
 .ywbclx.top
 .ywoos.com
+.yximg.cn
 .yy55.tv
 .z.cn
 .z00.world
