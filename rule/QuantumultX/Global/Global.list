@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 22:29:52
+# UPDATED: 2022-12-02 02:08:48
 # HOST: 399
 # HOST-KEYWORD: 39
-# HOST-SUFFIX: 37671
+# HOST-SUFFIX: 37673
 # IP-CIDR: 110
 # IP6-CIDR: 4
 # USER-AGENT: 45
-# TOTAL: 38268
+# TOTAL: 38270
 HOST,2mdn-cn.net,Global
 HOST,44wilhpljf.execute-api.ap-southeast-1.amazonaws.com,Global
 HOST,a248.e.akamai.net,Global
@@ -5301,7 +5301,6 @@ HOST-SUFFIX,fullsexmovs.com,Global
 HOST-SUFFIX,fullstory.com,Global
 HOST-SUFFIX,fulltaboo.tv,Global
 HOST-SUFFIX,fullxxxmovies.net,Global
-HOST-SUFFIX,fun881211.com,Global
 HOST-SUFFIX,fundaiphone5s.com,Global
 HOST-SUFFIX,fundfire.com,Global
 HOST-SUFFIX,fundinginstitutional.com,Global
@@ -6926,6 +6925,7 @@ HOST-SUFFIX,javout.co,Global
 HOST-SUFFIX,javplatform.com,Global
 HOST-SUFFIX,javporn.tech,Global
 HOST-SUFFIX,javporn.ws,Global
+HOST-SUFFIX,javpost.net,Global
 HOST-SUFFIX,javprice.com,Global
 HOST-SUFFIX,javprime.net,Global
 HOST-SUFFIX,javpush.com,Global
@@ -6975,7 +6975,6 @@ HOST-SUFFIX,jiayoulu.com,Global
 HOST-SUFFIX,jibemobile.com,Global
 HOST-SUFFIX,jigsawthirsty.com,Global
 HOST-SUFFIX,jilhub.com,Global
-HOST-SUFFIX,jingbets.com,Global
 HOST-SUFFIX,jinnaju.com,Global
 HOST-SUFFIX,jinsilubanzhao.com,Global
 HOST-SUFFIX,jitsi.org,Global
@@ -8408,6 +8407,7 @@ HOST-SUFFIX,netacad.com,Global
 HOST-SUFFIX,netacad.net,Global
 HOST-SUFFIX,netarabic.com,Global
 HOST-SUFFIX,netfapx.com,Global
+HOST-SUFFIX,netflav1.com,Global
 HOST-SUFFIX,netflixdnstest0.com,Global
 HOST-SUFFIX,netflixdnstest1.com,Global
 HOST-SUFFIX,netflixdnstest10.com,Global
@@ -11988,7 +11988,6 @@ HOST-SUFFIX,vtvan.com,Global
 HOST-SUFFIX,vuvuzela.io,Global
 HOST-SUFFIX,vxnbbrs.xyz,Global
 HOST-SUFFIX,vxxsred.xyz,Global
-HOST-SUFFIX,w88club.com,Global
 HOST-SUFFIX,wa.me,Global
 HOST-SUFFIX,wal-mart.com,Global
 HOST-SUFFIX,wal.co,Global
@@ -21115,6 +21114,7 @@ HOST-SUFFIX,fun88.com,Global
 HOST-SUFFIX,fun88.com.cn,Global
 HOST-SUFFIX,fun8802.com,Global
 HOST-SUFFIX,fun8809.com,Global
+HOST-SUFFIX,fun881211.com,Global
 HOST-SUFFIX,fun8878.com,Global
 HOST-SUFFIX,fun8889.com,Global
 HOST-SUFFIX,fun88asia1.com,Global
@@ -23829,6 +23829,7 @@ HOST-SUFFIX,jin321.com,Global
 HOST-SUFFIX,jinbushe.org,Global
 HOST-SUFFIX,jing1155.com,Global
 HOST-SUFFIX,jing444444.com,Global
+HOST-SUFFIX,jingbets.com,Global
 HOST-SUFFIX,jingking.net,Global
 HOST-SUFFIX,jingling.me,Global
 HOST-SUFFIX,jingpin.org,Global
@@ -32169,6 +32170,7 @@ HOST-SUFFIX,w8638.com,Global
 HOST-SUFFIX,w88124.com,Global
 HOST-SUFFIX,w888055.com,Global
 HOST-SUFFIX,w888066.com,Global
+HOST-SUFFIX,w88club.com,Global
 HOST-SUFFIX,w88info.com,Global
 HOST-SUFFIX,w88w989.com,Global
 HOST-SUFFIX,w9155.com,Global

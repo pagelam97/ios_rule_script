@@ -1,18 +1,19 @@
 # NAME: AdvertisingTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-01 02:07:35
-# DOMAIN: 10438
+# UPDATED: 2022-12-02 02:07:44
+# DOMAIN: 10442
 # DOMAIN-KEYWORD: 264
-# DOMAIN-SUFFIX: 98295
+# DOMAIN-SUFFIX: 97629
 # IP-CIDR: 244
-# TOTAL: 109241
+# TOTAL: 108579
 46186911.vtt
 80055404.vtt
 absurdapple.com
 adfstat.yandex.ru
 ads.yahoo.com
 ads.youtube.com
+anonym.data.funkedigital.de
 anxiousapples.com
 api.sec.miui.com
 app.ssp.yahoo.com
@@ -20,41 +21,40 @@ appboy-images.com
 applequan.com
 applescringe.com
 applesometimes.com
-arthwhilearthu.com
 awsync.yandex.ru
 beacon.search.yahoo.com
 beap-bc.yahoo.com
-benditao.biz
 blueduckredapple.com
+cibgphkiqbjk.com
+collector.xhwide8.com
 crypta.js
-cutopporting.com
 d1stxfv94hrhia.cloudfront
 dmg-dd.oss-accelerate.aliyuncs.com
 fpb1.apple886.com
-harvester.cms.markiza.sk
-hsypwju.cn
+gkcmei.xyz
+gknybkl.cn
+h6cp.icu
+hssebb.xyz
 iadsdk.apple.com
 ib.snssdk.com
-iblimq.xyz
 jpaasne.e.shifen.com
+ll.k743.com
 log.strm.yandex.ru
 marketingsolutions.yahoo.com
 mediaappletree.com
 meitaolianmeng.ltd
 mm.n3w1d0ma1n
 mo.vlpyj.xy
+mucmoapa.com
 pr.comet.yahoo.com
 rrf.fat1domain1
 shackapple.com
 stats.video.search.yahoo.com
 sub.powerapple.com
-summer5188.com
 theapple.site
 wondefulapplend.com
 wzjs1.oss-accelerate.aliyuncs.com
-xinrern.cn
-xp.apple.com
-yes-24-go.cc
+yangliu.ink
 youtube.local
 ad.xy2013.cn
 ads.play.cbsi.video
@@ -9709,6 +9709,7 @@ gvod.aiseejapp.atianqi.com
 2mdnsys.com
 39d83s.com
 65c6.playfabapi.com
+8live.com
 a.hiimps.com
 a.unbounce.com
 a1294.w20.akamai.net
@@ -9720,6 +9721,7 @@ access.open.uc.cn
 accesstrade.com.vn
 accesstrade.vn
 ad-r.soulapp.cn
+ad.8live.com
 ad.chelaile.net.cn
 ad.soulapp.cn
 ad4mat-3cab.kxcdn.com
@@ -10414,6 +10416,7 @@ yieldify-static-files.s3.amazonaws.com
 ymsdk.apkcar.com
 yume.com
 zen.sr
+00px.net
 3p-geo.yahoo.com
 3p-udc.yahoo.com
 ad.kddi-fs.com
@@ -10426,6 +10429,7 @@ bats.video.yahoo.com
 bs.yandex.ru
 collector2c.zhihuishu.com
 cookiex.ngd.yahoo.com
+fortunatemark.com
 ganon.yahoo.com
 geo.yahoo.com
 informer.yandex.ru
@@ -10456,8 +10460,6 @@ visit.webhosting.yahoo.com
 .00xvppy.cn
 .0101011.com
 .0111d594c7.com
-.016665.com
-.016881.com
 .01d0c91c0d.com
 .01tn.cn
 .0210bb49cd.com
@@ -10482,7 +10484,6 @@ visit.webhosting.yahoo.com
 .03c844c9-d265-4006-a39d-400e6cb40bb7.xyz
 .03ed9035a0801f.com
 .03f128fb44.com
-.03gamek8.com
 .04-f-bmf.com
 .040e9e6099.com
 .0427d7.se
@@ -10579,6 +10580,7 @@ visit.webhosting.yahoo.com
 .1.5000yan.com
 .1.51dongshi.com
 .1.78500.cn
+.1.95ye.com
 .1.ccutu.com
 .1.doudouditu.com
 .1.gunsuo.com
@@ -10625,33 +10627,17 @@ visit.webhosting.yahoo.com
 .1111supjavcom.xyz
 .1118cctv.ltd
 .111supjav.xyz
-.1126bet.com
 .113o.com
 .1158tp.com
 .118bfe5b01.com
-.118kbet.com
 .1198194.com
-.11bet.club
-.11bet.com
-.11bet.life
-.11bet.net
-.11bet.online
-.11bet.us
-.11bet.win
 .11hrcnll.com
 .11nux.com
-.11zalo.com
 .12112336.pix-cdn.org
 .1219c3e1c9.com
 .121media.com
 .1221e236c3f8703.com
 .123-counter.de
-.123b.bet
-.123b.com
-.123b.org
-.123b03.com
-.123b333.com
-.123b88.com
 .123camquiz.com
 .123compteur.com
 .123count.com
@@ -10667,7 +10653,6 @@ visit.webhosting.yahoo.com
 .124fe3e59c.com
 .12805b86d6.com
 .1298bab69bbc4.com
-.12b99.com
 .12dc71b7cb820f2a.com
 .12fou.com
 .12mnkys.com
@@ -10701,7 +10686,6 @@ visit.webhosting.yahoo.com
 .1675450967.rsc.cdn77.org
 .167f8c4133.bar
 .1686607364.rsc.cdn77.org
-.168kbet.com
 .168zwm.com
 .16dcc05513.com
 .16m.cc
@@ -10709,7 +10693,6 @@ visit.webhosting.yahoo.com
 .17271819.com
 .172872.com
 .1731d04ba1.com
-.179bet.net
 .17chk.vip
 .1800cnt.com
 .180hits.de
@@ -10720,7 +10703,6 @@ visit.webhosting.yahoo.com
 .188affiliates.com
 .188cc81551.com
 .188server.com
-.188thethao.com
 .18a8f5a1c1.com
 .18ap945.cn
 .190282.xyz
@@ -10812,7 +10794,6 @@ visit.webhosting.yahoo.com
 .1so8inqb.cn
 .1sputnik.ru
 .1talking.net
-.1tamtam.com
 .1tdscpamedia.xyz
 .1terms.com
 .1traf.com
@@ -10830,8 +10811,6 @@ visit.webhosting.yahoo.com
 .1web.me
 .1wkg.cn
 .1wofaei.xyz
-.1xbet88vn.net
-.1xbetvn.com
 .1xdtscudjemp.com
 .1xl.co.uk
 .1xroom.com
@@ -10876,12 +10855,10 @@ visit.webhosting.yahoo.com
 .2222.ro
 .22588888.com
 .2276bf7413.com
-.228kbet.com
 .22c.in
 .22ei7q8l12.com
 .22fssv.com
 .22pornz.site
-.22zalo.com
 .2329.ink
 .23532451.com
 .23539355.com
@@ -11129,14 +11106,9 @@ visit.webhosting.yahoo.com
 .3338877.com
 .3356534.work
 .338f4d497f.com
-.338kbet.com
 .33a89nw03k.ru
 .33across.com
 .33b.b33r.net
-.33beta.com
-.33betad.com
-.33betc.com
-.33betf.com
 .33ceaea337.cfd
 .33portala.ru
 .33sdfg.com
@@ -11168,7 +11140,6 @@ visit.webhosting.yahoo.com
 .362b643a66026e.com
 .363lm.com
 .364a426c46.com
-.3650022.com
 .365339.top
 .365cf.vip
 .365dmp.com
@@ -11184,10 +11155,6 @@ visit.webhosting.yahoo.com
 .377zt.cn
 .380.tw
 .387635.com
-.388bet.top
-.388bet.us
-.388bet.vin
-.388bet.vip
 .3932161.xyz
 .396f4a512a.com
 .39785fe3f1.com
@@ -11231,7 +11198,6 @@ visit.webhosting.yahoo.com
 .3hbox.com
 .3i1cx7b9nupt.com
 .3kbktygzr5.ru
-.3kingclub.com
 .3line.tech
 .3lr67y45.com
 .3lucosy.com
@@ -11283,7 +11249,6 @@ visit.webhosting.yahoo.com
 .4399.space
 .441a8a5527.com
 .4484986022.com
-.448kbet.com
 .44j4oo2a.cn
 .452tapgn.de
 .45a8826890.com
@@ -11387,9 +11352,7 @@ visit.webhosting.yahoo.com
 .508ec56533e3937e.com
 .50bcea469a.com
 .50m.gkcyc.com
-.50soc.com
 .50websads.com
-.5123b.com
 .513575528.com
 .5150ab4aa5.com
 .516624.com
@@ -11422,7 +11385,6 @@ visit.webhosting.yahoo.com
 .51zdwy.cn
 .5201314.fashion
 .520myjj.xyz
-.520xiaojin.com
 .528791725.com
 .52c9f48b14.com
 .52kp2.com
@@ -11447,7 +11409,6 @@ visit.webhosting.yahoo.com
 .5551895.com
 .5551933.com
 .5555nt.com
-.558kbet.com
 .55b41bef46.com
 .55labs.com
 .55ssg53.xyz
@@ -11458,7 +11419,6 @@ visit.webhosting.yahoo.com
 .56bfc388bf12.com
 .56fff.net
 .56space.com
-.570manx.com
 .5726303d87522d05.com
 .572k3.com
 .573569djd.com
@@ -11530,7 +11490,6 @@ visit.webhosting.yahoo.com
 .5qg9ibt1a6.com
 .5rocks.io
 .5s34y422.cn
-.5shbet.com
 .5t15.cn
 .5toft8or7on8tt.com
 .5umpz4evlgkm.com
@@ -11685,12 +11644,10 @@ visit.webhosting.yahoo.com
 .666829.xyz
 .666832.xyz
 .666video.asia
-.668kbet.com
 .669fb3128e4b4.com
 .66cn.com
 .66e7b94f96.com
 .66f66dd865.com
-.66ko9.com
 .66mjbg.com
 .670360.com
 .6740e9369b.com
@@ -11706,8 +11663,6 @@ visit.webhosting.yahoo.com
 .688de7b3822de.com
 .6899.fun
 .68d97476e6.com
-.68rich.com
-.68rich.org
 .693836.com
 .69688qp.com
 .69ed4fcc9d.com
@@ -11812,28 +11767,11 @@ visit.webhosting.yahoo.com
 .77nnv9.xyz
 .77tel.com
 .7839e0482307b9276b.com
-.789.club
-.789.fun
-.789.moi
-.78966.app
-.7897890.vip
-.789a.club
-.789b.dev
-.789b.live
-.789club.biz
-.789club.com
-.789club.org
-.789clubs.club
-.789d.club
 .78dx8t.com
-.78win01.com
-.78win07.com
 .79181531227.com
 .799f57f5cc.com
 .79cedd0043.com
 .79k52baw2qa3.com
-.79lucky.com
-.79sodo.com
 .79xmz3lmss.com
 .79zxcv.com
 .7a07c25a29.com
@@ -11943,6 +11881,7 @@ visit.webhosting.yahoo.com
 .8547459af5da02.com
 .856f639e2a.com
 .85b4ff59c0.com
+.85c0a6a0ea.com
 .85e954452d.com
 .8603887.com
 .860d713f6e.com
@@ -11972,8 +11911,6 @@ visit.webhosting.yahoo.com
 .8858de83b4.com
 .8889573.com
 .8889888.vip
-.888b.com
-.888b.in
 .888casino.com
 .888media.net
 .888promos.com
@@ -11982,14 +11919,7 @@ visit.webhosting.yahoo.com
 .889433.com
 .889fb4992d4e8.com
 .88d7b6aa44fb8eb.com
-.88gobet.com
-.88new.cc
-.88online.me
 .88p2p.com
-.88thaicasinoslots.com
-.88viet.com
-.88vnd.com
-.88vwin.com
 .8910.la
 .8911101.com
 .891904ed87.com
@@ -12010,10 +11940,6 @@ visit.webhosting.yahoo.com
 .8chj9.com
 .8coins.net
 .8d26e3a7f3.com
-.8daily8.com
-.8day.com
-.8dayclub.com
-.8dayvn888.com
 .8dc832e7e4.com
 .8dfaa2dc76855.com
 .8eca555d94.com
@@ -12025,16 +11951,8 @@ visit.webhosting.yahoo.com
 .8hj500ro4t7.groovepages.com
 .8jay04c4q7te.com
 .8jrc564wtf.cn
-.8kbet.app
-.8kbet.vn
 .8kj1ldt1.de
 .8kuwoyi.xyz
-.8live.com
-.8live.fun
-.8live.net
-.8live.top
-.8live.vip
-.8livevn.com
 .8mdphsb8fm.com
 .8o9m.cn
 .8po6fdwjsym3.com
@@ -12044,21 +11962,6 @@ visit.webhosting.yahoo.com
 .8testov.ru
 .8ue9q7i.com
 .8wtkfxiss1o2.com
-.8x055.com
-.8xbet.com
-.8xbet.fun
-.8xbet.games
-.8xbet.win
-.8xbet.xyz
-.8xbet05.com
-.8xbet06.com
-.8xbet11.com
-.8xbet115.com
-.8xbet22.com
-.8xbet5.com
-.8xbet71.com
-.8xbet96.com
-.8xbet99.com
 .8zhou.wang
 .8zzo.icu
 .9001476746.com
@@ -12074,7 +11977,6 @@ visit.webhosting.yahoo.com
 .924e60106cd9d0e.com
 .9284swk.cn
 .92a2b69e29.com
-.92lottery.com
 .92mile.com
 .9304hhh999.vip
 .93533557591.com
@@ -12099,7 +12001,6 @@ visit.webhosting.yahoo.com
 .96e8abd9c4.com
 .976b97b6da.com
 .978655.online
-.978bet34.com
 .978ea72276.com
 .9795x.com
 .97d73lsi.com
@@ -12116,12 +12017,10 @@ visit.webhosting.yahoo.com
 .998k.at
 .9997494f4d4b694d4f6702.online
 .99997aaa.com
-.999live.net
 .99counters.com
 .99dc6ef64c.com
 .99e83e3024.com
 .99stats.com
-.99vn.bet
 .99zan.site
 .9a24a1b3dcd5f4.com
 .9a2a0fe656.com
@@ -12331,6 +12230,7 @@ visit.webhosting.yahoo.com
 .a6vv9o.online
 .a75-10-so.ssl.cdn13.com
 .a752b63c6b.com
+.a78wt.top
 .a7cleaner.com
 .a8.net
 .a8a8altrk.com
@@ -12351,7 +12251,6 @@ visit.webhosting.yahoo.com
 .aa.pornvideotop.com
 .aa.voice2page.com
 .aa53df329975c325.com
-.aa88.in
 .aa9deed09e.com
 .aa9q.cn
 .aa9u.cn
@@ -15632,11 +15531,6 @@ visit.webhosting.yahoo.com
 .adzworld.in
 .adzyou.com
 .ae1a1e258b8b016.com
-.ae3888.top
-.ae788.bet
-.ae888.com
-.ae888i.com
-.ae988bet.com
 .aec40f9e073ba6.com
 .aeckcjy.com
 .aecrmkbxb.xyz
@@ -15951,7 +15845,6 @@ visit.webhosting.yahoo.com
 .agazev.com
 .agazil.com
 .agazis.com
-.agbet.co
 .agcdn.com
 .agcm.xyz
 .agctrpokr.com
@@ -17537,6 +17430,7 @@ visit.webhosting.yahoo.com
 .artfut.com
 .arthahoonte.biz
 .arthritis.atspace.com
+.arthwhilearthu.com
 .arthyadtrack.online
 .arthyredir.com
 .articlegarlandferment.com
@@ -18204,9 +18098,6 @@ visit.webhosting.yahoo.com
 .avxeifhivmerku.com
 .avz3.xyz
 .aw6s.top
-.aw8vn.com
-.aw8vn2.com
-.aw8vn3.com
 .awafthealer.com
 .awaitbackseatprod.com
 .awaitcola.com
@@ -18478,8 +18369,6 @@ visit.webhosting.yahoo.com
 .b1img.com
 .b1js.com
 .b27ni7.g02.ign.com
-.b29.bet
-.b29qc.win
 .b2acafb3a3.com
 .b2bcontext.ru
 .b2bvideo.ru
@@ -18504,8 +18393,6 @@ visit.webhosting.yahoo.com
 .b49.xyz
 .b4jy.top
 .b509ab5b0d.com
-.b52.vip
-.b52.win
 .b53.xyz
 .b5332556b5.com
 .b546c8dcd2.com
@@ -18532,7 +18419,6 @@ visit.webhosting.yahoo.com
 .b85xx.site
 .b88392.top
 .b88f1c5cda.com
-.b89.bet
 .b89d654db3.com
 .b8cf0fd3179ef.com
 .b8e437d3a3.com
@@ -18749,7 +18635,6 @@ visit.webhosting.yahoo.com
 .banamertur.com
 .bananastouching.com
 .banbf.com
-.banca-red88.top
 .banclip.com
 .bancmuriel.space
 .bandborder.com
@@ -19171,7 +19056,6 @@ visit.webhosting.yahoo.com
 .bcajjtbzmdrl.com
 .bcamfgoaq.com
 .bcb3da3ac8.com
-.bcb80.com
 .bcbdmioguqrv.com
 .bcchitwhpkry.top
 .bcd.esprit.de
@@ -19483,6 +19367,7 @@ visit.webhosting.yahoo.com
 .bendcauslesscauslessnotion.com
 .bendibao.site
 .bendingalliance.com
+.benditao.biz
 .bendycrumply.com
 .beneathallowing.com
 .beneficial-gather.pro
@@ -19578,7 +19463,6 @@ visit.webhosting.yahoo.com
 .bestaryua.com
 .bestbestgirlz.in.net
 .bestblackhatforum.fr
-.bestcacuoc8.com
 .bestcandyever.com
 .bestcasinopartner.com
 .bestclevercaptcha.top
@@ -19661,12 +19545,8 @@ visit.webhosting.yahoo.com
 .beswarmfurless.cam
 .bet-at-home.com
 .bet.championat.com
-.bet20.bet
-.bet29.club
 .bet3000partners.com
 .bet365affiliates.com
-.bet52.vin
-.bet66.com
 .beta-news.org
 .beta.mediafort.ru
 .beta.simpel.nl
@@ -19677,7 +19557,6 @@ visit.webhosting.yahoo.com
 .betalonflamechan.com
 .betarget.com
 .betarget.de
-.betbanh88.com
 .betburdaaffiliates.com
 .betcdn.biz
 .betclic.com
@@ -19690,7 +19569,6 @@ visit.webhosting.yahoo.com
 .betjoltiktor.com
 .betkanyon100.com
 .betklefkior.com
-.betlv.com
 .betmasquerainchan.com
 .betnoctowlor.com
 .betoga.com
@@ -19718,8 +19596,6 @@ visit.webhosting.yahoo.com
 .bettingpartners.com
 .bettingstugan.se
 .beturtwiga.com
-.betvietnam.info
-.betvisa.com
 .betweendigital.com
 .betwinnerpromo.com
 .betxerneastor.club
@@ -19902,7 +19778,6 @@ visit.webhosting.yahoo.com
 .big-bang-ads.com
 .big-hunter.com
 .big6q4y2oy.ru
-.big88.one
 .bigads.guj.de
 .bigappboi.com
 .bigbangmedia.com
@@ -19954,7 +19829,6 @@ visit.webhosting.yahoo.com
 .bigspyglass.com
 .bigstats.net
 .bigtracker.com
-.bigwinvietnam.com
 .bigyapan.hamropatro.com
 .bigzdqecdfsxj.com
 .bihaipack.com
@@ -20142,11 +20016,6 @@ visit.webhosting.yahoo.com
 .bjzshy.cn
 .bjzysd.net
 .bk.goodline.info
-.bk8.live
-.bk8c.com
-.bk8p.com
-.bk8vietnam.com
-.bk8vnd.com
 .bkbxprput.com
 .bkehkgqg.com
 .bkembwdgujzp.com
@@ -20506,7 +20375,6 @@ visit.webhosting.yahoo.com
 .boftogro.net
 .bofyshaphi.com
 .bogads.com
-.bogcuoc.com
 .bogginunstill.com
 .bogrex.com
 .bogrodius.com
@@ -20551,12 +20419,6 @@ visit.webhosting.yahoo.com
 .bondfondif.com
 .boneville.fr
 .bonfiresaltymilk.com
-.bong88net.com
-.bong90.bet
-.bong99.com
-.bong99.fun
-.bong99.live
-.bong99.vip
 .bongacams.com
 .bongacams7.com
 .bongdadem.net
@@ -20588,7 +20450,6 @@ visit.webhosting.yahoo.com
 .bookwormapricotconcealment.com
 .boolff.com
 .boom-boom-vroom.com
-.boom66.com
 .boomads.com
 .boomerang.com.au
 .boomj.club
@@ -20824,6 +20685,7 @@ visit.webhosting.yahoo.com
 .brfddmrfb.com
 .brftedjb.com
 .brgvlyaccixnbnu.xyz
+.briareddollier.com
 .bricolage-avec-robert.fr
 .bricolo-blogger.fr
 .bridalspottagy.com
@@ -21269,9 +21131,6 @@ visit.webhosting.yahoo.com
 .bwbnsugrtq.com
 .bwbw2kje848hsmla.ru
 .bwcdn.xyz
-.bwingmkt1.com
-.bwingmkt10.com
-.bwingmkt8.com
 .bwinpartypartners.com
 .bwjjrmmxgdax.xyz
 .bwjtldk6flxispz.ru
@@ -21451,6 +21310,7 @@ visit.webhosting.yahoo.com
 .c303.pw
 .c3113b90b1.com
 .c3daf7c22c.com
+.c3ecfc3556.com
 .c3h5cae95p.ru
 .c3metrics.com
 .c3t-system-err.club
@@ -21475,7 +21335,6 @@ visit.webhosting.yahoo.com
 .c8.net.ua
 .c8141c728b.com
 .c86970797a.com
-.c88bet4.com
 .c8f502ed61.com
 .c9072c600c.com
 .c90752b0b5.com
@@ -21523,8 +21382,6 @@ visit.webhosting.yahoo.com
 .cachoustewing.com
 .cactusglobal.io
 .cactusmedia.com
-.cacuoc247.com
-.cacuoc79.com
 .cadaver.org
 .cadbitff.com
 .cadencecovetousfireplace.com
@@ -21723,6 +21580,7 @@ visit.webhosting.yahoo.com
 .carememachera.com
 .caressleazy.com
 .careuropecreatures.com
+.carfulsranquel.com
 .cargodisplayads.com
 .cargonurture.com
 .carguedquannet.com
@@ -21798,8 +21656,6 @@ visit.webhosting.yahoo.com
 .casino-sicuro.it
 .casino-zilla.com
 .casino770.com
-.casino86.club
-.casino888vn.com
 .casinopays.com
 .casinorewards.com
 .casinotoplists.com
@@ -22301,7 +22157,6 @@ visit.webhosting.yahoo.com
 .cfs2.uzone.id
 .cftrack.com
 .cfts1tifqr.com
-.cfun68.biz
 .cfuwvqga.xyz
 .cfwchydynfc.com
 .cgdiqvn.cn
@@ -22384,7 +22239,6 @@ visit.webhosting.yahoo.com
 .chartlon.skin
 .chasmypolloi.com
 .chassubs.com
-.chat789bet.com
 .chatakauntewed.com
 .chatbox-static.botbanhang.vn
 .chatbox-widget.botbanhang.vn
@@ -22540,7 +22394,6 @@ visit.webhosting.yahoo.com
 .chmc.xyz
 .cho7932105co3l2ate3covere53d.com
 .choachim.com
-.choang.fun
 .chobsang.net
 .chocohjuanfhdhf.com
 .chocolate521.online
@@ -22548,12 +22401,7 @@ visit.webhosting.yahoo.com
 .choedfqmn.com
 .choicedealz.com
 .choicesurveypanel.com
-.choingay88.com
 .choisimoncode.fr
-.choisv88.live
-.choita88.club
-.choiwin79.com
-.choiwin79.net
 .chokefirmbeauty.com
 .choksail.com
 .chokupsupto.com
@@ -23210,7 +23058,6 @@ visit.webhosting.yahoo.com
 .cmbpdk.cn
 .cmci5cape.icu
 .cmcre.fr
-.cmd368t.com
 .cmdsdkekfhavlv.xyz
 .cmfads.com
 .cmfyiomfhqoqd.com
@@ -23353,7 +23200,6 @@ visit.webhosting.yahoo.com
 .coder-bts.site
 .coderexception.com
 .coderformylife.info
-.coderiik.win
 .coderjim.ltd
 .coderturk.com
 .codes.royalad.pl
@@ -23518,12 +23364,6 @@ visit.webhosting.yahoo.com
 .combotag.com
 .combycopita.com
 .comclick.com
-.comebet.xyz
-.comebetvn1.com
-.comebetvn10.com
-.comebetvn2.com
-.comebetvn3.com
-.comebetvn9.com
 .comedyauto.com
 .comedyrent.com
 .comedyrepair.com
@@ -23902,7 +23742,6 @@ visit.webhosting.yahoo.com
 .corlsblt.cyou
 .corneey.com
 .cornuspurfled.com
-.corona999.com
 .coronisabv.com
 .corp-downloads.com
 .corporal.com
@@ -24567,7 +24406,6 @@ visit.webhosting.yahoo.com
 .cuntwars.com
 .cunyiesus.com
 .cunzashope.com
-.cuoc8live.com
 .cuopyuoallnateo.xyz
 .cupaaki.cyou
 .cupbiologicaljourney.com
@@ -24633,6 +24471,7 @@ visit.webhosting.yahoo.com
 .cutescale.online
 .cutlersbahaism.com
 .cutoft.com
+.cutopporting.com
 .cuttooscete.com
 .cuttuberaxis.com
 .cutworkbanago.cam
@@ -24660,7 +24499,6 @@ visit.webhosting.yahoo.com
 .cwhsasrwne.xyz
 .cwhsmgs1.cn
 .cwi.re
-.cwin999.com
 .cwkuki.com
 .cwnfkbio.xyz
 .cwphgqu.cn
@@ -24939,6 +24777,7 @@ visit.webhosting.yahoo.com
 .d1oxccu2k3w6jx.cloudfront.net
 .d1p3zboe6tz3yy.cloudfront.net
 .d1p7elpjrt6qav.cloudfront.net
+.d1p7gp5w97u7t7.cloudfront.net
 .d1pmhihatyvp1k.cloudfront.net
 .d1pn3cn3ri604k.cloudfront.net
 .d1pozdfelzfhyt.cloudfront.net
@@ -25452,7 +25291,6 @@ visit.webhosting.yahoo.com
 .dabaicai.ink
 .dabao.run
 .dabenlosb.com
-.dabet.me
 .dabiaozhi.com
 .dabihpillar.com
 .dable.io
@@ -25480,7 +25318,6 @@ visit.webhosting.yahoo.com
 .dadspmz.com
 .daedaelousscri.com
 .daf58a0948.com
-.dafacai360.com
 .daffaite.com
 .daftporus.website
 .dafttwist.com
@@ -25494,8 +25331,6 @@ visit.webhosting.yahoo.com
 .daijopimplo.com
 .daikuanfanli.com
 .dailiqing.net
-.daily88uu.com
-.dailybet365vn.com
 .dailyc24.com
 .dailygame.fr
 .dailynews.wiki
@@ -25555,8 +25390,6 @@ visit.webhosting.yahoo.com
 .dandyblondewinding.com
 .danger-phentermine.allforyourlife.com
 .dangerinsignificantinvent.com
-.dangkykubet.vip
-.dangkythabet.com
 .dangrancha.com.cn
 .danilidi.ru
 .danmeneldur.com
@@ -25665,7 +25498,6 @@ visit.webhosting.yahoo.com
 .dataxpand.com
 .datayi.cn
 .datazoom.io
-.datcuoc247.com
 .date.and-have.fun
 .date4sex.pro
 .datedate.today
@@ -25778,7 +25610,6 @@ visit.webhosting.yahoo.com
 .dd09af1279.com
 .dd3d.xyz
 .dd6zx4ibq538k.cloudfront.net
-.dd7bet.me
 .dd8af8726c.com
 .ddadkipor.com
 .ddajztoum.com
@@ -25845,9 +25676,6 @@ visit.webhosting.yahoo.com
 .dearestimmortality.com
 .dearwbdikfecdvc.com
 .debatenell.com
-.debet.com
-.debet.info
-.debet.top
 .debitcrebit669.com
 .debitswiping.com
 .debojuagug1sf.cloudfront.net
@@ -26198,7 +26026,6 @@ visit.webhosting.yahoo.com
 .df80k0z3fi8zg.cloudfront.net
 .df8c5028a1fad1.com
 .dfbvccwdlsl.com
-.dfchoingay.com
 .dfd1ec534a.com
 .dfdjilnzqgtow.com
 .dfdybylchujl.com
@@ -26210,7 +26037,7 @@ visit.webhosting.yahoo.com
 .dfgbodpefmlq.com
 .dfggq.com
 .dfjbgfldsjdsnldksjalld1235.cn
-.dfkaya.com
+.dfkd.xyz
 .dfmngtubtdfxnq.com
 .dfnac.fr
 .dfnetwork.link
@@ -26626,10 +26453,6 @@ visit.webhosting.yahoo.com
 .dk45agakx3yfl.cloudfront.net
 .dk57sacpbi4by.cloudfront.net
 .dk7rftbivnkgr.cloudfront.net
-.dk8.games
-.dk8.link
-.dk802.com
-.dk8815.com
 .dkfixj.xyz
 .dkfmhv.xyz
 .dkgmgj.xyz
@@ -26753,6 +26576,7 @@ visit.webhosting.yahoo.com
 .dnemkhkbsdbl.com
 .dnh523js9661q.cloudfront.net
 .dnhfi5nn2dt67.cloudfront.net
+.dnhyakcwoedah.com
 .dnjszp.cn
 .dnk2wr2ch6zxa.cloudfront.net
 .dnk56q7h.cn
@@ -26789,7 +26613,6 @@ visit.webhosting.yahoo.com
 .dochase.com
 .dockdigestion.com
 .doclix.com
-.docodoco.jp
 .docs-downloading.com
 .doctorhousing.com
 .doctorschoicenursing.com
@@ -26825,7 +26648,6 @@ visit.webhosting.yahoo.com
 .dokauzob.top
 .dokawd.cn
 .doklam.wang
-.dola88.info
 .dolarkurum.com
 .dolesminced.com
 .dollarade.com
@@ -27644,7 +27466,6 @@ visit.webhosting.yahoo.com
 .ebdr3.com
 .ebelmqvrrnc.com
 .ebesucher.de
-.ebet.com
 .ebetoni.com
 .ebhruifaomypdi.com
 .ebiads.ebiuniverse.com
@@ -27691,8 +27512,6 @@ visit.webhosting.yahoo.com
 .ecirque.fr
 .ecityalittl.buzz
 .eckosport.fr
-.eclbet02.com
-.eclbet7.com
 .eclczg.cn
 .ecleneue.com
 .eclick.vn
@@ -27804,11 +27623,7 @@ visit.webhosting.yahoo.com
 .ee.m08pe.cn
 .ee29eaf10d.com
 .ee2g.top
-.ee66.com
-.ee6611.com
 .ee6a35c1eeee.com
-.ee88.club
-.ee88.com
 .eeaacsmmdenxarx.com
 .eebfffjegjajjiacaci.ru
 .eebuwr.cn
@@ -27892,6 +27707,7 @@ visit.webhosting.yahoo.com
 .efflue.com
 .effolk.com
 .effortfranzbloodless.com
+.effram.com
 .effusedprankle.com
 .efgh.5lu.com
 .efhabjaabgfbbegjacj.ru
@@ -27996,9 +27812,6 @@ visit.webhosting.yahoo.com
 .ejurzsax.com
 .ejwxiuhjxep.com
 .ejyymghi.com
-.ek8802.com
-.ek882.com
-.ek883.com
 .ekansovi.com
 .ekareqif.xyz
 .ekexsztsgm.com
@@ -28275,7 +28088,6 @@ visit.webhosting.yahoo.com
 .ensurania.com
 .ent1.qunchua.cn
 .ent1.qunchua.com
-.ent678.com
 .entailcurrantreflect.com
 .entailresponded.com
 .entalsindust.one
@@ -28355,6 +28167,7 @@ visit.webhosting.yahoo.com
 .eperfectdata.com
 .eperuaangels.com
 .epfcfhtjxqd.com
+.epfmfqh.cn
 .epfqjcdqom.com
 .epheboiwreath.com
 .epi0tzwi.com
@@ -28556,7 +28369,6 @@ visit.webhosting.yahoo.com
 .estrack.net
 .estrangefoolish.com
 .estuantunsnow.com
-.estudiolak.com
 .esty.com
 .et-cod.com
 .et-code.ru
@@ -28655,7 +28467,6 @@ visit.webhosting.yahoo.com
 .euro-pr.eu
 .euroads.dk
 .eurocounter.com
-.eurofun88.com
 .europacash.com
 .europagerank.com
 .europe-west1-bonnier-big-data.cloudfunctions.net
@@ -28666,7 +28477,6 @@ visit.webhosting.yahoo.com
 .euros4click.de
 .eurospoprt.fr
 .eurostatsafetyshoes.tw
-.eurowin.top
 .euscarosheaf.com
 .euscaroversing.com
 .eussianeduke.xyz
@@ -29066,9 +28876,6 @@ visit.webhosting.yahoo.com
 .f853150605ccb.com
 .f857.hearstmediatx.com
 .f86c0f6c3b.com
-.f8bet0.com
-.f8bet5.com
-.f8betaa.com
 .f8c72280d8.com
 .f92j5.com
 .f95nkry2nf8o.com
@@ -29076,18 +28883,9 @@ visit.webhosting.yahoo.com
 .f9pennsy3glvkm6ania.com
 .fa.fpt.shop
 .fa3f0c1e3f.com
-.fa88.win
 .fa9123763f.com
 .faa39957a3.com
 .faachen.cn
-.fabet.com
-.fabet.me
-.fabet.tv
-.fabet.us
-.fabet.vip
-.fabet77.net
-.fabet88.net
-.fabetvn.com
 .fabhabitat.fr
 .fabric.io
 .fabricmedia.ru
@@ -29323,21 +29121,6 @@ visit.webhosting.yahoo.com
 .fb-plus.com
 .fb332fdc0d.com
 .fb3aace890.com
-.fb88.com
-.fb88.link
-.fb88aff.com
-.fb88anh.com
-.fb88club.com
-.fb88cup.com
-.fb88en.com
-.fb88go.com
-.fb88live.com
-.fb88max.com
-.fb88sg.com
-.fb88sports.com
-.fb88up.com
-.fb88viet.com
-.fb88you.com
 .fbcctf.com
 .fbcdn2.com
 .fbcjk.com
@@ -29357,11 +29140,6 @@ visit.webhosting.yahoo.com
 .fbwvly.cn
 .fc.webmasterpro.de
 .fc2ppv.buzz
-.fcb8.com
-.fcb8.fun
-.fcb8.vip
-.fcb88.com
-.fcb88d.com
 .fccinteractive.com
 .fcdnmkc.com
 .fcjfijejhjfefgfaaadc.ru
@@ -29551,6 +29329,7 @@ visit.webhosting.yahoo.com
 .ffflxue.cn
 .ffhre.com
 .ffkdxymyji.com
+.ffortyimagist.com
 .ffpp.xyz
 .ffrxuokerqsi.com
 .ffsmhmcwvlqna.com
@@ -29588,7 +29367,6 @@ visit.webhosting.yahoo.com
 .fhsmtrnsfnt.com
 .fhytsxjre.com
 .fhyxakwxrwbdqcy.xyz
-.fi88.club
 .fialet.com
 .fiberedvaleryl.com
 .ficellechallas.com
@@ -29757,13 +29535,8 @@ visit.webhosting.yahoo.com
 .fitness-for-ever.com
 .fitthings.info
 .fittingcentermonday.com
-.five88.biz
-.five88.com
-.five88.me
-.five88.net
 .fivecdm.com
 .fivern.com
-.fivevn.net
 .fiwhibse.com
 .fiwyjar.cn
 .fixbonus.com
@@ -30473,10 +30246,6 @@ visit.webhosting.yahoo.com
 .fumarinpest.com
 .fun-e-cards.com
 .fun-hits.com
-.fun1118.com
-.fun705.com
-.fun7778.com
-.fun881211.com
 .funcats.info
 .funconsistency.com
 .functionalclam.com
@@ -30484,6 +30253,7 @@ visit.webhosting.yahoo.com
 .functionspresidespiral.com
 .fundamentalenvironmental.com
 .fundardsesaz.club
+.fungalsbooger.com
 .fungus.online
 .funintheuk.com
 .funkerpep.com
@@ -30499,7 +30269,6 @@ visit.webhosting.yahoo.com
 .funstage.com
 .funtabsafe.com
 .funtoday.info
-.funtructuyen88.com
 .fuojuw.com
 .fuoo1.top
 .fupzhtvo.com
@@ -30701,29 +30470,20 @@ visit.webhosting.yahoo.com
 .gambling-affiliation.com
 .gamblingliquidate.com
 .gamblingsyndication.com
+.gambolspumicer.com
 .game-clicks.com
 .game-data.xyz
 .game-tester.ru
 .game.vulcan-casino.com
 .game321.fr
 .game4343.com
-.game88.pro
 .gameads.com
 .gameads.io
-.gameb52.live
-.gameb52.pro
-.gamebai.club
 .gamecetera.com
-.gamedoithuong.org
-.gameiwin.vip
 .gamejolt.fr
 .gamelights.ru
-.gameplaytogether.com
-.gamequyong.site
-.gamequyong.xyz
 .gamer.mmohuts.com
 .gamerickius.com
-.gamerikvip.live
 .gamersad.com
 .gamersbanner.com
 .gamerz123.com
@@ -30739,13 +30499,7 @@ visit.webhosting.yahoo.com
 .gamesrotator.com
 .gamestar.lol
 .gameteaser.ru
-.gamevip.info
-.gamevipclub.fun
-.gamevipclub.us
-.gamevui86.com
-.gamex8vn.club
 .gamez4tops.com
-.gamhay8live.net
 .gamigoads.com
 .gaming-adult.com
 .gamladjmtwyuf.com
@@ -30827,7 +30581,6 @@ visit.webhosting.yahoo.com
 .gayadpros.com
 .gazati.com
 .gazia.fr
-.gaznbike.com
 .gbaseby.ru
 .gbcvbnv5.com
 .gbdixorxxdjykr.com
@@ -30923,8 +30676,6 @@ visit.webhosting.yahoo.com
 .gdrvwsqlikh.com
 .gdsoq.com
 .gdufpjrhran.com
-.gdwbetvn888.com
-.gdwviet.com
 .gdyn.cnngo.com
 .gdzmqquwkuzw.com
 .gearsora.com
@@ -31067,6 +30818,7 @@ visit.webhosting.yahoo.com
 .get-downloads.com
 .get-express-vpn.com
 .get-my-prize-n1w.live
+.get-partner.life
 .get-things-done.net
 .get.com
 .get.cryptobrowser.site
@@ -31272,8 +31024,6 @@ visit.webhosting.yahoo.com
 .ghwsuoe.cn
 .ghxadv.com
 .ghyklxvleas.xyz
-.gi888.cc
-.gi8vn.vip
 .giantaffiliates.com
 .gianwho.com
 .gibbousbalaic.com
@@ -31591,6 +31341,7 @@ visit.webhosting.yahoo.com
 .go.jetswap.com
 .go.media-x.ru
 .go.mobstitialtag.com
+.go.scmagazine.com
 .go.stirshakead.com
 .go.toutapp.com
 .go.ukrleads.com
@@ -31613,20 +31364,10 @@ visit.webhosting.yahoo.com
 .go6shde9nj2itle.com
 .go7me.ru
 .go7media.ru
-.go88.club
-.go88.com
-.go88bet.net
-.go88vn.live
-.go88vn.vip
 .go8me.ru
 .goaciptu.net
 .goads.pro
 .goajuzey.com
-.goal123.com
-.goal68.com
-.goal68.net
-.goal68.top
-.goal86.top
 .goalebim.com
 .goaleedeary.com
 .goaljet.ltd
@@ -31866,7 +31607,6 @@ visit.webhosting.yahoo.com
 .govxian.cn
 .govxinjiang.cn
 .govyunfu.cn
-.gowin39.com
 .gowoman.ru
 .goxonnawhmkqq.com
 .goyetteconnelly.bid
@@ -32356,7 +32096,6 @@ visit.webhosting.yahoo.com
 .h12h.fun
 .h1ek.xyz
 .h2aek6rv0ard.com
-.h3bet.com
 .h3helgf2g7k8.com
 .h3lw971ym6.com
 .h41s.com
@@ -32503,11 +32242,9 @@ visit.webhosting.yahoo.com
 .haphazardhum.com
 .haphiterton.ru
 .hapket.ru
-.happy9luck.com
 .happycastle.me
 .happyfresh.fr
 .happyhs.club
-.happynb.com
 .happysow.com
 .happyunicorns.gutefrage.net
 .happyyong.com
@@ -32539,6 +32276,7 @@ visit.webhosting.yahoo.com
 .hartalltunker.com
 .hartamann.fr
 .haruepy.cn
+.harvester.cms.markiza.sk
 .harvester.hnonline.sk
 .harvesttheory.com
 .hasdrs.com
@@ -32558,6 +32296,7 @@ visit.webhosting.yahoo.com
 .hastilyguide.com
 .hatagashira.com
 .hatbenchmajestic.com
+.hatchetsiegecleverness.com
 .hatchord.com
 .hatdfg-rhgreh684.frge.io
 .hatedgeographical.com
@@ -32602,7 +32341,6 @@ visit.webhosting.yahoo.com
 .hazelnutshighs.com
 .hb-247.com
 .hb.afl.rakuten.co.jp
-.hb88p.com
 .hb8a.top
 .hbads.eboz.com
 .hbadz.eboz.com
@@ -32944,8 +32682,6 @@ visit.webhosting.yahoo.com
 .hhvdds.com
 .hhyyt.top
 .hi.5.p2l.info
-.hi888.app
-.hi88vip8.com
 .hiaaheddgjdfgabiafc.ru
 .hiadone.com
 .hiankh.com
@@ -33135,6 +32871,7 @@ visit.webhosting.yahoo.com
 .hjgd.ltd
 .hjgrc.xyz
 .hjhbhddren.com
+.hjheaijhafgfgbaaaei.ru
 .hjiss.com
 .hjjevg.com
 .hjjkk66.xyz
@@ -33422,7 +33159,6 @@ visit.webhosting.yahoo.com
 .hotinfosource.com
 .hotinga.ru
 .hotkeys.com
-.hotlive8.vip
 .hotlog.ru
 .hotnews1.me
 .hotngay.vn
@@ -33571,6 +33307,7 @@ visit.webhosting.yahoo.com
 .hsy0616.love
 .hsybe0m5.site
 .hsykicwjl.com
+.hsypwju.cn
 .hsywzx.cn
 .ht-srl.com
 .htalizer.com
@@ -33832,6 +33569,7 @@ visit.webhosting.yahoo.com
 .hyprmx.com
 .hyrewusha.pro
 .hystericalpotprecede.com
+.hyuusqudbvvqyi.com
 .hyxn.net
 .hyxumuta.com
 .hyyaofjnidwiyg.com
@@ -33896,21 +33634,9 @@ visit.webhosting.yahoo.com
 .i8023.icu
 .i884.info
 .i8bco.com
-.i8bet.org
 .i8wi.icu
 .i8x9.xyz
-.i99902.com
-.i99903.com
-.i99906.com
-.i99908.com
 .i99i.org
-.i9bet102.com
-.i9bet105.com
-.i9bet109.com
-.i9bet111.com
-.i9bet26.com
-.i9bet444.com
-.i9bet5.com
 .ia.5.p2l.info
 .ia.iinfo.cz
 .iabgqd.cn
@@ -33955,7 +33681,6 @@ visit.webhosting.yahoo.com
 .ibeating.top
 .iberacon.com
 .iberiansouk.com
-.ibet889.com
 .ibexcacaoboy.com
 .ibgdd67.top
 .ibhvqpjubb.xyz
@@ -33967,6 +33692,7 @@ visit.webhosting.yahoo.com
 .ibizne.ru
 .ibjivrhrflquy.xyz
 .ibjlweoqb.com
+.iblimq.xyz
 .ibnads.xl.co.id
 .iboitxfetut.com
 .iboxs.xyz
@@ -34493,7 +34219,6 @@ visit.webhosting.yahoo.com
 .incloak.com
 .includemodal.com
 .incognitosearches.com
-.income88.com
 .incomethoroughabjure.com
 .incoming-telemetry.thunderbird.net
 .incomprehensibleacrid.com
@@ -34889,7 +34614,6 @@ visit.webhosting.yahoo.com
 .intertech.co.jp
 .interviewdegenerateperspective.com
 .intervigil.com
-.interwinvn.com
 .interworksmedia.co.kr
 .intevry.fr
 .intextad.net
@@ -35307,8 +35031,6 @@ visit.webhosting.yahoo.com
 .iwebtrack.com
 .iwfofotjwlcphm.xyz
 .iwfwgathfp.com
-.iwiin.club
-.iwin.club
 .iwkexdab.com
 .iwofkvupfz.com
 .iwqetbj.cn
@@ -35398,7 +35120,6 @@ visit.webhosting.yahoo.com
 .j83ad.speedrun.com
 .j84nvmd.cn
 .ja2n2u30a6rgyd.com
-.ja77.net
 .jaavnacsdw.com
 .jab88.com
 .jacied.com
@@ -35492,19 +35213,11 @@ visit.webhosting.yahoo.com
 .jazygesforeday.website
 .jazze.hk
 .jazzharder.com
-.jb777.net
 .jb7hvcksstar.com
 .jb9vtov.xyz
 .jbazhaheia.top
-.jbbodds.com
 .jbewxbvfljfnm.com
 .jbnmuye.cn
-.jbo010.com
-.jbo039.com
-.jbo064.com
-.jboviet.com
-.jbovietnam.com
-.jbovn.com
 .jbplm.com
 .jbpoujrth.com
 .jbrlsr.com
@@ -35522,7 +35235,6 @@ visit.webhosting.yahoo.com
 .jd5c.top
 .jd6pq31f.site
 .jdaa22.top
-.jdb66.vip
 .jdbzurmhiixqm.com
 .jdiaveu.cn
 .jdmodr.com
@@ -35603,7 +35315,6 @@ visit.webhosting.yahoo.com
 .jetgatem.com
 .jetsowilk.com
 .jettrujole.com
-.jetv.xyz
 .jetx.info
 .jeu-jeux.fr
 .jeuebghgadjepqh.top
@@ -35705,7 +35416,6 @@ visit.webhosting.yahoo.com
 .jincodiks.com
 .jindowins.com
 .jinerxuebu.xyz
-.jingbets.com
 .jingdoudou.shop
 .jingteinv.com
 .jingtuliutongchu.work
@@ -35784,6 +35494,7 @@ visit.webhosting.yahoo.com
 .jkk7777.xyz
 .jknmsdpo.xyz
 .jksdcwgjfm.xyz
+.jkshqcgulrws.com
 .jktshare.icu
 .jkunsukpfjd.com
 .jkvbiry.cn
@@ -36052,7 +35763,6 @@ visit.webhosting.yahoo.com
 .jsretra.com
 .jsrlfg.com
 .jss.jajja.com
-.jss77.net
 .jssdk.pulse.schibsted.com
 .jssearch.net
 .jsshuiyuan.com
@@ -36129,7 +35839,6 @@ visit.webhosting.yahoo.com
 .jumptime.com
 .jumpvoobmi.com
 .jun01.oss-cn-beijing.aliyuncs.com
-.jun88k.com
 .junbi-tracker.com
 .juncil.com
 .jundiedsesamin.com
@@ -36286,7 +35995,6 @@ visit.webhosting.yahoo.com
 .k0r2eokjm6.ru
 .k1.mobileadsserver.com
 .k11designstore.club
-.k188casino.vip
 .k1rsdhu.xyz
 .k2215.cn
 .k28maingeneral.com
@@ -36300,13 +36008,7 @@ visit.webhosting.yahoo.com
 .k5zoom.com
 .k67lxl.space
 .k68tkg.com
-.k8dl08.cc
-.k8live26.com
-.k8sport.com
 .k8trangphim.com
-.k8vina17.com
-.k8vivip93.com
-.k8vn03.com
 .ka185ly.site
 .kaafu.cn
 .kaartenhuis.nl.site-id.nl
@@ -36428,7 +36130,6 @@ visit.webhosting.yahoo.com
 .kbqebfcubeiaa.com
 .kbtzxl.com
 .kbugxeslbjc8.com
-.kc6bet.net
 .kcdn.xyz
 .kcehdslfcqva.com
 .kcepfyzuna.com
@@ -36502,8 +36203,6 @@ visit.webhosting.yahoo.com
 .kenxn.com
 .kenxq.com
 .kenxr.com
-.keonhacai3.com
-.keotot.net
 .kepler-37b.com
 .keptic.com
 .keqcte.cn
@@ -36628,7 +36327,6 @@ visit.webhosting.yahoo.com
 .kids-in-sandbox.com
 .kidsinsandbox.info
 .kidskinnucleus.com
-.kidslovemartialartsomahane.com
 .kieden.com
 .kihoadoa.com
 .kihudevo.pro
@@ -36649,17 +36347,6 @@ visit.webhosting.yahoo.com
 .kiltyyoginis.com
 .kimdate2019.xyz
 .kimiaexirteb.com
-.kimsa1116.com
-.kimsa338.com
-.kimsa598.com
-.kimsa668.com
-.kimsa68.com
-.kimsa6868.com
-.kimsa88.com
-.kimsa88.net
-.kimsa888.com
-.kimsa938.com
-.kimsa98.com
 .kimsacka.net
 .kimus.ru
 .kinahunnic.com
@@ -36676,15 +36363,9 @@ visit.webhosting.yahoo.com
 .kinebuilder.com
 .kinfly.ru
 .king3rsc7ol9e3ge.com
-.king66.vin
-.king96.net
 .kingads.mobi
 .kingads.net
-.kingbet86.com
-.kingbet86.info
-.kingdoithuong.net
 .kingdom-news.com
-.kingfun247.net
 .kingleo.hk
 .kingwitheaa.lol
 .kingyonlendir.link
@@ -36809,7 +36490,6 @@ visit.webhosting.yahoo.com
 .kmeukiygmr.com
 .kmfcxq.cn
 .kmindex.ru
-.kmisa68.com
 .kmjbwejnr.xyz
 .kmmgoogle.oss-ap-southeast-1.aliyuncs.com
 .kmovuj.com
@@ -37017,6 +36697,7 @@ visit.webhosting.yahoo.com
 .kronervisile.com
 .kronosspell.com
 .krotovroman.ru
+.krubisstratic.com
 .krum.vsct.fr
 .krurkex.com
 .krut.link
@@ -37053,21 +36734,11 @@ visit.webhosting.yahoo.com
 .kthwaalso.xyz
 .ktkjmp.com
 .ktobedirectu.autos
-.ktokto.mobi
-.ktoviet.com
-.ktovn.com
 .ktrackdata.com
 .kttarmufti.com
 .ktvnnfres.com
 .ktxtr.com
 .ku2d3a7pa8mdi.com
-.ku558.net
-.ku6101.net
-.ku6106.net
-.ku6110.net
-.ku6131.net
-.ku777bet.com
-.ku998.net
 .kuaidou.xin
 .kuaile789.ink
 .kuaiyunbd.com
@@ -37075,34 +36746,14 @@ visit.webhosting.yahoo.com
 .kuajingtao.cc
 .kuamei.cloud
 .kuangbang.ltd
-.kubet.ac
-.kubet.biz
-.kubet.gg
-.kubet.life
-.kubet368.com
-.kubet77.win
-.kubet79.bet
-.kubet79.me
-.kubet8.us
-.kubet86.com
-.kubet88.fun
-.kubet88.win
-.kubet9.com
-.kubet9.net
 .kubiadserv.icu
 .kubicserves.icu
 .kubient.com
 .kubrer.com
-.kucasino68.net
-.kuclub9.com
 .kuder.fr
 .kudrunoptime.com
 .kuehwhimsey.com
 .kufmbwm.cn
-.kufun.live
-.kufun.me
-.kufun.site
-.kufun.win
 .kuglijuthi.com
 .kuhdi.com
 .kuheju.com
@@ -37407,7 +37058,6 @@ visit.webhosting.yahoo.com
 .landslidechoreloft.com
 .langger76.site
 .langkefaye.top
-.langvuichoi.net
 .lanistaads.com
 .lanistaconcepts.com
 .laniusburkei.com
@@ -37821,7 +37471,6 @@ visit.webhosting.yahoo.com
 .letmefind.co
 .letmelook.net
 .letong.xyz
-.letou8868.com
 .letro.jp
 .letsfinder.com
 .letsread.club
@@ -37871,6 +37520,7 @@ visit.webhosting.yahoo.com
 .lfmfrsvguf.com
 .lfnjocbxxndkfpj.com
 .lfov.net
+.lfport.com
 .lfsenmei.com
 .lfstmedia.com
 .lftklqdjldf.com
@@ -38143,7 +37793,6 @@ visit.webhosting.yahoo.com
 .linktracker.angelfire.com
 .linktraff.ru
 .linkunder.ru
-.linkvaobw.info
 .linkwall.ru
 .linkwash.de
 .linkwi.se
@@ -38185,8 +37834,6 @@ visit.webhosting.yahoo.com
 .listinsteats.cn
 .listrakbi.com
 .listtop.ru
-.lite-1x0801165.top
-.lite-1x6603199.top
 .literalcorpulent.com
 .literpeore.com
 .lithogsicket.com
@@ -38260,8 +37907,6 @@ visit.webhosting.yahoo.com
 .livorbarbes.com
 .livreral.fr
 .livrval.fr
-.lixi88.info
-.lixi888.online
 .lixiaodie.com
 .liyuan.cloud
 .lizardslaugh.com
@@ -38387,9 +38032,6 @@ visit.webhosting.yahoo.com
 .loboclick.com
 .lobster.unionpeer.com
 .lobsterunderpantsbooty.com
-.loc88.fun
-.loc89.fun
-.loc89.vip
 .local-download.com
 .local-hot-dates.com
 .local.hniux.cn
@@ -38426,10 +38068,7 @@ visit.webhosting.yahoo.com
 .lodder5.biz
 .lodder6.biz
 .loddingtoto.one
-.lode555.com
-.lode88.vip
 .lodenbud.com
-.lodevn789.net
 .lodrug.com
 .loedtamanac.com
 .loeingroost.com
@@ -38876,7 +38515,6 @@ visit.webhosting.yahoo.com
 .lsxdcdnrrco.com
 .lsyz.xyz
 .lt.angelfire.com
-.lt991.com
 .ltaaazb.cn
 .ltaome.cn
 .ltassrv.com
@@ -38908,11 +38546,6 @@ visit.webhosting.yahoo.com
 .lucker.co
 .lucklayed.info
 .lucky-day-uk.com
-.lucky88.com
-.lucky88.live
-.lucky88.net
-.lucky88.tv
-.lucky88.win
 .luckyads.com
 .luckyads.pro
 .luckyads.tech
@@ -38978,7 +38611,6 @@ visit.webhosting.yahoo.com
 .luwiakgcxhclz.com
 .luwqklsrtzbpcd.com
 .lux-bn.com.ua
-.lux39.club
 .luxads.net
 .luxadv.com
 .luxbetaffiliates.com.au
@@ -39149,15 +38781,8 @@ visit.webhosting.yahoo.com
 .m6r.eu
 .m73lae5cpmgrv38.com
 .m81jmqmn.ru
-.m883d.com
-.m88cvf.com
-.m88my.com
-.m88vina.com
 .m8ppac2on0xy.com
 .m8tu2.online
-.m8winvip.com
-.m8winvnn.com
-.m9853.com
 .ma-code.ru
 .ma-kaeser.ch
 .ma-plastifieuse.info
@@ -39184,8 +38809,6 @@ visit.webhosting.yahoo.com
 .macads.net
 .macaigha.net
 .macatawa.org
-.macau.club
-.macauclub.fun
 .macaxpower.com.br
 .maccleanersecurity.com
 .maccms.info
@@ -39394,7 +39017,6 @@ visit.webhosting.yahoo.com
 .mamtaurs.net
 .mamydirect.com
 .mamypos.com
-.man.club
 .man2ch5836dester.com
 .manage.com
 .manage001.adtech.fr
@@ -39402,11 +39024,6 @@ visit.webhosting.yahoo.com
 .manageadv.cblogs.eu
 .managedweb.net
 .managesdancing.com
-.manclub.game
-.manclub.live
-.manclub.vin
-.manclubwin.club
-.manclubwin.uk
 .manconsider.com
 .mandatorycaptaincountless.com
 .mandialrelay.fr
@@ -39425,7 +39042,6 @@ visit.webhosting.yahoo.com
 .manlisgx.fun
 .mannerstiring.com
 .mansernema.com
-.mansion66.com
 .mantedtonisms.com
 .mantisadnetwork.com
 .mantledonager.com
@@ -39435,7 +39051,6 @@ visit.webhosting.yahoo.com
 .manuel.theonion.com
 .manufacturerexpandedagrarian.com
 .manughl.de
-.manvip.icu
 .manysoftlink.ru
 .maobujie.com
 .maodz.cn
@@ -39648,11 +39263,7 @@ visit.webhosting.yahoo.com
 .maxwino.ru
 .maxymiser.com
 .maxymiser.net
-.may88.club
-.may88.com
-.may88.win
 .mayalaze.xyz
-.mayclub.net
 .mayhemabjure.com
 .mayib.xyz
 .mayie.xyz
@@ -39701,7 +39312,6 @@ visit.webhosting.yahoo.com
 .mbubaniblike.digital
 .mbveryu.top
 .mbww.com
-.mbx88.com
 .mbxsku.cn
 .mbxt.net
 .mbxw.club
@@ -39714,7 +39324,6 @@ visit.webhosting.yahoo.com
 .mc.mwgpg.cn
 .mc63rs.life
 .mc7clurd09pla4nrtat7ion.com
-.mc876.com
 .mcaril.com
 .mcaspkd.cn
 .mcbfiwipgjel.com
@@ -39965,6 +39574,7 @@ visit.webhosting.yahoo.com
 .medyagundem.com
 .medyanet.net
 .medyanetads.com
+.meebofoo.com
 .meegliwu.net
 .meelba.com
 .meendo.ru
@@ -40338,11 +39948,6 @@ visit.webhosting.yahoo.com
 .miarroba.info
 .miatip.cn
 .mibebu.com
-.mibet.com
-.mibet.mobi
-.mibet.win
-.mibet88.com
-.mibet88.win
 .mibmcbm.com
 .micakidaugust.com
 .micghiga2n7ahjnnsar0fbor.com
@@ -40389,7 +39994,6 @@ visit.webhosting.yahoo.com
 .mieru-ca.com
 .mifeng.buzz
 .mifsirnhvvrps.top
-.mig8vn.com
 .migayush2lam1pa1.com
 .mightstrikingfled.com
 .mightwhiskers.com
@@ -41162,10 +40766,7 @@ visit.webhosting.yahoo.com
 .ms-shopplus.su
 .ms-shopzone.su
 .ms.5.p2l.info
-.ms3388.com
 .ms3t.club
-.ms88asia.com
-.ms88ca.com
 .msbuqruhcefx.xyz
 .msccabin.com
 .mscoldness.com
@@ -41248,10 +40849,6 @@ visit.webhosting.yahoo.com
 .mtvp05j.com
 .mtxs.xyz
 .mtzenhigqg.com
-.mu9.com
-.mu9.vip
-.mu9.win
-.mu90.com
 .muchhetont.ru
 .muchotrust.com
 .mucinshasht.com
@@ -41838,10 +41435,6 @@ visit.webhosting.yahoo.com
 .nbazhaheic.top
 .nbd56.cn
 .nbes.nu
-.nbet.com
-.nbet.top
-.nbet.vip
-.nbet.win
 .nbgsintl.com
 .nbheopi.cn
 .nbjmp.com
@@ -41879,6 +41472,7 @@ visit.webhosting.yahoo.com
 .ncuwtufam.com
 .ncyveuecqsan.com
 .nd.5.p2l.info
+.ndandinter.hair
 .ndbegantoti.xyz
 .ndbriolenproc.buzz
 .ndbspfpgynbt.com
@@ -41909,7 +41503,6 @@ visit.webhosting.yahoo.com
 .neads.delivery
 .nearbyad.com
 .nearestaxe.com
-.nearom.com
 .neasal.com
 .neatstats.com
 .neblotech.com
@@ -42008,6 +41601,7 @@ visit.webhosting.yahoo.com
 .nervoussummer.com
 .nesispubl.buzz
 .nessainy.net
+.nessendencec.com
 .nest.net.ru
 .nestcook.com
 .nestedmedia.com
@@ -42312,11 +41906,6 @@ visit.webhosting.yahoo.com
 .ngwadzu.cn
 .ngxdyxhdkx.xyz
 .nh.5.p2l.info
-.nhacainbet.club
-.nhacaisodo.net
-.nhanthuong88.com
-.nhat.game
-.nhatvip.net
 .nhdddxvwpmriirk.com
 .nhfpdc.cn
 .nhgds.xyz
@@ -42688,7 +42277,6 @@ visit.webhosting.yahoo.com
 .now-online.net
 .now09.ru
 .now73.ru
-.nowbetvn.com
 .nowinteract.com
 .nowledco.work
 .nowlooking.net
@@ -42987,7 +42575,6 @@ visit.webhosting.yahoo.com
 .o4svlxhjun.xyz
 .o4uxrk33.com
 .o626b32etkg6.com
-.o65qmb.tw
 .o6rc.xyz
 .o8.aus.cc
 .oaascbasgdffq.com
@@ -43501,7 +43088,6 @@ visit.webhosting.yahoo.com
 .oldmilram.com
 .oldrrb.bid
 .oldulgk.cn
-.ole777vietnam.com
 .olefinefraist.com
 .olenation.org
 .olentfarmost.com
@@ -43620,18 +43206,9 @@ visit.webhosting.yahoo.com
 .one-klick.ru
 .one.lg.ua
 .one.toumppk.cn
-.one88.club
-.one88.com
-.one88.fun
-.one88.me
-.one88.us
-.one88.vip
-.one88.vn
-.one88.win
 .oneandonlynetwork.com
 .oneclck.net
 .onecomedyservices.com
-.oneday88.com
 .onedmp.com
 .onedrive-cdn.com
 .onedrive-collection.device.mobileengagement.windows.net
@@ -43870,8 +43447,6 @@ visit.webhosting.yahoo.com
 .oponixa.com
 .opootsoa.net
 .opoxv.com
-.oppa888.com
-.oppa88888888.com
 .oppean.com
 .oppersianor.com
 .opportunitysleepyreflex.com
@@ -44292,11 +43867,6 @@ visit.webhosting.yahoo.com
 .oxado.com
 .oxanelinkups.com
 .oxazoleorfrays.com
-.oxbet.club
-.oxbet.com
-.oxbet.net
-.oxbet.win
-.oxbetd.com
 .oxcash.com
 .oxen.hillcountrytexas.com
 .oxenfishtreaty.com
@@ -44536,7 +44106,6 @@ visit.webhosting.yahoo.com
 .palmicplod.com
 .palpcaroch.cam
 .palyazatfigyelo.info
-.pameranbola.com
 .pamini.fr
 .pamphletconspiracy.com
 .panachetech.com
@@ -45578,23 +45147,12 @@ visit.webhosting.yahoo.com
 .player.ex.co
 .playersb.com
 .playframe.ru
-.playgamefa88.live
-.playgo88.asia
-.playgo88.top
 .playgroundloom.com
 .playhaven.com
 .playingcremate.com
 .playinvaders.com
-.playiwin.biz
-.playiwin.in
-.playiwin.site
-.playiwin.uk
 .playjusting.com
-.playkeno68.me
 .playlink.pl
-.playmanclub.uk
-.playmanclub.us
-.playmanclub.vin
 .playmobill.fr
 .playnow.guru
 .playoffmizzled.com
@@ -45602,8 +45160,6 @@ visit.webhosting.yahoo.com
 .playstream.media
 .playtem.com
 .playukinternet.com
-.playv8.com
-.playv8.vip
 .playwrightglancing.com
 .playzee.fr
 .pleagaietyparalysis.com
@@ -45708,6 +45264,7 @@ visit.webhosting.yahoo.com
 .pneuth.com
 .pngme.ru
 .pnirrb.cn
+.pnktnjpy.com
 .pnmoclqxtcsbw.com
 .pnpjhsgomjrx.com
 .pnpvxlbrft.com
@@ -47463,6 +47020,7 @@ visit.webhosting.yahoo.com
 .qosbbzw.cyou
 .qotank.com
 .qotbvnbipfgwg.com
+.qowg.top
 .qozveo.com
 .qp3lgzt6exyn.com
 .qpanxedipedrqtu.com
@@ -47480,13 +47038,8 @@ visit.webhosting.yahoo.com
 .qpxohp.com
 .qq0010.xyz
 .qq0017.xyz
-.qq288.com
-.qq288jak.com
 .qq2ux.top
-.qq628.live
 .qq86tbqodk.ru
-.qq8788.net
-.qq8788viet.com
 .qqaskpbofrji.com
 .qqbook.ru
 .qqedrimwbe.com
@@ -47755,7 +47308,6 @@ visit.webhosting.yahoo.com
 .r66net.net
 .r7ls.net
 .r7mediar.com
-.r88.vn
 .r932o.com
 .r9ljguu1k4.ru
 .ra.rockcontent.com
@@ -48154,9 +47706,6 @@ visit.webhosting.yahoo.com
 .recv-jnn.tbs.co.jp
 .recyclingbees.com
 .red12flyw2.site
-.red88.com
-.red88.uk
-.red88.us
 .redanludb.xyz
 .redarianman.com
 .redatastore.ru
@@ -48572,6 +48121,7 @@ visit.webhosting.yahoo.com
 .researchers.pw
 .researchnow.co.uk
 .reseau-pub.com
+.reseelysin.com
 .reselling-corp.com
 .resemblanceilluminatedcigarettes.com
 .reservationszone.com
@@ -48843,7 +48393,6 @@ visit.webhosting.yahoo.com
 .ribunews.com
 .ribworkstylus.com
 .ric-ric-rum.com
-.ric.win
 .riccol.cn
 .ricead.com
 .ricettadellanonna.com
@@ -48894,17 +48443,7 @@ visit.webhosting.yahoo.com
 .rigxpadydyveja.com
 .rihaschgj.com
 .rihosaphe.com
-.rik.vip
-.rik.win
-.rikbet789.club
-.rikgame.live
-.rikkk.net
 .rikobisti.com
-.rikvip.tv
-.rikvip.uk
-.rikvip.us
-.rikvipclub.us
-.rikvipp.net
 .rilelogicbuy.com
 .rilesticks.com
 .rilins.com
@@ -48930,7 +48469,6 @@ visit.webhosting.yahoo.com
 .rinsouxy.com
 .rintaref.ru
 .rinwasmahis.ru
-.rio66qc.club
 .riolenproce.xyz
 .riotousgrit.com
 .riousstylegui.biz
@@ -49686,8 +49224,6 @@ visit.webhosting.yahoo.com
 .s7ven.com
 .s83ovp6qyhco.com
 .s93isp.top
-.s9996.com
-.s9997.com
 .s99i.org
 .s9jp9xogfz.com
 .s9kkremkr0.com
@@ -49938,17 +49474,14 @@ visit.webhosting.yahoo.com
 .sbb8w.top
 .sbbanner-com.cdn.ampproject.org
 .sbbanner.com
-.sbc31.com
 .sbcpower.com
 .sbdtds.com
 .sbeforeuka.xyz
-.sbetviet.com
 .sbfsdvc.com
 .sbird.xyz
 .sbldw.cn
 .sblftg.com
 .sbmrwzkwshit.com
-.sbotop246.com
 .sbprpoowdyfbx.com
 .sbrbhzlp.com
 .sbscribeme.com
@@ -50207,7 +49740,6 @@ visit.webhosting.yahoo.com
 .seatsrehearseinitial.com
 .seaweedludicrous.com
 .seayipsex.com
-.seb121.net
 .sebar.idblognetwork.com
 .sec-checker.com
 .seccoads.com
@@ -50749,8 +50281,6 @@ visit.webhosting.yahoo.com
 .shawashygy.com
 .shawlyni.name
 .shawuh2a8nyam09.com
-.shbet0.com
-.shbet3.com
 .shcd.me
 .shcy3.com
 .shcylxl.com
@@ -51022,9 +50552,6 @@ visit.webhosting.yahoo.com
 .siegepolitical.com
 .sielsmaats.com
 .sienns.com
-.sieubomtan.com
-.sieubong88.info
-.sieukeo.live
 .sifang.info
 .sifenews.com
 .sifiwoery.xyz
@@ -51109,13 +50636,6 @@ visit.webhosting.yahoo.com
 .simpunok.com
 .simrubwan.com
 .simvinvo.com
-.sin88.biz
-.sin88.club
-.sin88.com
-.sin88.mobi
-.sin88bet.me
-.sin88s.com
-.sin88vao.com
 .sinaimges.com
 .sinatrakohens.com
 .sinaunrelean.info
@@ -51272,9 +50792,6 @@ visit.webhosting.yahoo.com
 .skwstat.ru
 .skxifvtfdbnwdf.com
 .sky.od.ua
-.sky88.com
-.sky88.uk
-.sky88.win
 .skyactivate.com
 .skyad.video
 .skyad1.ru
@@ -51683,18 +51200,10 @@ visit.webhosting.yahoo.com
 .sockjs-goguardian.pusher.com
 .socom.es
 .socsi.in
-.socvip.com
-.socvip9.club
 .sodallay.com
 .sodamash.com
 .sodhef.com
-.sodo12.com
-.sodo13.com
-.sodo14.com
-.sodo15.com
 .sodoit.com
-.sodoviet.net
-.sodovn.net
 .sofcryingfo.xyz
 .sofinpushpile.com
 .soflopxl.com
@@ -51740,17 +51249,14 @@ visit.webhosting.yahoo.com
 .soksicme.com
 .sokugifi.com
 .sol-data.com
-.sol86.com
 .solads.media
 .solamor.com
 .solanog.com
 .solapoka.com
-.solarbet.com
 .solarmosa.com
 .solarswitch4all.com
 .solartia.com
 .solarwindow.fr
-.solbet88.com
 .solderforgetlove.com
 .soleaparra.com
 .solelylounge.com
@@ -53043,6 +52549,7 @@ visit.webhosting.yahoo.com
 .sumberiklan.com
 .summaryflamen.com
 .summer.ntua.edu.tw
+.summer5188.com
 .summerxzp.xyz
 .summonedessencetrap.com
 .sumnxwvr.ink
@@ -53052,7 +52559,6 @@ visit.webhosting.yahoo.com
 .sumome.com
 .sumpki.com
 .sumshaggy.com
-.sun.win
 .sun66387567606.online
 .sun66387567606.site
 .sunaffiliation.com
@@ -53090,9 +52596,7 @@ visit.webhosting.yahoo.com
 .sunsetpersuadeaffectionately.com
 .suntcontent.se
 .suntiz.com
-.sunvin.vin
 .sunwardamoraic.com
-.sunwinvn.club
 .sunyftlaoiiy.com
 .sunyujia.top
 .suocietegenerale.fr
@@ -53239,9 +52743,6 @@ visit.webhosting.yahoo.com
 .sv-static-lottery.headlines.pw
 .sv-static1-lottery.headlines.pw
 .sv.sheego.de
-.sv88.club
-.sv88.com
-.sv88.vip
 .svacdnjutk.com
 .svava.eu
 .svcwvx.cn
@@ -53413,6 +52914,7 @@ visit.webhosting.yahoo.com
 .sypleni.ru
 .syqoqjibiagvo.com
 .syr66.com.cn
+.syringekineses.website
 .syrsple2se8nyu09.com
 .sys.refocus.ru
 .sysadmin.map24.com
@@ -53548,13 +53050,10 @@ visit.webhosting.yahoo.com
 .t5lxz7dtq4iz.com
 .t5wm.cc
 .t810.ctpost.com
-.t8bet999.com
-.t8betvip.com
 .ta.queit.in
 .ta.toprework.vn
 .ta3nfsordd.com
 .ta5ast2ffeyvhjitde.com
-.ta88.com
 .taaqhr6axacd2um.com
 .tabaxirwelly.com
 .tabici.com
@@ -53631,33 +53130,15 @@ visit.webhosting.yahoo.com
 .tahoesup.com
 .tahoshehu.com
 .tahuixin.club
-.tai567live.vip
-.tai789.net
-.tai789.vip
-.tai789.win
-.taib52.club
-.taib52.com
-.taib52.vin
 .taicheetee.com
 .taidi.info
 .taidi.net.cn
-.taigame789.club
-.taigamesunwin.vin
-.taigo88vn.com
 .taigrooh.net
 .taiheian.top
-.taiiwin.club
-.taiiwinclub.cc
-.taiiwinclub.vip
 .taikangshenyuan.com
-.taikufun.com
 .tailapsi.com
 .tailsweep.com
 .tailsweep.se
-.taimacau.club
-.taimanclub.com
-.tainbet.net
-.taiok88.app
 .taioncgaiynzt.com
 .taiphaib.net
 .taipingyang.hk
@@ -53665,9 +53146,6 @@ visit.webhosting.yahoo.com
 .taishijian.com
 .taishu.shop
 .taisowhu.com
-.taiv8.com
-.taiv8.info
-.taiv8.top
 .taiwhups.net
 .taiwtp1.com
 .taixuan.net.cn
@@ -53716,7 +53194,6 @@ visit.webhosting.yahoo.com
 .tangkai.ltd
 .tangli.ltd
 .tangozebra.com
-.tangsoc.com
 .tanguinantaiva.com
 .tangxiaodou.top
 .tangyamount.com
@@ -54160,8 +53637,6 @@ visit.webhosting.yahoo.com
 .tf-con.com
 .tf111.xyz
 .tf2www.com
-.tf88luck.com
-.tf88v.com
 .tfaftemail.com
 .tfag.de
 .tfaln.com
@@ -54210,12 +53685,6 @@ visit.webhosting.yahoo.com
 .tgxykydgkgjvn.xyz
 .th-make.com
 .th700.com
-.tha.bet
-.thabet.co
-.thabet.one
-.thabet88.co
-.thabet88.info
-.thabet88.vip
 .thackgooder.com
 .thaged.com
 .thagic.com
@@ -54306,7 +53775,6 @@ visit.webhosting.yahoo.com
 .thefreehitcounter.com
 .thefreshposts.com
 .thehomo.org
-.thehotlive.com
 .thehotposts.com
 .theirsvendor.com
 .thekromp.com
@@ -54361,9 +53829,6 @@ visit.webhosting.yahoo.com
 .thetabdot.com
 .thetarhaw.com
 .thetaweblink.com
-.thethaodabet.com
-.thethaofb88.com
-.thethaovip.vip
 .thethi.ru
 .thetorrentz.fr
 .theuseful.com
@@ -54593,7 +54058,6 @@ visit.webhosting.yahoo.com
 .timy.ink
 .tin.pornoset.org
 .tin.xpornoset.com
-.tin010.com
 .tinb.net
 .tinbuadserv.com
 .tincalsamiably.website
@@ -54619,7 +54083,6 @@ visit.webhosting.yahoo.com
 .tioniaukmlas.one
 .tip-ads.de
 .tipcatscarola.com
-.tipkeomoingay.club
 .tiplanet.fr
 .tipster.space
 .tipsurf.com
@@ -54636,6 +54099,7 @@ visit.webhosting.yahoo.com
 .tiser.com.au
 .tisoomi-services.com
 .tisref.com
+.tissuecameallowing.com
 .titag.com
 .titan-gel-extra.com
 .titanads1.com
@@ -54687,9 +54151,6 @@ visit.webhosting.yahoo.com
 .tizy.ru
 .tizzer.ru
 .tj3rql9siwef.www.freecodecamp.org
-.tjb11.net
-.tjb15.net
-.tjb22.net
 .tjekscores.dk
 .tjfot.com
 .tjgasbjinlx.xyz
@@ -54701,7 +54162,6 @@ visit.webhosting.yahoo.com
 .tk.mediacategory.com
 .tk.meinprospekt.de
 .tk.promit.ru
-.tk326.com
 .tkbo.com
 .tkcatrun.aotter.net
 .tkcatwalk.aotter.net
@@ -54793,7 +54253,6 @@ visit.webhosting.yahoo.com
 .tobaitsie.com
 .tobaltoyon.com
 .tobepure.com
-.tobet88.net
 .tobleronchiko.com
 .toboads.com
 .tobwcdovmfthb.xyz
@@ -54919,13 +54378,6 @@ visit.webhosting.yahoo.com
 .top20free.com
 .top26.net
 .top5.mail.ru
-.top88.club
-.top88.fun
-.top88.me
-.top88.uk
-.top88.us
-.top88.vn
-.top88vn.net
 .topad.mobi
 .topadbid.com
 .topadblocker.net
@@ -54941,7 +54393,6 @@ visit.webhosting.yahoo.com
 .topblogging.com
 .topbucks.com
 .topcashvibes.com
-.topcc88.me
 .topclickguru.com
 .topconsumergifts.com
 .topcpa.ru
@@ -54952,7 +54403,6 @@ visit.webhosting.yahoo.com
 .topdisplaycontent.com
 .topdisplayformat.com
 .topdisplaynetwork.com
-.topdoithuong.net
 .topeditsolutions.com
 .topeuro.biz
 .topflownews.com
@@ -54987,7 +54437,6 @@ visit.webhosting.yahoo.com
 .topnfm.com
 .topnfq.com
 .topnfw.com
-.topnohu.com
 .topofblogs.com
 .toppage.vn
 .topperformance.xyz
@@ -55790,7 +55239,6 @@ visit.webhosting.yahoo.com
 .truex.com
 .trugaze.io
 .trumphjardon.com
-.trungso.vip
 .trunkmafia.com
 .truoctran.com
 .truoptik.com
@@ -55873,9 +55321,6 @@ visit.webhosting.yahoo.com
 .tsyndicate.com
 .tsyndicate.net
 .tszhongtianshiji.com
-.tt128.info
-.tt128.net
-.tt128viet.com
 .tt14q0p2.cn
 .tt4266acb88a1.ltd
 .tta3w6e98cka.ru
@@ -56026,6 +55471,7 @@ visit.webhosting.yahoo.com
 .tuwhuthoru.com
 .tuwo-audio.cn
 .tuxbpnne.com
+.tuxedochard.com
 .tuyves.com
 .tuzaanotto.com
 .tv1s4d6klh4n.com
@@ -56060,7 +55506,6 @@ visit.webhosting.yahoo.com
 .twentyhandful.com
 .twfaebgpngpx.xyz
 .twiago.com
-.twin188.co
 .twinadsrv.com
 .twingedapoda.com
 .twinpinenetwork.com
@@ -57063,8 +56508,6 @@ visit.webhosting.yahoo.com
 .uvpzll.com
 .uvvebmkbtvjuy.xyz
 .uvymccn.cn
-.uw88vnd.com
-.uw88vnd1.com
 .uwadakest.cyou
 .uwbcefluof.com
 .uwdspsh.cn
@@ -57141,7 +56584,6 @@ visit.webhosting.yahoo.com
 .v1pweb.rocks
 .v1rton.news
 .v20.cnnd.vn
-.v28.club
 .v28games2fan.com
 .v2cigs.com
 .v2mlemerald.com
@@ -57152,21 +56594,11 @@ visit.webhosting.yahoo.com
 .v4yleins27hv.com
 .v6rxv5coo5.com
 .v6t39t.ru
-.v79top.com
-.v7ac.com
-.v7king.com
-.v8.club
 .v8engine.pinsightmedia.com
 .v8push.pinsightmedia.com
 .v96-surf.com
-.v99win.app
 .v9banners-com.cdn.ampproject.org
 .v9banners.com
-.v9bet.com
-.v9bet55.com
-.v9bet88.net
-.v9betasia.com
-.v9jvn.com
 .va-endpoint.com
 .va.5.p2l.info
 .vacaneedasap.com
@@ -57244,8 +56676,6 @@ visit.webhosting.yahoo.com
 .vanmostthiamin.com
 .vanozy.com
 .vantage-media.net
-.vaorikvip.com
-.vaorikvip.net
 .vapedia.com
 .vardasvideo.com
 .varechphugoid.com
@@ -57308,7 +56738,6 @@ visit.webhosting.yahoo.com
 .vaxfpal.cn
 .vazlshyjp.com
 .vazypteke.pro
-.vb211.com
 .vbcuthpqnomhh.com
 .vbfqpakg.com
 .vbillplus.cn
@@ -57469,7 +56898,6 @@ visit.webhosting.yahoo.com
 .vexevutus.com
 .vexturkeyupbrining.com
 .vezetmne.ru
-.vf003.xyz
 .vfbvcshnc.com
 .vfcwij.cn
 .vfghc.com
@@ -57495,7 +56923,6 @@ visit.webhosting.yahoo.com
 .vgvjkw.com
 .vgw35hwr4w6x.com
 .vh5g.top
-.vh79.com
 .vhajaja.pro
 .vhjuoaoetdbxt.com
 .vhlret.cn
@@ -57535,6 +56962,7 @@ visit.webhosting.yahoo.com
 .viaqoo.tech
 .viatorayme.com
 .viavideo.digital
+.vibber.download
 .vibjbavphaprfaj.com
 .viboom.com
 .viboom.ru
@@ -57542,8 +56970,6 @@ visit.webhosting.yahoo.com
 .vibrantmedia.com
 .vibuin.com
 .vic-m.co
-.vic.fun
-.vic.win
 .vice-ads-cdn.vice.com
 .vicepiter.ru
 .vichycobourg.com
@@ -57556,7 +56982,6 @@ visit.webhosting.yahoo.com
 .victoriouspastimeculture.com
 .victorlutte.cl
 .vicustom.cn
-.vicwin.vip
 .vid.me
 .vidalak.com
 .vidamsag.postr.hu
@@ -57659,12 +57084,10 @@ visit.webhosting.yahoo.com
 .vieques.fr
 .viessman.fr
 .vietalle.com
-.vietbet.eu
 .vietbuzzad.com
 .vietdorje.com
 .vietnamdiscovery.fr
 .vietnamnetad.vn
-.vietvwin.com
 .view-affiliwelt.net
 .view-flix.com
 .view.fujitv.co.jp
@@ -57861,7 +57284,6 @@ visit.webhosting.yahoo.com
 .vitritehelves.com
 .viuspbkmn.bar
 .viva.api.xiaoying.co
-.viva88.com
 .vivachina.co
 .vivads.net
 .vivalife.fr
@@ -57911,7 +57333,6 @@ visit.webhosting.yahoo.com
 .vlitag.com
 .vlnk.me
 .vlogerads.com
-.vlott88.com
 .vloxaloyfmdqxti.ru
 .vlrgltldc.com
 .vltwox7zl7h1wv.com
@@ -57933,48 +57354,25 @@ visit.webhosting.yahoo.com
 .vmweb.net
 .vmwuxqelwjaab.com
 .vn.grab-credit4u.com
-.vn138viet.com
-.vn34.com
-.vn67801.com
-.vn88.bet
-.vn88.biz
-.vn88.casino
-.vn88.club
-.vn88.com
-.vn88hn.live
-.vn88ok.live
-.vn88vui.live
 .vnacdnryl.com
 .vnadssb.com
 .vnaujncaeoygdw.com
-.vnd188.app
-.vndbet88.com
-.vndbetway.com
 .vneffwecka.com
 .vnet.ink
 .vnfjsus.xyz
-.vngame66.com
 .vnghuw.xyz
 .vnjexsypl.com
 .vnkqxavwanxh.xyz
-.vnloto.com
-.vnloto.vip
-.vnn8d.com
 .vnnayngaytin.vn
 .vnq33.com
 .vnq53.com
 .vnq73.com
-.vnq8.bet
-.vnq8.com
-.vnq8.net
-.vnq8.win
 .vnr81.com
 .vnr82.com
 .vnr83.com
 .vnrherdsxr.com
 .vnrkbnmoow.com
 .vnrvss.com
-.vntop88.com
 .vntsm.com
 .vntsm.io
 .vnuccenky.com
@@ -58119,7 +57517,6 @@ visit.webhosting.yahoo.com
 .vqnqrs55.com
 .vqpcgkqriftt.com
 .vqtdbnwduk.com
-.vqtq-bet365vn.com
 .vr4011.com
 .vr4021.com
 .vr4031.com
@@ -58187,10 +57584,6 @@ visit.webhosting.yahoo.com
 .vtracy.de
 .vtrnpueqtqke.xyz
 .vtuctez.cn
-.vua1004.club
-.vua1005.club
-.vuabai9.com
-.vuaclub1008.club
 .vubihowhe.com
 .vucdmuvavnu.com
 .vuclmvrq.xyz
@@ -58239,24 +57632,12 @@ visit.webhosting.yahoo.com
 .vvvljeqasz.com
 .vw.onlinia.net
 .vw.xxxmshel.org
-.vw220.com
-.vw230.com
 .vwcsl.com
-.vwin010.com
-.vwinfast.com
-.vwinnow.com
-.vwinsportsvn.com
-.vwinthethao.com
 .vwocvgr.cn
 .vwraggcs.xyz
-.vwsportasia.com
-.vwthethao.com
 .vwuyuahqf.com
 .vx2e.top
 .vx4n.icu
-.vx88.com
-.vx88.live
-.vx88e.com
 .vxaawgfjbmdx.com
 .vxhrhnvtucv.com
 .vxiframe.biz
@@ -58277,8 +57658,6 @@ visit.webhosting.yahoo.com
 .vyrhxfi.cn
 .vytand.com
 .vz1m.com
-.vz681.com
-.vz79.com
 .vzadtu.cn
 .vzarabotke.ru
 .vzigttqgqx.com
@@ -58287,7 +57666,6 @@ visit.webhosting.yahoo.com
 .vztkmhf.cn
 .w-chat.xf.cz
 .w-m-w.net
-.w-sunwin.net
 .w.anmeihe.cn
 .w.zenback.jp
 .w00f.net
@@ -58299,7 +57677,6 @@ visit.webhosting.yahoo.com
 .w1jesu6.package12.com
 .w25e.top
 .w3.ting55.com
-.w388.com
 .w3c.5txs.com
 .w3counter.com
 .w3exit.com
@@ -58310,16 +57687,6 @@ visit.webhosting.yahoo.com
 .w55c.net
 .w6gis5.com
 .w716eb02n9.ru
-.w88.vin
-.w88ac.com
-.w88banh.com
-.w88bkk.com
-.w88bro.com
-.w88city.com
-.w88club.com
-.w88hn.com
-.w88ok.com
-.w88yes.com
 .w8sg6.xyz
 .w982.middletownpress.com
 .w99megeneral.com
@@ -58512,7 +57879,6 @@ visit.webhosting.yahoo.com
 .waytogrow.eu
 .wazensee.net
 .wazimo.com
-.wb77.net
 .wb9c.top
 .wbaogaqvrukprx.com
 .wbazhaheie.top
@@ -58520,7 +57886,6 @@ visit.webhosting.yahoo.com
 .wbdds.com
 .wbdsj.top
 .wbdx.fr
-.wbet99.net
 .wbidder.online
 .wbidder2.com
 .wbidr.com
@@ -58750,7 +58115,6 @@ visit.webhosting.yahoo.com
 .webstudy.fun
 .websupporter.co
 .websurvey.spa-mr.com
-.websvn.info
 .webtalking.ru
 .webteaser.ru
 .webtemsilcisi.com
@@ -58865,7 +58229,6 @@ visit.webhosting.yahoo.com
 .wellnessmonitor.bravehost.com
 .wellnessnaturopathic.com
 .wellnesszap.com
-.wellviet.net
 .welokygry.com
 .welt-der-links.de
 .weltercampe.com
@@ -58968,6 +58331,7 @@ visit.webhosting.yahoo.com
 .whatstheword.co
 .whattoexpectheal.com
 .whaudsur.net
+.whaugluw.com
 .whaulids.com
 .whaxanso.net
 .whazugho.com
@@ -59170,9 +58534,6 @@ visit.webhosting.yahoo.com
 .wimpmustsyllabus.com
 .wimyrea.ru
 .win-bidding.com
-.win79.vip
-.win79play.me
-.win888b.com
 .winadx.com
 .winaffiliates.com
 .winbuyer.com
@@ -59376,6 +58737,7 @@ visit.webhosting.yahoo.com
 .wokfirsax.com
 .wokm8isd4zit.com
 .wolaufie.com
+.wolfedcedule.com
 .wolfermissies.com
 .wolist.ru
 .wolqundera.com
@@ -59680,7 +59042,6 @@ visit.webhosting.yahoo.com
 .wvzhj.com
 .ww1.flashx.net
 .ww6.adm-cnzz.net
-.ww88club.com
 .wwbelehf.com
 .wwclickgo.com
 .wwclickserv.club
@@ -60230,6 +59591,7 @@ visit.webhosting.yahoo.com
 .wxskqy.cn
 .wxspfkln.com
 .wxtp.cdn.bcebos.com
+.wxumevd.cn
 .wxyn0o3xmora.com
 .wy.5.p2l.info
 .wy123.fun
@@ -60315,13 +59677,9 @@ visit.webhosting.yahoo.com
 .x56za02.cn
 .x6.yakiuchi.com
 .x8.cho-chin.com
-.x8.club
-.x8.vin
 .x822.mrt.com
 .x888x.myserver.org
 .x8kwcr3l.xyz
-.x8vn.com
-.x8vn.top
 .x99skiu.top
 .x9socptyr.com
 .xad.com
@@ -60429,11 +59787,9 @@ visit.webhosting.yahoo.com
 .xekychacu.com
 .xel-xel-fie.com
 .xelllwrite.com
-.xemdabanh.club
 .xemfrctctdnlhe.com
 .xen-media.com
 .xengbale.fun
-.xengtructuyen.com
 .xenical.1.p2l.info
 .xenical.3.p2l.info
 .xenical.4.p2l.info
@@ -60553,7 +59909,6 @@ visit.webhosting.yahoo.com
 .xingjiankangfu.xyz
 .xingqier.top
 .xingshenfang.cn
-.xingtou888.com
 .xingtu.ltd
 .xingxingdd.com
 .xingxingdm.com
@@ -60570,6 +59925,7 @@ visit.webhosting.yahoo.com
 .xinheshengmce.com
 .xinhuan.mobi
 .xinqiannv.com
+.xinrern.cn
 .xinshizongqin.com
 .xinsic.com
 .xinyexinye.ltd
@@ -60583,6 +59939,7 @@ visit.webhosting.yahoo.com
 .xiongfengwang.com.cn
 .xipheglipy.com
 .xiqqq.com
+.xissidearm.com
 .xitang.love
 .xiti.com
 .xiulishanzhuang.com
@@ -60701,7 +60058,6 @@ visit.webhosting.yahoo.com
 .xniexnz.cn
 .xnnfchykwvgjmoh.com
 .xnxonbf.cn
-.xo88.fun
 .xoalt.com
 .xogepg.com
 .xoktditxsmr.xyz
@@ -60709,11 +60065,6 @@ visit.webhosting.yahoo.com
 .xoomer.alice.it
 .xoor.ru
 .xorlsblw.cyou
-.xoso12345.com
-.xoso5678.com
-.xoso6.com
-.xoso9988.com
-.xosobet.com
 .xotwqnjinpnaul.com
 .xowelamcwijxp.com
 .xox8829.com
@@ -61158,6 +60509,7 @@ visit.webhosting.yahoo.com
 .yepteaswont.com
 .yeqinu.xyz
 .yeribi.com
+.yes-24-go.cc
 .yes-messenger.com
 .yes999.cf
 .yes999.ga
@@ -61390,12 +60742,6 @@ visit.webhosting.yahoo.com
 .ynyy83za4i.ru
 .ynyyczx.cn
 .ynyyx168.com
-.yo88.net
-.yo88.win
-.yo88vn.com
-.yo88vn.us
-.yo88vn.vip
-.yo99.win
 .yoads.net
 .yoads.network
 .yoajqj.com
@@ -61450,7 +60796,6 @@ visit.webhosting.yahoo.com
 .you-cant-win.com
 .you-fm.fr
 .you6ka.cn
-.you88.vin
 .youa2qudo.icu
 .youappi.com
 .youaresogay.com
@@ -61658,7 +61003,6 @@ visit.webhosting.yahoo.com
 .yukariyakumo.cn
 .yulanoltunna.store
 .yular.cn
-.yule12888.com
 .yulidianshang.com
 .yuliglsd.space
 .yuluna.name
@@ -61882,10 +61226,6 @@ visit.webhosting.yahoo.com
 .zazufi.com
 .zb7b.top
 .zbblq.cn
-.zbet.com
-.zbet.vn
-.zbet.win
-.zbetvn.com
 .zbnfhsk.com
 .zboac.com
 .zbqmsc.com
@@ -62259,8 +61599,6 @@ visit.webhosting.yahoo.com
 .znfg6677.top
 .znqip.net
 .znqip.org
-.zo.club
-.zo.game
 .zo6g.top
 .zo7gihmry2.com
 .zoachoar.net
@@ -62308,7 +61646,6 @@ visit.webhosting.yahoo.com
 .zoutubephaid.com
 .zouxinyan.xyz
 .zovgdpj.cn
-.zowinvn.vip
 .zoxetijy.xyz
 .zozocash.biz
 .zozoter.ru
@@ -77825,6 +77162,7 @@ visit.webhosting.yahoo.com
 .bing.highquality.wiki
 .bingohall.ag
 .bingooverdosegroom.com
+.binjlwz.cn
 .bipedhematin.website
 .biquge22.com
 .bird.brondby.com
@@ -78018,7 +77356,6 @@ visit.webhosting.yahoo.com
 .breakingrubber.com
 .breedom.club
 .brfiles.com
-.briareddollier.com
 .brie5jiff.com
 .brightadnetwork.com
 .bringmesports.com
@@ -78264,7 +77601,6 @@ visit.webhosting.yahoo.com
 .careerjournalonline.com
 .careers.coniferhealth.com
 .carextenuous.com
-.carfulsranquel.com
 .cargdk.bakerross.co.uk
 .caribou.color.io
 .caribou.mcgregorpublishing.com
@@ -78700,6 +78036,7 @@ visit.webhosting.yahoo.com
 .chylenogre.com
 .ci.intuit.com
 .cib.currency.lloydsbank.com
+.cichiji.top
 .cieh.mx
 .cifraclub.com.br
 .cig.com.cn
@@ -79656,6 +78993,7 @@ visit.webhosting.yahoo.com
 .cybs.dhgate.com
 .cycalaky.xyz
 .cyglujeshu.com
+.cyhbrjf.cn
 .cyjaruvndimgaa.com
 .cymetaphy.xyz
 .cyp889.cn
@@ -81502,7 +80840,6 @@ visit.webhosting.yahoo.com
 .df.thumbtack.com
 .df9377.com
 .dfggb.cc
-.dfkd.xyz
 .dfp.bouncex.net
 .dfp.garmin.com
 .dg-hospital.com
@@ -81669,6 +81006,7 @@ visit.webhosting.yahoo.com
 .dnvod.tv
 .dnxcok.pentik.com
 .doclen.hypedc.com
+.docodoco.jp
 .dodgiercuvy.cam
 .dodi.86zhnc.cn
 .dodi.meng-an.cn
@@ -82437,7 +81775,6 @@ visit.webhosting.yahoo.com
 .ep.americanexpress.com
 .epcdko.forevernew.com.au
 .epeex.com
-.epfmfqh.cn
 .ephler.com
 .episerver.net
 .epleads.ru
@@ -83087,7 +82424,6 @@ visit.webhosting.yahoo.com
 .fumeiti.cc
 .fumiad.dxys.pro
 .fundingchoicesmessages.google.com
-.fungalsbooger.com
 .funmatrix.net
 .fusepsywi.com
 .fusion-files-cf.pinsightmedia.com
@@ -83152,8 +82488,8 @@ visit.webhosting.yahoo.com
 .galeriaseroticas.xpg.com.br
 .gallantoutskirts.com
 .gallery.pandora.xiaomi.com
+.gambar123.com
 .gambol.link
-.gambolspumicer.com
 .game.466.com
 .game.5xen.com
 .game.65pk.net
@@ -83264,7 +82600,6 @@ visit.webhosting.yahoo.com
 .get-express-vpn.online
 .get-express-vpns.com
 .get-me-wow.in
-.get-partner.life
 .get.civicscience.com
 .get.kronos.com
 .get.now.airielle.de
@@ -84579,6 +83914,7 @@ visit.webhosting.yahoo.com
 .indigital.lt
 .indpcr1.com
 .infamylists.com
+.infaustsecond.com
 .info-www.com
 .info.a-m-c.com
 .info.advantageman.com
@@ -85411,7 +84747,6 @@ visit.webhosting.yahoo.com
 .krakenoptimize.com
 .kriloff.ru
 .krpano.org
-.krubisstratic.com
 .ks42zt.spec.fm
 .ksaggspp.xyz
 .ksgpdp.shopagh.com
@@ -86659,6 +85994,7 @@ visit.webhosting.yahoo.com
 .marketo.net.edgekey.net
 .markmansonbooklst.com
 .markswebcams.com
+.marktworks.com
 .marlin.firstline.org
 .marlin.plumerai.com
 .marmot.hippiemodernism.com
@@ -87556,7 +86892,6 @@ visit.webhosting.yahoo.com
 .ncwckj.com
 .nczils.pristineauction.com
 .nda3456.com
-.ndandinter.hair
 .ndapus.cn
 .nddmcconmqsy.ru
 .ndgrlo.visiondirect.com.au
@@ -87715,6 +87050,7 @@ visit.webhosting.yahoo.com
 .nodawzua.mom
 .node.cdntxt.com
 .node7seat.com
+.nodouslover.com
 .none-test.com
 .nonekvoi.skin
 .nongjingly.com
@@ -88644,6 +87980,7 @@ visit.webhosting.yahoo.com
 .piledarriving.com
 .pilgrimarym.club
 .pilipala.info
+.pimlicoouranos.space
 .pimlog.baidu.com
 .pin.hpplay.cn
 .pincai.com
@@ -89045,6 +88382,7 @@ visit.webhosting.yahoo.com
 .psisalte.com
 .psma01.com
 .psma03.com
+.psoalreh.com
 .pss.alicdn.com
 .psupaids.com
 .pszs388.cn
@@ -89317,7 +88655,6 @@ visit.webhosting.yahoo.com
 .qolhpm.iparts.pl
 .qoqv.com
 .qorosmall.com
-.qowg.top
 .qoygsv.born2be.pl
 .qps.cint.com
 .qpwoei2.com
@@ -89354,6 +88691,7 @@ visit.webhosting.yahoo.com
 .quantumadblocker.com
 .quantumws.net
 .quarepush.com
+.quarkskans.com
 .quaz.viaoz.xyz
 .queqh.com
 .query.capitalontap.com
@@ -89592,7 +88930,6 @@ visit.webhosting.yahoo.com
 .research.net
 .researchintel.com
 .researchnow.com
-.reseelysin.com
 .resentmentveneering.com
 .reservedoffers.club
 .residebroadly.com
@@ -90536,6 +89873,7 @@ visit.webhosting.yahoo.com
 .skiptheadz.com
 .skiptheadz.info
 .skiptheadz.net
+.skipthemadz.info
 .skipvideoads.com
 .skkybrought.pro
 .skl.zhazhiwei.com
@@ -93935,7 +93273,6 @@ visit.webhosting.yahoo.com
 .tutad.ru
 .tutotrack.com
 .tutworkfraghan.cam
-.tuxedochard.com
 .tuxi.com.cn
 .tuzufsi.cn
 .tuzynj.sacha.nl
@@ -94783,6 +94120,7 @@ visit.webhosting.yahoo.com
 .whyxqoc.cn
 .whz9ruftvh4pxz8fc7vh.theochu.com
 .whzshoes.com
+.wideangle.co
 .widelygeneralizereptile.com
 .widget-cdn.rpxnow.com
 .widget-static.com
@@ -95158,7 +94496,6 @@ visit.webhosting.yahoo.com
 .wxs.qq.com
 .wxsnsad.tc.qq.com
 .wxsohu.com
-.wxumevd.cn
 .wxwkgxnemw.xyz
 .wydong.top
 .wyelmp.vidaxl.si
@@ -95783,6 +95120,7 @@ visit.webhosting.yahoo.com
 .yueleshenghuo.cn
 .yueqal.glassesusa.com
 .yujianmeihao179.cn
+.yukonearshot.com
 .yule.fulevmy.com
 .yulonginvest.com.cn
 .yumi06.com

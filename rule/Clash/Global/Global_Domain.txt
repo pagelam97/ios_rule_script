@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-11-30 22:29:28
+# UPDATED: 2022-12-02 02:08:30
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37341
+# DOMAIN-SUFFIX: 37343
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37666
+# TOTAL: 37668
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -5154,7 +5154,6 @@ assets-priconne-redive-us.akamaized.net
 .fullstory.com
 .fulltaboo.tv
 .fullxxxmovies.net
-.fun881211.com
 .fundaiphone5s.com
 .fundfire.com
 .fundinginstitutional.com
@@ -6906,6 +6905,7 @@ assets-priconne-redive-us.akamaized.net
 .javplatform.com
 .javporn.tech
 .javporn.ws
+.javpost.net
 .javprice.com
 .javprime.net
 .javpush.com
@@ -6955,7 +6955,6 @@ assets-priconne-redive-us.akamaized.net
 .jibemobile.com
 .jigsawthirsty.com
 .jilhub.com
-.jingbets.com
 .jinnaju.com
 .jinsilubanzhao.com
 .jitsi.org
@@ -8406,6 +8405,7 @@ assets-priconne-redive-us.akamaized.net
 .netacad.net
 .netarabic.com
 .netfapx.com
+.netflav1.com
 .netflixdnstest0.com
 .netflixdnstest1.com
 .netflixdnstest10.com
@@ -12117,7 +12117,6 @@ assets-priconne-redive-us.akamaized.net
 .vuvuzela.io
 .vxnbbrs.xyz
 .vxxsred.xyz
-.w88club.com
 .wa.me
 .wal-mart.com
 .wal.co
@@ -21143,6 +21142,7 @@ assets-priconne-redive-us.akamaized.net
 .fun88.com.cn
 .fun8802.com
 .fun8809.com
+.fun881211.com
 .fun8878.com
 .fun8889.com
 .fun88asia1.com
@@ -23556,6 +23556,7 @@ assets-priconne-redive-us.akamaized.net
 .jinbushe.org
 .jing1155.com
 .jing444444.com
+.jingbets.com
 .jingking.net
 .jingling.me
 .jingpin.org
@@ -31714,6 +31715,7 @@ assets-priconne-redive-us.akamaized.net
 .w88124.com
 .w888055.com
 .w888066.com
+.w88club.com
 .w88info.com
 .w88w989.com
 .w9155.com
