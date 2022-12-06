@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-06 02:08:43
+# UPDATED: 2022-12-07 02:08:32
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37347
+# DOMAIN-SUFFIX: 37350
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37672
+# TOTAL: 37675
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -4067,6 +4067,7 @@ assets-priconne-redive-us.akamaized.net
 .economistgroup.com
 .economistgroupcareers.com
 .ecuatorianas.best
+.ed21.cc
 .edditstatic.com
 .edengay.net
 .edgefonts.net
@@ -4582,6 +4583,7 @@ assets-priconne-redive-us.akamaized.net
 .fakings.com
 .fameregistry.com
 .family-sex.me
+.family-simulator.io
 .familymart.com.cn
 .familypies.net
 .familyporn.tv
@@ -6250,6 +6252,7 @@ assets-priconne-redive-us.akamaized.net
 .hxc10.vip
 .hxcsxs.pro
 .hxdoll.com
+.hycgm1324.shop
 .hyper.is
 .hyperscan.io
 .hypnohub.net

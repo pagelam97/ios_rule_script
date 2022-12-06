@@ -1,13 +1,13 @@
 # NAME: ChinaMaxNoIP
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-06 02:09:57
+# UPDATED: 2022-12-07 02:09:46
 # DOMAIN: 149
 # DOMAIN-KEYWORD: 14
-# DOMAIN-SUFFIX: 67247
+# DOMAIN-SUFFIX: 67239
 # PROCESS-NAME: 11
 # USER-AGENT: 65
-# TOTAL: 67486
+# TOTAL: 67478
 265.com
 accounts.googlers.com
 accounts.xn--9trs65b.com
@@ -2809,6 +2809,7 @@ xn--flw351e.com
 .3237.com
 .323700.net
 .3259.com
+.326pay.com
 .32800.com
 .328f.com
 .328vip.com
@@ -3789,7 +3790,6 @@ xn--flw351e.com
 .4sjob.com
 .4sscrm.com
 .4thetooth.com
-.4turewei.com
 .4u1mx79nlw.com
 .4u4v.net
 .4w2b.cc
@@ -9016,6 +9016,7 @@ xn--flw351e.com
 .apk3.com
 .apk8.com
 .apkevery.com
+.apkpackagesys.com
 .apkplug.com
 .apkrj.com
 .apkyx.com
@@ -9108,6 +9109,7 @@ xn--flw351e.com
 .appso.com
 .appsolution.cc
 .apptao.com
+.apptuxing.com
 .appubang.com
 .appublisher.com
 .appurl.cc
@@ -12037,7 +12039,6 @@ xn--flw351e.com
 .btc38.com
 .btc5.net
 .btc789.com
-.btcb.com
 .btcbbs.com
 .btcbl.com
 .btcfans.com
@@ -16404,7 +16405,6 @@ xn--flw351e.com
 .cocosbcx.net
 .cocostudio.org
 .cocss.com
-.coctotoo.com
 .codante.org
 .code-by.org
 .code.sh
@@ -16903,7 +16903,6 @@ xn--flw351e.com
 .cqrc.net
 .cqrcb.com
 .cqscmy.net
-.cqshangceng.com
 .cqshenou.com
 .cqskl.com
 .cqslib.org
@@ -18343,6 +18342,7 @@ xn--flw351e.com
 .ddsy.com
 .ddtugame.com
 .ddtv135.com
+.ddtv137.com
 .ddtxgame.com
 .ddtz5.com
 .ddun.com
@@ -18408,7 +18408,6 @@ xn--flw351e.com
 .dedeyun.com
 .dedezhuji.com
 .deehai.com
-.deelplumbing.com
 .deemob.com
 .deemos.com
 .deepano.com
@@ -26690,7 +26689,6 @@ xn--flw351e.com
 .hch518.com
 .hchbblg.com
 .hchezhu.com
-.hchfr.com
 .hchlidc.com
 .hchliot.com
 .hcicloud.com
@@ -33634,7 +33632,6 @@ xn--flw351e.com
 .jsrxjt.com
 .jssalt.com
 .jssfx.com
-.jssgw.com
 .jsshow.net
 .jssnrcb.com
 .jsswordshop.com
@@ -39103,7 +39100,6 @@ xn--flw351e.com
 .medme.net
 .medmeeting.org
 .medproad.com
-.medsci-tech.com
 .medstarcorp.com
 .medtion.com
 .meechao.com
@@ -45338,7 +45334,6 @@ xn--flw351e.com
 .qingbh.com
 .qingcache.com
 .qingcdn.com
-.qingchifan.com
 .qingchu.com
 .qingchunbank.com
 .qingcigame.com
@@ -46059,7 +46054,6 @@ xn--flw351e.com
 .quanzhanketang.com
 .quanzhi.com
 .quanzhifu.net
-.quanzhoudaqin.com
 .quanziapp.com
 .quaolai.com
 .quarkbook.com
@@ -53631,7 +53625,6 @@ xn--flw351e.com
 .toplinks.cc
 .toploong.com
 .topmba.mobi
-.topnews9.com
 .topomel.com
 .toppdu.com
 .topperuse.com
@@ -62517,7 +62510,6 @@ xn--flw351e.com
 .yingk.com
 .yingkelawyer.com
 .yingle.com
-.yinglou6.com
 .yinglunka.com
 .yingmei.me
 .yingmi.com
@@ -62722,6 +62714,7 @@ xn--flw351e.com
 .yitopapp.com
 .yitutech.com
 .yituyu.com
+.yiuios.com
 .yiupin.com
 .yiuxiu.com
 .yivian.com
@@ -62923,6 +62916,7 @@ xn--flw351e.com
 .ylike.net
 .ylimg.com
 .yliyun.com
+.ylizu.com
 .yljc888.com
 .yljr.com
 .ylkc.net
@@ -62945,7 +62939,6 @@ xn--flw351e.com
 .ylwl.cc
 .ylws.net
 .ylwyw.com
-.ylxbxgtg.com
 .ylxdtww.com
 .ylxk.net
 .ylxw.net
@@ -64818,7 +64811,6 @@ xn--flw351e.com
 .zcry007.com
 .zcs.cc
 .zcsbbs.com
-.zcsblog.com
 .zcskj.com
 .zctl.net
 .zctx.com

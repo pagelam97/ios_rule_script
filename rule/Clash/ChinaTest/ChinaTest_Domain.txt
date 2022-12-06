@@ -1,13 +1,13 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-06 02:09:16
+# UPDATED: 2022-12-07 02:09:05
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66124
+# DOMAIN-SUFFIX: 66113
 # IP-CIDR: 10
 # IP-CIDR6: 4
-# TOTAL: 66322
+# TOTAL: 66311
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdp.cloud.unity3d.com
@@ -6181,6 +6181,7 @@ xn--flw351e.com
 .323700.net
 .324.com
 .3259.com
+.326pay.com
 .32800.com
 .328f.com
 .328vip.com
@@ -7060,7 +7061,6 @@ xn--flw351e.com
 .4sjob.com
 .4sscrm.com
 .4thetooth.com
-.4turewei.com
 .4u4v.net
 .4w2b.cc
 .4w8.net
@@ -9054,7 +9054,6 @@ xn--flw351e.com
 .76al.com
 .76baobao.com
 .76dongdong.com
-.76e.org
 .76ju.com
 .76wu.com
 .76xh.com
@@ -12124,6 +12123,7 @@ xn--flw351e.com
 .apizza.net
 .apjingsi.com
 .apkevery.com
+.apkpackagesys.com
 .apkplug.com
 .apkrj.com
 .apkyx.com
@@ -12205,6 +12205,7 @@ xn--flw351e.com
 .appsina.com
 .appso.com
 .apptao.com
+.apptuxing.com
 .appubang.com
 .appublisher.com
 .appurl.cc
@@ -14957,7 +14958,6 @@ xn--flw351e.com
 .btc38.com
 .btc5.net
 .btc789.com
-.btcb.com
 .btcbbs.com
 .btcbl.com
 .btcha.com
@@ -18895,7 +18895,6 @@ xn--flw351e.com
 .cocostudio.org
 .cocounion.com
 .cocss.com
-.coctotoo.com
 .codante.org
 .code-by.org
 .code.sh
@@ -19368,7 +19367,6 @@ xn--flw351e.com
 .cqrc.net
 .cqrcb.com
 .cqscmy.net
-.cqshangceng.com
 .cqshenou.com
 .cqskl.com
 .cqslib.org
@@ -20691,6 +20689,7 @@ xn--flw351e.com
 .ddsy.com
 .ddtugame.com
 .ddtv135.com
+.ddtv137.com
 .ddtxgame.com
 .ddtz5.com
 .ddun.com
@@ -20754,7 +20753,6 @@ xn--flw351e.com
 .dedeyun.com
 .dedezhuji.com
 .deehai.com
-.deelplumbing.com
 .deemob.com
 .deemos.com
 .deepano.com
@@ -28553,7 +28551,6 @@ xn--flw351e.com
 .hch518.com
 .hchbblg.com
 .hchezhu.com
-.hchfr.com
 .hchlidc.com
 .hchliot.com
 .hcicloud.com
@@ -34911,7 +34908,6 @@ xn--flw351e.com
 .jsrxjt.com
 .jssalt.com
 .jssfx.com
-.jssgw.com
 .jsshow.net
 .jssnrcb.com
 .jsswordshop.com
@@ -38453,13 +38449,10 @@ xn--flw351e.com
 .llycloud.com
 .llzg.com
 .llzw888.com
-.lm213.com
 .lm284.com
 .lm335.com
 .lm553.com
 .lm685.com
-.lm832.com
-.lm865.com
 .lm9999.com
 .lmacc.com
 .lmanmo.com
@@ -40018,7 +40011,6 @@ xn--flw351e.com
 .medme.net
 .medmeeting.org
 .medproad.com
-.medsci-tech.com
 .medstarcorp.com
 .medtion.com
 .meechao.com
@@ -45268,6 +45260,7 @@ xn--flw351e.com
 .qcymall.com
 .qcyoung.com
 .qczb.app
+.qczj.xyz
 .qd-weimob.com
 .qd256.com
 .qd315.net
@@ -45719,7 +45712,6 @@ xn--flw351e.com
 .qing5.com
 .qingbh.com
 .qingcdn.com
-.qingchifan.com
 .qingchu.com
 .qingchunbank.com
 .qingcigame.com
@@ -46355,7 +46347,6 @@ xn--flw351e.com
 .quanzhanketang.com
 .quanzhi.com
 .quanzhifu.net
-.quanzhoudaqin.com
 .quanziapp.com
 .quarkbook.com
 .quarkers.com
@@ -53411,7 +53402,6 @@ xn--flw351e.com
 .toplinks.cc
 .toploong.com
 .topmba.mobi
-.topnews9.com
 .topomel.com
 .toppdu.com
 .topperuse.com
@@ -61698,7 +61688,6 @@ xn--flw351e.com
 .yingk.com
 .yingkelawyer.com
 .yingle.com
-.yinglou6.com
 .yinglunka.com
 .yingmei.me
 .yingmi.com
@@ -61893,6 +61882,7 @@ xn--flw351e.com
 .yitopapp.com
 .yitutech.com
 .yituyu.com
+.yiuios.com
 .yiupin.com
 .yiuxiu.com
 .yivian.com
@@ -62072,6 +62062,7 @@ xn--flw351e.com
 .ylife9.com
 .ylimg.com
 .yliyun.com
+.ylizu.com
 .yljc888.com
 .yljr.com
 .ylkc.net
@@ -62094,7 +62085,6 @@ xn--flw351e.com
 .ylwl.cc
 .ylws.net
 .ylwyw.com
-.ylxbxgtg.com
 .ylxdtww.com
 .ylxk.net
 .ylxw.net
@@ -63844,7 +63834,6 @@ xn--flw351e.com
 .zcry007.com
 .zcs.cc
 .zcsbbs.com
-.zcsblog.com
 .zcskj.com
 .zctl.net
 .zctx.com
