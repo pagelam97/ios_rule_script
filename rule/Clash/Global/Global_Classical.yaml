@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:32
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37675
+# TOTAL: 37681
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -7156,6 +7156,8 @@ payload:
   - DOMAIN-SUFFIX,kslive.tv
   - DOMAIN-SUFFIX,ksyp10.com
   - DOMAIN-SUFFIX,ktvu.com
+  - DOMAIN-SUFFIX,kubakuba.global
+  - DOMAIN-SUFFIX,kubakuba1996.com
   - DOMAIN-SUFFIX,kubeacademy.com
   - DOMAIN-SUFFIX,kubeapps.com
   - DOMAIN-SUFFIX,kubernetes.io
@@ -11349,6 +11351,9 @@ payload:
   - DOMAIN-SUFFIX,tiendabestbuy.com
   - DOMAIN-SUFFIX,tiffany-towers.com
   - DOMAIN-SUFFIX,tig-ol-bitties.live
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
   - DOMAIN-SUFFIX,timelinestoryteller.com
   - DOMAIN-SUFFIX,timesmembership.com
   - DOMAIN-SUFFIX,timo0.com
@@ -15712,6 +15717,7 @@ payload:
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adshoppeevents.com
   - DOMAIN-SUFFIX,adss.asia
+  - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,adult-cartoon-sex.com
   - DOMAIN-SUFFIX,adult-empire.com
   - DOMAIN-SUFFIX,adult-sex-games.com

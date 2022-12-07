@@ -1,13 +1,13 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:32
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 114
 # USER-AGENT: 45
-# TOTAL: 37719
+# TOTAL: 37725
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -3223,6 +3223,7 @@ xz.pphimalayanrt.com
 .adsenseformobileapps.com
 .adshoppeevents.com
 .adss.asia
+.adtidy.org
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-list.com
@@ -18203,6 +18204,8 @@ xz.pphimalayanrt.com
 .kuaisantui.cf
 .kuaixian.me
 .kuanyu.host56.com
+.kubakuba.global
+.kubakuba1996.com
 .kubeacademy.com
 .kubeapps.com
 .kubernetes.io
@@ -28500,6 +28503,9 @@ xz.pphimalayanrt.com
 .tigerpvp.ga
 .tigervpn.com
 .tik-tokapi.com
+.tiktok.com
+.tiktokcdn.com
+.tiktokv.com
 .tiltbrush.com
 .timc.idv.tw
 .timdir.com

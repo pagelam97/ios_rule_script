@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:08:32
+# UPDATED: 2022-12-07 22:38:26
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37350
+# DOMAIN-SUFFIX: 37356
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37675
+# TOTAL: 37681
 payload:
   - 'abematv.akamaized.net'
   - 'amp.akamaized.net'
@@ -7156,6 +7156,8 @@ payload:
   - '+.kslive.tv'
   - '+.ksyp10.com'
   - '+.ktvu.com'
+  - '+.kubakuba.global'
+  - '+.kubakuba1996.com'
   - '+.kubeacademy.com'
   - '+.kubeapps.com'
   - '+.kubernetes.io'
@@ -11349,6 +11351,9 @@ payload:
   - '+.tiendabestbuy.com'
   - '+.tiffany-towers.com'
   - '+.tig-ol-bitties.live'
+  - '+.tiktok.com'
+  - '+.tiktokcdn.com'
+  - '+.tiktokv.com'
   - '+.timelinestoryteller.com'
   - '+.timesmembership.com'
   - '+.timo0.com'
@@ -15712,6 +15717,7 @@ payload:
   - '+.adsense.com'
   - '+.adshoppeevents.com'
   - '+.adss.asia'
+  - '+.adtidy.org'
   - '+.adult-cartoon-sex.com'
   - '+.adult-empire.com'
   - '+.adult-sex-games.com'

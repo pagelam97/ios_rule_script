@@ -1,14 +1,14 @@
 # NAME: ChinaTest
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 02:09:04
+# UPDATED: 2022-12-07 22:38:58
 # DOMAIN: 174
 # DOMAIN-KEYWORD: 10
-# DOMAIN-SUFFIX: 66113
+# DOMAIN-SUFFIX: 66112
 # IP-CIDR: 10
 # IP-CIDR6: 4
 # USER-AGENT: 31
-# TOTAL: 66342
+# TOTAL: 66341
 265.com
 2mdn-cn.net
 2mdn.net
@@ -15060,6 +15060,7 @@ xn--flw351e.com
 .chufaba.me
 .chufw.com
 .chuge8.com
+.chugou360.com
 .chuguo78.com
 .chuguofeng.com
 .chuguohao.com
@@ -52389,9 +52390,6 @@ xn--flw351e.com
 .tijianzhuanjia.com
 .tikane.com
 .tikersport.com
-.tiktok.com
-.tiktokcdn.com
-.tiktokv.com
 .tikuol.com
 .tillcn.com
 .tillglance.com
@@ -60952,6 +60950,7 @@ xn--flw351e.com
 .ycpai.com
 .ycrh-tattoo.com
 .ycrusher.com
+.ycrx360.com
 .ycsd.work
 .ycsrc.com
 .ycsystem.com
