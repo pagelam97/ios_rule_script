@@ -1,5 +1,5 @@
 #!name=AllInOne
-#!desc=最后更新时间 2022-12-07 22:40:26
+#!desc=最后更新时间 2022-12-08 02:10:13
 #!author=blackmatrix7
 #!repo=https://github.com/blackmatrix7/ios_rule_script
 #!domain=3
@@ -97,7 +97,6 @@ USER-AGENT,AVOS*,REJECT
 "^https?:\/\/cn\.ultraiso\.net\/" https://cn.ezbsystems.com/ultraiso/ 302
 "^https?:\/\/hypersnap\.mairuan\.com\/" https://www.keyshot.com/ 302
 "^https?:\/\/logoshejishi\.mairuan\.com\/" https://www.sothink.com/product/logo-design-software/ 302
-"^https:\/\/god\.gameyw\.netease\.com\/v1\/ad\/.*" - reject
 "^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)(:\d+)?\/V\d\/splash\/getSplashV\d\.action$" - reject
 "^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d):\d+/xygj-config-api\/queryData" - reject
 "^https?:\/\/((25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d)\.){3}(25[0-5]|2[0-4]\d|1\d{2}|[1-9]?\d):\d+\/allOne\.php\?ad_name" - reject
@@ -339,6 +338,7 @@ USER-AGENT,AVOS*,REJECT
 "^https?:\/\/gg\w+?\.cmvideo\.cn\/v\d\/iflyad\/" - reject
 "^https?:\/\/ggic(\d)?\.cmvideo\.cn\/ad\/" - reject
 "^https?:\/\/ggx\.cmvideo\.cn\/request\/" - reject
+"^https?:\/\/god\.gameyw\.netease\.com\/v1\/ad\/.*" - reject
 "^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/car-rest\/webservice\/passenger\/recommendADs" - reject
 "^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/zhuanche-passenger-token\/leachtoken\/webservice\/homepage\/queryADs" - reject
 "^https?:\/\/gw-passenger\.01zhuanche\.com\/gw-passenger\/zhuanche-passengerController\/notk\/passenger\/recommendADs" - reject
