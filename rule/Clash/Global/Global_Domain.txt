@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:26
+# UPDATED: 2022-12-09 02:09:20
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37356
+# DOMAIN-SUFFIX: 37360
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37681
+# TOTAL: 37685
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -12145,6 +12145,7 @@ assets-priconne-redive-us.akamaized.net
 .want-media.com
 .wantblogger.com
 .waplog.com
+.wapm.io
 .waranlov.com
 .warddogs.com
 .wariolandshakeit.com
@@ -12154,6 +12155,7 @@ assets-priconne-redive-us.akamaized.net
 .washa.tv
 .washingtondcbmw.com
 .waskucity.com
+.wasmer.io
 .watch-ebay.org
 .watch-my-gf.com
 .watch-porn.net
@@ -19902,6 +19904,7 @@ assets-priconne-redive-us.akamaized.net
 .earthcam.net
 .earthvpn.com
 .easibook.my
+.east-plus.net
 .east.moe
 .eastasiaforum.org
 .eastern-ark.com
@@ -29200,6 +29203,7 @@ assets-priconne-redive-us.akamaized.net
 .sppoc.com
 .spravca.net
 .spreadshirt.es
+.spring-plus.net
 .spring.io
 .spring.net
 .spring4u.info

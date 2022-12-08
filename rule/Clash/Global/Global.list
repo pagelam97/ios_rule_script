@@ -1,14 +1,14 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
-# UPDATED: 2022-12-07 22:38:26
+# UPDATED: 2022-12-09 02:09:20
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
-# DOMAIN-SUFFIX: 37356
+# DOMAIN-SUFFIX: 37360
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
-# TOTAL: 37681
+# TOTAL: 37685
 DOMAIN,abematv.akamaized.net
 DOMAIN,amp.akamaized.net
 DOMAIN,angle.com.tw
@@ -12145,6 +12145,7 @@ DOMAIN-SUFFIX,wanokokorosoh.com
 DOMAIN-SUFFIX,want-media.com
 DOMAIN-SUFFIX,wantblogger.com
 DOMAIN-SUFFIX,waplog.com
+DOMAIN-SUFFIX,wapm.io
 DOMAIN-SUFFIX,waranlov.com
 DOMAIN-SUFFIX,warddogs.com
 DOMAIN-SUFFIX,wariolandshakeit.com
@@ -12154,6 +12155,7 @@ DOMAIN-SUFFIX,wasdj.com
 DOMAIN-SUFFIX,washa.tv
 DOMAIN-SUFFIX,washingtondcbmw.com
 DOMAIN-SUFFIX,waskucity.com
+DOMAIN-SUFFIX,wasmer.io
 DOMAIN-SUFFIX,watch-ebay.org
 DOMAIN-SUFFIX,watch-my-gf.com
 DOMAIN-SUFFIX,watch-porn.net
@@ -19902,6 +19904,7 @@ DOMAIN-SUFFIX,earthcam.com
 DOMAIN-SUFFIX,earthcam.net
 DOMAIN-SUFFIX,earthvpn.com
 DOMAIN-SUFFIX,easibook.my
+DOMAIN-SUFFIX,east-plus.net
 DOMAIN-SUFFIX,east.moe
 DOMAIN-SUFFIX,eastasiaforum.org
 DOMAIN-SUFFIX,eastern-ark.com
@@ -29200,6 +29203,7 @@ DOMAIN-SUFFIX,spotoption.com
 DOMAIN-SUFFIX,sppoc.com
 DOMAIN-SUFFIX,spravca.net
 DOMAIN-SUFFIX,spreadshirt.es
+DOMAIN-SUFFIX,spring-plus.net
 DOMAIN-SUFFIX,spring.io
 DOMAIN-SUFFIX,spring.net
 DOMAIN-SUFFIX,spring4u.info
