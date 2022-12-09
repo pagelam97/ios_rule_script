@@ -21,13 +21,13 @@
 
 ## 规则统计
 
-最后更新时间：2022-12-09 02:08:21
+最后更新时间：2022-12-10 02:07:56
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
-| DOMAIN-SUFFIX | 107152  | 
-| TOTAL | 107152  | 
+| DOMAIN-SUFFIX | 107237  | 
+| TOTAL | 107237  | 
 
 
 ## AdGuard 
@@ -110,6 +110,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Hijacking.list
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/Guard/Privacy.list
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/BanEasyPrivacy.list
+- https://raw.githubusercontent.com/githubacct001/QuantumultX/master/Filters/githubacct001_AD.list
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/annoyances-filter.txt
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/social-media-filter.txt
 - https://raw.githubusercontent.com/geekdada/surge-list/master/domain-set/dns-filter.txt
@@ -117,10 +118,6 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/mieqq/mieqq/master/In-AppTracker.txt
 - https://raw.githubusercontent.com/yjqiang/surge_scripts/main/modules/hupu/hupu.sgmodule
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/reject.txt
-- https://adguardteam.github.io/AdGuardSDNSFilter/Filters/filter.txt
-- https://easylist-downloads.adblockplus.org/easyprivacy.txt
-- https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Reject.yaml
-- https://raw.githubusercontent.com/LM-Firefly/Rules/master/Adblock/Adblock.list
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

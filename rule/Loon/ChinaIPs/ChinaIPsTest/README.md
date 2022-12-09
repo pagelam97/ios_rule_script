@@ -19,15 +19,15 @@ ChinaIPsTest规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
-最后更新时间：2022-12-09 02:10:52
+最后更新时间：2022-12-10 02:09:55
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | IP-ASN | 932  | 
-| IP-CIDR | 6804  | 
-| IP-CIDR6 | 5237  | 
-| TOTAL | 12973  | 
+| IP-CIDR | 6797  | 
+| IP-CIDR6 | 5595  | 
+| TOTAL | 13324  | 
 
 
 ## Loon 
@@ -87,22 +87,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/ChinaIP.list
 - https://raw.githubusercontent.com/misakaio/chnroutes2/master/chnroutes.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/cncidr.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cernet6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/china6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/chinanet6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/chinanet.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cmcc6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/cstnet6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/drpeng6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong.txt
 - https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/tietong6.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom.txt
-- https://raw.githubusercontent.com/gaoyifan/china-operator-ip/ip-lists/unicom6.txt
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。
