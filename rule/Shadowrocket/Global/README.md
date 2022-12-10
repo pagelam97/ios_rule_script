@@ -12,17 +12,28 @@ Global规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-12-02 02:08:31
+=======
+最后更新时间：2022-12-10 02:08:43
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 171  | 
 | DOMAIN-KEYWORD | 39  | 
+<<<<<<< HEAD
 | DOMAIN-SUFFIX | 37343  | 
 | IP-CIDR | 114  | 
 | USER-AGENT | 45  | 
 | TOTAL | 37712  | 
+=======
+| DOMAIN-SUFFIX | 37360  | 
+| IP-CIDR | 114  | 
+| USER-AGENT | 45  | 
+| TOTAL | 37729  | 
+>>>>>>> upstream/master
 
 
 ## Shadowrocket 
@@ -99,8 +110,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/gfw.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/greatfire.txt
 - https://raw.githubusercontent.com/Loyalsoldier/clash-rules/release/proxy.txt
+<<<<<<< HEAD
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Proxy.yaml
 - https://rules.kr328.app/geolocation-%21cn.yaml
+=======
+>>>>>>> upstream/master
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

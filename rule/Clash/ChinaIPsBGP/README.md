@@ -19,13 +19,22 @@ ChinaIPsBGP规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-12-02 02:09:31
+=======
+最后更新时间：2022-12-10 02:09:43
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | IP-CIDR | 3374  | 
 | TOTAL | 3374  | 
+=======
+| IP-CIDR | 3586  | 
+| TOTAL | 3586  | 
+>>>>>>> upstream/master
 
 
 ## Clash 

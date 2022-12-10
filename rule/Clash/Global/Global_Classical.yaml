@@ -1,6 +1,7 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2022-12-02 02:08:30
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
@@ -9,6 +10,16 @@
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # TOTAL: 37668
+=======
+# UPDATED: 2022-12-09 02:09:20
+# DOMAIN: 171
+# DOMAIN-KEYWORD: 39
+# DOMAIN-SUFFIX: 37360
+# IP-CIDR: 110
+# IP-CIDR6: 4
+# PROCESS-NAME: 1
+# TOTAL: 37685
+>>>>>>> upstream/master
 payload:
   - DOMAIN,abematv.akamaized.net
   - DOMAIN,amp.akamaized.net
@@ -613,6 +624,10 @@ payload:
   - DOMAIN-SUFFIX,adultvideotop.com
   - DOMAIN-SUFFIX,adultvirtualworlds.net
   - DOMAIN-SUFFIX,advancediddetection.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,adventofcode.com
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,adventuresbydisney.com
   - DOMAIN-SUFFIX,advertiserscommunity.com
   - DOMAIN-SUFFIX,adwords-community.com
@@ -4067,6 +4082,10 @@ payload:
   - DOMAIN-SUFFIX,economistgroup.com
   - DOMAIN-SUFFIX,economistgroupcareers.com
   - DOMAIN-SUFFIX,ecuatorianas.best
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,ed21.cc
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,edditstatic.com
   - DOMAIN-SUFFIX,edengay.net
   - DOMAIN-SUFFIX,edgefonts.net
@@ -4582,6 +4601,10 @@ payload:
   - DOMAIN-SUFFIX,fakings.com
   - DOMAIN-SUFFIX,fameregistry.com
   - DOMAIN-SUFFIX,family-sex.me
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,family-simulator.io
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,familymart.com.cn
   - DOMAIN-SUFFIX,familypies.net
   - DOMAIN-SUFFIX,familyporn.tv
@@ -6250,6 +6273,10 @@ payload:
   - DOMAIN-SUFFIX,hxc10.vip
   - DOMAIN-SUFFIX,hxcsxs.pro
   - DOMAIN-SUFFIX,hxdoll.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,hycgm1324.shop
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,hyper.is
   - DOMAIN-SUFFIX,hyperscan.io
   - DOMAIN-SUFFIX,hypnohub.net
@@ -7152,6 +7179,11 @@ payload:
   - DOMAIN-SUFFIX,kslive.tv
   - DOMAIN-SUFFIX,ksyp10.com
   - DOMAIN-SUFFIX,ktvu.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,kubakuba.global
+  - DOMAIN-SUFFIX,kubakuba1996.com
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,kubeacademy.com
   - DOMAIN-SUFFIX,kubeapps.com
   - DOMAIN-SUFFIX,kubernetes.io
@@ -8992,6 +9024,10 @@ payload:
   - DOMAIN-SUFFIX,oss-me-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-east-1.aliyuncs.com
   - DOMAIN-SUFFIX,oss-us-west-1.aliyuncs.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,osxapps.itunes.g.aaplimg.com
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,otbm.com
   - DOMAIN-SUFFIX,otokonokoland.com
   - DOMAIN-SUFFIX,oudoll.com
@@ -11044,6 +11080,10 @@ payload:
   - DOMAIN-SUFFIX,svpply.com
   - DOMAIN-SUFFIX,svscomics.com
   - DOMAIN-SUFFIX,svsgames.org
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,swallow-apple-com.v.aaplimg.com
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,swapsmut.com
   - DOMAIN-SUFFIX,sway-cdn.com
   - DOMAIN-SUFFIX,sway.com
@@ -11343,6 +11383,12 @@ payload:
   - DOMAIN-SUFFIX,tiendabestbuy.com
   - DOMAIN-SUFFIX,tiffany-towers.com
   - DOMAIN-SUFFIX,tig-ol-bitties.live
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,tiktok.com
+  - DOMAIN-SUFFIX,tiktokcdn.com
+  - DOMAIN-SUFFIX,tiktokv.com
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,timelinestoryteller.com
   - DOMAIN-SUFFIX,timesmembership.com
   - DOMAIN-SUFFIX,timo0.com
@@ -12135,6 +12181,10 @@ payload:
   - DOMAIN-SUFFIX,want-media.com
   - DOMAIN-SUFFIX,wantblogger.com
   - DOMAIN-SUFFIX,waplog.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,wapm.io
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,waranlov.com
   - DOMAIN-SUFFIX,warddogs.com
   - DOMAIN-SUFFIX,wariolandshakeit.com
@@ -12144,6 +12194,10 @@ payload:
   - DOMAIN-SUFFIX,washa.tv
   - DOMAIN-SUFFIX,washingtondcbmw.com
   - DOMAIN-SUFFIX,waskucity.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,wasmer.io
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,watch-ebay.org
   - DOMAIN-SUFFIX,watch-my-gf.com
   - DOMAIN-SUFFIX,watch-porn.net
@@ -12168,6 +12222,10 @@ payload:
   - DOMAIN-SUFFIX,wdc.com
   - DOMAIN-SUFFIX,wdfiles.com
   - DOMAIN-SUFFIX,weareebay.com
+<<<<<<< HEAD
+=======
+  - DOMAIN-SUFFIX,weather-data.apple.com.akadns.net
+>>>>>>> upstream/master
   - DOMAIN-SUFFIX,weav.xyz
   - DOMAIN-SUFFIX,web-instagram.net
   - DOMAIN-SUFFIX,web.app
@@ -15705,6 +15763,7 @@ payload:
   - DOMAIN-SUFFIX,adsense.com
   - DOMAIN-SUFFIX,adshoppeevents.com
   - DOMAIN-SUFFIX,adss.asia
+  - DOMAIN-SUFFIX,adtidy.org
   - DOMAIN-SUFFIX,adult-cartoon-sex.com
   - DOMAIN-SUFFIX,adult-empire.com
   - DOMAIN-SUFFIX,adult-sex-games.com
@@ -19890,6 +19949,7 @@ payload:
   - DOMAIN-SUFFIX,earthcam.net
   - DOMAIN-SUFFIX,earthvpn.com
   - DOMAIN-SUFFIX,easibook.my
+  - DOMAIN-SUFFIX,east-plus.net
   - DOMAIN-SUFFIX,east.moe
   - DOMAIN-SUFFIX,eastasiaforum.org
   - DOMAIN-SUFFIX,eastern-ark.com
@@ -29188,6 +29248,7 @@ payload:
   - DOMAIN-SUFFIX,sppoc.com
   - DOMAIN-SUFFIX,spravca.net
   - DOMAIN-SUFFIX,spreadshirt.es
+  - DOMAIN-SUFFIX,spring-plus.net
   - DOMAIN-SUFFIX,spring.io
   - DOMAIN-SUFFIX,spring.net
   - DOMAIN-SUFFIX,spring4u.info

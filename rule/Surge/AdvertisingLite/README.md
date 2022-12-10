@@ -15,7 +15,11 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-11-30 21:09:01
+=======
+最后更新时间：2022-12-10 02:06:52
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
@@ -25,8 +29,13 @@
 | DOMAIN-KEYWORD | 27  | 
 | DOMAIN-SUFFIX | 13500  | 
 | IP-CIDR | 190  | 
+<<<<<<< HEAD
 | URL-REGEX | 295  | 
 | TOTAL | 37691  | 
+=======
+| URL-REGEX | 285  | 
+| TOTAL | 37681  | 
+>>>>>>> upstream/master
 
 
 ## Surge 

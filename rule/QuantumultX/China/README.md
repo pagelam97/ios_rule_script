@@ -12,18 +12,30 @@ China规则由《RULE GENERATOR 规则生成器》自动生成。
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-11-30 22:29:59
+=======
+最后更新时间：2022-12-07 22:38:56
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | HOST | 18  | 
 | HOST-KEYWORD | 10  | 
+<<<<<<< HEAD
 | HOST-SUFFIX | 3513  | 
 | IP-CIDR | 10  | 
 | IP6-CIDR | 4  | 
 | USER-AGENT | 31  | 
 | TOTAL | 3586  | 
+=======
+| HOST-SUFFIX | 3511  | 
+| IP-CIDR | 10  | 
+| IP6-CIDR | 4  | 
+| USER-AGENT | 31  | 
+| TOTAL | 3584  | 
+>>>>>>> upstream/master
 
 
 ## QuantumultX 
@@ -78,8 +90,11 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/blackmatrix7/ios_rule_script/master/source/rule/China/China.list
 - https://raw.githubusercontent.com/GeQ1an/Rules/master/QuantumultX/Filter/Mainland.list
 - https://raw.githubusercontent.com/sve1r/Rules-For-Quantumult-X/develop/Rules/Region/China.list
+<<<<<<< HEAD
 - https://raw.githubusercontent.com/dler-io/Rules/main/Clash/Provider/Domestic.yaml
 - https://rules.kr328.app/geolocation-cn.yaml
+=======
+>>>>>>> upstream/master
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

@@ -1,6 +1,7 @@
 # NAME: China
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2022-11-30 22:30:00
 # DOMAIN: 18
 # DOMAIN-KEYWORD: 10
@@ -8,6 +9,15 @@
 # IP-CIDR: 14
 # USER-AGENT: 31
 # TOTAL: 3586
+=======
+# UPDATED: 2022-12-07 22:38:56
+# DOMAIN: 18
+# DOMAIN-KEYWORD: 10
+# DOMAIN-SUFFIX: 3511
+# IP-CIDR: 14
+# USER-AGENT: 31
+# TOTAL: 3584
+>>>>>>> upstream/master
 analytics.strava.com
 blzddist1-a.akamaihd.net
 cdn.angruo.com
@@ -2969,9 +2979,12 @@ www.libvideo.com
 .tietuku.com
 .tiexue.net
 .tieyou.com
+<<<<<<< HEAD
 .tiktok.com
 .tiktokcdn.com
 .tiktokv.com
+=======
+>>>>>>> upstream/master
 .timedoo.com
 .timibase.com
 .timmerse.com
@@ -3007,6 +3020,10 @@ www.libvideo.com
 .touqikan.com
 .toursbms.com
 .toutiao.com
+<<<<<<< HEAD
+=======
+.toutiaoapi.com
+>>>>>>> upstream/master
 .toutiaocdn.com
 .toutiaocloud.com
 .toutiaocloud.net

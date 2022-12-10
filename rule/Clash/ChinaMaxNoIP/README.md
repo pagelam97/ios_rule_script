@@ -15,16 +15,26 @@ ChinaMax排除相关IP规则版本
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-12-02 02:09:46
+=======
+最后更新时间：2022-12-10 02:10:02
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
 | DOMAIN | 149  | 
 | DOMAIN-KEYWORD | 14  | 
+<<<<<<< HEAD
 | DOMAIN-SUFFIX | 67274  | 
 | PROCESS-NAME | 13  | 
 | TOTAL | 67450  | 
+=======
+| DOMAIN-SUFFIX | 67233  | 
+| PROCESS-NAME | 13  | 
+| TOTAL | 67409  | 
+>>>>>>> upstream/master
 
 
 ## Clash 
@@ -390,6 +400,7 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/DuoWan.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WanKaHuanJu.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ZhiYinManKe.list
+<<<<<<< HEAD
 - https://raw.githubusercontent.com/DivineEngine/Profiles/master/Surge/Ruleset/StreamingMedia/Video/bilibili.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/ShiJiChaoXing.list
 - https://raw.githubusercontent.com/LM-Firefly/Rules/master/Domestic-Services/WoLai.list
@@ -411,6 +422,8 @@ https://ghproxy.com/https://raw.githubusercontent.com/blackmatrix7/ios_rule_scri
 - https://raw.githubusercontent.com/ACL4SSR/ACL4SSR/master/Clash/Providers/Ruleset/NetEaseMusic.yaml
 - https://raw.githubusercontent.com/VirgilClyne/GetSomeFries/main/ruleset/ASN.China.list
 - https://rules.kr328.app/geolocation-cn.yaml
+=======
+>>>>>>> upstream/master
 
 
 感谢以上规则作者的辛勤付出（排名不分先后）。

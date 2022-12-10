@@ -16,15 +16,26 @@
 
 ## 规则统计
 
+<<<<<<< HEAD
 最后更新时间：2022-11-30 21:12:56
+=======
+最后更新时间：2022-12-07 22:40:18
+>>>>>>> upstream/master
 
 各类型规则统计：
 | 类型 | 数量(条)  | 
 | ---- | ----  |
+<<<<<<< HEAD
 | REJECT | 417  | 
 | MITM | 363  | 
 | FORCE-HTTP-ENGINE-HOSTS | 6  | 
 | TOTAL | 786  | 
+=======
+| REJECT | 416  | 
+| MITM | 362  | 
+| FORCE-HTTP-ENGINE-HOSTS | 6  | 
+| TOTAL | 784  | 
+>>>>>>> upstream/master
 
 
 ## Surge 

@@ -1,15 +1,26 @@
 # NAME: Global
 # AUTHOR: blackmatrix7
 # REPO: https://github.com/blackmatrix7/ios_rule_script
+<<<<<<< HEAD
 # UPDATED: 2022-12-02 02:08:30
 # DOMAIN: 171
 # DOMAIN-KEYWORD: 39
 # DOMAIN-SUFFIX: 37343
+=======
+# UPDATED: 2022-12-09 02:09:19
+# DOMAIN: 171
+# DOMAIN-KEYWORD: 39
+# DOMAIN-SUFFIX: 37360
+>>>>>>> upstream/master
 # IP-CIDR: 110
 # IP-CIDR6: 4
 # PROCESS-NAME: 1
 # USER-AGENT: 45
+<<<<<<< HEAD
 # TOTAL: 37713
+=======
+# TOTAL: 37730
+>>>>>>> upstream/master
 abematv.akamaized.net
 amp.akamaized.net
 angle.com.tw
@@ -3225,6 +3236,7 @@ xz.pphimalayanrt.com
 .adsenseformobileapps.com
 .adshoppeevents.com
 .adss.asia
+.adtidy.org
 .adult-cartoon-sex.com
 .adult-empire.com
 .adult-list.com
@@ -3274,6 +3286,10 @@ xz.pphimalayanrt.com
 .advanhost.con.hk
 .advanscene.com
 .adventist.org
+<<<<<<< HEAD
+=======
+.adventofcode.com
+>>>>>>> upstream/master
 .adventuresbydisney.com
 .advertfan.com
 .advertisercommunity.com
@@ -10721,6 +10737,10 @@ xz.pphimalayanrt.com
 .easportsfootballclub.com
 .easportsmma.com
 .easportsworld.com
+<<<<<<< HEAD
+=======
+.east-plus.net
+>>>>>>> upstream/master
 .east.moe
 .eastasiaforum.org
 .eastern-ark.com
@@ -10959,6 +10979,7 @@ xz.pphimalayanrt.com
 .ecusa.anglican.org
 .ecv.ebacc777.com
 .ed1zas.net
+.ed21.cc
 .ed2k.im
 .edah.us
 .eddieyang.com
@@ -11981,6 +12002,10 @@ xz.pphimalayanrt.com
 .falunworld.net
 .fameregistry.com
 .family-sex.me
+<<<<<<< HEAD
+=======
+.family-simulator.io
+>>>>>>> upstream/master
 .family.acethon.com
 .familyfed.org
 .familymart.com.cn
@@ -15916,6 +15941,7 @@ xz.pphimalayanrt.com
 .hybssr.org
 .hyc1324.com
 .hyc1324.xyz
+.hycgm1324.shop
 .hychot4.xyz
 .hyper.co
 .hyper.is
@@ -18201,6 +18227,11 @@ xz.pphimalayanrt.com
 .kuaisantui.cf
 .kuaixian.me
 .kuanyu.host56.com
+<<<<<<< HEAD
+=======
+.kubakuba.global
+.kubakuba1996.com
+>>>>>>> upstream/master
 .kubeacademy.com
 .kubeapps.com
 .kubernetes.io
@@ -22677,6 +22708,10 @@ xz.pphimalayanrt.com
 .oss-me-east-1.aliyuncs.com
 .oss-us-east-1.aliyuncs.com
 .oss-us-west-1.aliyuncs.com
+<<<<<<< HEAD
+=======
+.osxapps.itunes.g.aaplimg.com
+>>>>>>> upstream/master
 .osxdaily.com
 .otaku13.howbbs.com
 .otakuss.com
@@ -26966,6 +27001,7 @@ xz.pphimalayanrt.com
 .spreadporn.org
 .spreadprivacy.com
 .spreadshirt.es
+.spring-plus.net
 .spring.io
 .spring.net
 .spring4u.info
@@ -27558,6 +27594,10 @@ xz.pphimalayanrt.com
 .swag.live
 .swagbucks.com
 .swaghub.cc
+<<<<<<< HEAD
+=======
+.swallow-apple-com.v.aaplimg.com
+>>>>>>> upstream/master
 .swapsmut.com
 .swarajyamag.com
 .sway-cdn.com
@@ -28496,6 +28536,9 @@ xz.pphimalayanrt.com
 .tigerpvp.ga
 .tigervpn.com
 .tik-tokapi.com
+.tiktok.com
+.tiktokcdn.com
+.tiktokv.com
 .tiltbrush.com
 .timc.idv.tw
 .timdir.com
@@ -30850,6 +30893,10 @@ xz.pphimalayanrt.com
 .wap.xinbao6.top
 .wapedia.mobi
 .waplog.com
+<<<<<<< HEAD
+=======
+.wapm.io
+>>>>>>> upstream/master
 .wapsports.tlc178.com
 .waranlov.com
 .warddogs.com
@@ -30868,6 +30915,10 @@ xz.pphimalayanrt.com
 .washingtonpost.com
 .washingtontibet.org
 .waskucity.com
+<<<<<<< HEAD
+=======
+.wasmer.io
+>>>>>>> upstream/master
 .wataru.moe
 .watch-ebay.org
 .watch-my-gf.com
@@ -30944,6 +30995,7 @@ xz.pphimalayanrt.com
 .weareebay.com
 .wearehairy.com
 .wearn.com
+.weather-data.apple.com.akadns.net
 .weather.com.hk
 .weathtown.com
 .weav.xyz
